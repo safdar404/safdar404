@@ -236,19 +236,11 @@ Delivered disaster-risk, agriculture, land, infrastructure and survey data manag
 
 <div align="center">
 
-![Muhammad Safdar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=safdar404&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safdar404&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Followers](https://img.shields.io/github/followers/safdar404?style=for-the-badge&logo=github&label=Followers&color=0A66C2)](https://github.com/safdar404?tab=followers)
+[![Public Repositories](https://img.shields.io/badge/Public_Repositories-20+-17365D?style=for-the-badge&logo=github)](https://github.com/safdar404?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=safdar404&style=for-the-badge&color=0A66C2&label=Profile+Views)](https://github.com/safdar404)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=safdar404&theme=tokyonight&hide_border=true)
-
-### GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=safdar404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
-
-### Top Contributed Repositories
-
-![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=safdar404&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -268,7 +260,5 @@ Delivered disaster-risk, agriculture, land, infrastructure and survey data manag
 ### AI Creates Predictions. Spatial Intelligence Creates Decisions.
 
 Open to collaboration, remote work and opportunities in Data Science, Data Engineering, AI/ML Engineering, Python Development and GeoAI.
-
-![Profile Views](https://komarev.com/ghpvc/?username=safdar404&style=flat-square&color=0A66C2&label=Profile+Views)
 
 </div>
