@@ -1,5 +1,4 @@
-
-# Project Title
+<div align="center">
 
 # Muhammad Safdar
 
@@ -11,6 +10,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-safdar-88b27730)
 [![GitHub](https://img.shields.io/badge/GitHub-safdar404-181717?style=for-the-badge&logo=github)](https://github.com/safdar404)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:safdar404@gmail.com)
+
+</div>
 
 ## About Me
 
@@ -74,7 +75,7 @@ My professional advantage is the combination of strong domain knowledge with mod
 
 ## Selected Python, Data Science & AI Projects
 
-### 1. UCI Heart Disease Machine Learning Analysis
+### 1. [UCI Heart Disease Machine Learning Analysis](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10)
 
 **Technologies:** Python, NumPy, Pandas, Seaborn, Scikit-learn
 
@@ -84,7 +85,7 @@ My professional advantage is the combination of strong domain knowledge with mod
 - Applied regression to predict maximum heart rate.
 - Used K-Means clustering to identify patient groups.
 
-### 2. USA Hospital Capacity & Helipad Analytics
+### 2. [USA Hospital Capacity & Helipad Analytics](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10)
 
 **Technologies:** Pandas, Scikit-learn, Ensemble Learning, Seaborn
 
@@ -94,7 +95,7 @@ My professional advantage is the combination of strong domain knowledge with mod
 - Grouped hospitals by capacity and location using K-Means.
 - Evaluated results with MAE, RMSE, R2, classification reports, confusion matrices and silhouette score.
 
-### 3. Healthcare Stock Time-Series Forecasting
+### 3. [Healthcare Stock Time-Series Forecasting](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10)
 
 **Technologies:** TensorFlow, Keras, SimpleRNN, LSTM, GRU
 
@@ -104,7 +105,7 @@ My professional advantage is the combination of strong domain knowledge with mod
 - Evaluated forecasting performance using MAE and RMSE.
 - Generated next-trading-day closing-price forecasts.
 
-### 4. FDA AI Medical Device Forecasting
+### 4. [FDA AI Medical Device Forecasting](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10)
 
 **Technologies:** Pandas, TensorFlow, Keras, Time Series
 
@@ -113,7 +114,7 @@ My professional advantage is the combination of strong domain knowledge with mod
 - Compared RNN, LSTM and GRU forecasting models.
 - Generated recursive three-month authorization forecasts.
 
-### 5. Multi-Model Prediction Dashboard
+### 5. [Multi-Model Prediction Dashboard](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10)
 
 **Technologies:** Flask, REST APIs, HTML, CSS, JavaScript
 
@@ -121,7 +122,7 @@ My professional advantage is the combination of strong domain knowledge with mod
 - Built JSON prediction endpoints and reusable model-loading logic.
 - Added input validation, result cards, charts and one-click Windows startup.
 
-### 6. LangChain RAG Document Assistant
+### 6. [LangChain RAG Document Assistant](https://github.com/safdar404/LangChain-RAG-Application)
 
 **Technologies:** Python, LangChain, SingleStore, Vector Search
 
@@ -130,7 +131,7 @@ My professional advantage is the combination of strong domain knowledge with mod
 - Developed context-grounded document question answering.
 - Added configurable collection and table handling.
 
-### 7. Pakistan National Flood Intelligence System
+### 7. [Pakistan National Flood Intelligence System](https://github.com/safdar404/pakistan-national-flood-intelligence)
 
 **Technologies:** Python, GeoAI, Risk Analytics, Web Mapping
 
@@ -139,7 +140,7 @@ My professional advantage is the combination of strong domain knowledge with mod
 - Structured district risk, damage-estimation and scenario outputs.
 - Supported interactive maps and preparedness recommendations.
 
-### 8. Predictive Maintenance Model API
+### 8. [Predictive Maintenance Model API](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10)
 
 **Technologies:** Scikit-learn, FastAPI, Uvicorn, Model Serialization
 
@@ -149,6 +150,13 @@ My professional advantage is the combination of strong domain knowledge with mod
 - Tested the API through FastAPI documentation.
 
 > Explore my repositories: [github.com/safdar404](https://github.com/safdar404)
+
+### Additional Public Projects
+
+- [MEP Analyzer](https://github.com/safdar404/mep-analyzer) - Python application for identifying MEP duct types and producing summary reports.
+- [Alfanar MEP OCR](https://github.com/safdar404/alfanar-mep-ocr) - OCR-focused extraction workflow for engineering drawings.
+- [Zarwa Bill Scanner](https://github.com/safdar404/zarwa-bill-scanner) - Automated bill-scanning and structured data-extraction project.
+- [Python Full Stack AI Coursework](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10) - Exercises and applied projects completed during the bootcamp.
 
 ## Relevant Professional Experience
 
@@ -211,9 +219,13 @@ Delivered disaster-risk, agriculture, land, infrastructure and survey data manag
 
 ## GitHub Statistics
 
+<div align="center">
+
 ![Muhammad Safdar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=safdar404&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safdar404&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ## Contact Me
 
@@ -221,12 +233,15 @@ Delivered disaster-risk, agriculture, land, infrastructure and survey data manag
 - LinkedIn: [Muhammad Safdar](https://www.linkedin.com/in/muhammad-safdar-88b27730)
 - GitHub: [github.com/safdar404](https://github.com/safdar404)
 - Portfolio: [safdar404.github.io](https://safdar404.github.io/)
+- Professional website: [smhisresume.com](https://smhisresume.com/)
 - WhatsApp: [+92 322 8792404](https://wa.me/923228792404)
 
 ---
+
+<div align="center">
 
 ### AI Creates Predictions. Spatial Intelligence Creates Decisions.
 
 Open to collaboration, remote work and opportunities in Data Science, Data Engineering, AI/ML Engineering, Python Development and GeoAI.
 
-
+</div>
