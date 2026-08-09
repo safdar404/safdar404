@@ -26,6 +26,21 @@ My professional advantage is the combination of strong domain knowledge with mod
 
 ## Technical Skills
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+</div>
+
 ### Python & Data Science
 
 - Python, object-oriented programming, functions and reusable modules
@@ -225,6 +240,16 @@ Delivered disaster-risk, agriculture, land, infrastructure and survey data manag
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safdar404&layout=compact&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=safdar404&theme=tokyonight&hide_border=true)
+
+### GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=safdar404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
+
+### Top Contributed Repositories
+
+![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=safdar404&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 </div>
 
 ## Contact Me
@@ -243,5 +268,7 @@ Delivered disaster-risk, agriculture, land, infrastructure and survey data manag
 ### AI Creates Predictions. Spatial Intelligence Creates Decisions.
 
 Open to collaboration, remote work and opportunities in Data Science, Data Engineering, AI/ML Engineering, Python Development and GeoAI.
+
+![Profile Views](https://komarev.com/ghpvc/?username=safdar404&style=flat-square&color=0A66C2&label=Profile+Views)
 
 </div>
