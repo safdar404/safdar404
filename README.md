@@ -192,8 +192,6 @@ AI-assisted CAD, BIM, GIS and building-design workflow concept localized for Pak
 [![Repositories](https://img.shields.io/badge/PUBLIC_REPOSITORIES-20%2B-e7be5c?style=for-the-badge&logo=github&logoColor=180b29)](https://github.com/safdar404?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=safdar404&style=for-the-badge&color=9b6bce&label=PROFILE+VIEWS)](https://github.com/safdar404)
 
-<img src="https://streak-stats.demolab.com/?user=safdar404&theme=midnight-purple&hide_border=true&ring=E7BE5C&fire=E7BE5C&currStreakLabel=E7BE5C" alt="Muhammad Safdar GitHub contribution streak" />
-
 </div>
 
 ## Let’s Connect
