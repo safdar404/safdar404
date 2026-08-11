@@ -201,7 +201,7 @@ AI-assisted CAD, BIM, GIS and building-design workflow concept localized for Pak
 
 | Period | Role & Organization | Selected Contribution |
 |---|---|---|
-| **2025—Present** | **GIS Specialist · Professional Geo Tech Services FZC LLC** | NWC Riyadh wastewater mapping, infrastructure/GNSS delivery and environmental spatial analysis across KSA/UAE assignments |
+| **2025—Present** | **GIS & GeoAI Specialist · Professional Geo Tech Services FZC LLC** | NWC Riyadh wastewater mapping, infrastructure/GNSS delivery and environmental spatial analysis across KSA/UAE assignments |
 | **2023—2025** | **GIS Expert · TerraSense Consulting** | GeoAI land-cover workflows, satellite crop intelligence, wheat estimation and predictive analysis |
 | **2021—2023** | **GIS Specialist · FGEHA, Islamabad** | Enterprise geodatabases, CAD-to-GIS transformation, topology QA and training of 20+ personnel |
 | **2019—2021** | **GIS Manager · Kernel Seeds Corporation** | Agricultural GIS, crop analysis, geospatial repositories and data governance |
@@ -229,6 +229,8 @@ AI-assisted CAD, BIM, GIS and building-design workflow concept localized for Pak
 - **AWS Cloud Practitioner Essentials** — AWS, 2026
 - **Remote Pilot Certificate** — GACA, Saudi Arabia
 - **Esri Spatial Data Science, Imagery and Cartography Training**
+
+**Languages:** English · Urdu · Punjabi
 
 ## GitHub Activity
 
