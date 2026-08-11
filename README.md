@@ -1,264 +1,211 @@
 <div align="center">
 
-# Muhammad Safdar
+<img src="./profile-banner.svg" alt="Muhammad Safdar — Data Science, AI/ML, GeoAI and Spatial Intelligence" width="100%" />
 
-### Data Scientist | Data Engineer | AI/ML Engineer
+<br/>
 
-**Python Full Stack with AI | GeoAI & Spatial Intelligence Specialist**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-17365D?style=for-the-badge)](https://safdar404.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-safdar-88b27730)
-[![GitHub](https://img.shields.io/badge/GitHub-safdar404-181717?style=for-the-badge&logo=github)](https://github.com/safdar404)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:safdar404@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-e7be5c?style=for-the-badge&logo=githubpages&logoColor=180b29)](https://safdar404.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-9b6bce?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-safdar-88b27730)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-e7be5c?style=for-the-badge&logo=gmail&logoColor=180b29)](mailto:safdar404@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-MESSAGE-9b6bce?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923228792404)
 
 </div>
 
-## About Me
+## Executive Profile
 
-I am a Python data and AI practitioner with **10+ years of experience working with complex geospatial, infrastructure, environmental, disaster-risk, agriculture, satellite, UAV and survey datasets**. I have completed professional training in **Python Full Stack with AI** and build end-to-end analytical workflows covering data collection, data cleaning, exploratory data analysis, machine learning, deep learning, time-series forecasting, retrieval-augmented generation, APIs and interactive dashboards.
+I am a **Data Scientist, AI/ML Engineer and GeoAI Specialist** with **10+ years of professional experience** transforming complex geospatial, infrastructure, environmental, disaster-risk, agriculture, satellite, UAV and survey data into reliable operational intelligence.
 
-My professional advantage is the combination of strong domain knowledge with modern Python and AI engineering. I transform complex datasets into validated models, automated workflows, visual analytics and decision-support solutions.
+My work connects **domain expertise** with **Python, machine learning, data engineering, computer vision, RAG, APIs, cloud platforms and enterprise GIS**. I build solutions that move from raw data and imagery to validated analysis, interactive applications and decision-ready outputs.
 
-- Based in Pakistan
-- Open to remote opportunities and relocation
-- Strengthening production AI, data engineering and MLOps capabilities
-- Interested in Data Science, Data Engineering, AI/ML Engineering, GeoAI and Python development
+<table>
+<tr>
+<td align="center"><b>10+ Years</b><br/><sub>Professional delivery</sub></td>
+<td align="center"><b>20+ Staff</b><br/><sub>Trained in GIS workflows</sub></td>
+<td align="center"><b>6 Live Systems</b><br/><sub>Public project demonstrations</sub></td>
+<td align="center"><b>Pakistan · GCC · Global</b><br/><sub>Open to opportunities</sub></td>
+</tr>
+</table>
 
-## Technical Skills
+> **Current focus:** Production AI, Data Engineering, GeoAI, RAG systems, computer vision, intelligent APIs and decision-support platforms.
+
+## Technology Ecosystem
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+### Data Science & AI
+
+![Python](https://img.shields.io/badge/Python-24123e?style=flat-square&logo=python&logoColor=f0bf55)
+![Pandas](https://img.shields.io/badge/Pandas-24123e?style=flat-square&logo=pandas&logoColor=f0bf55)
+![NumPy](https://img.shields.io/badge/NumPy-24123e?style=flat-square&logo=numpy&logoColor=f0bf55)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-24123e?style=flat-square&logo=scikitlearn&logoColor=f0bf55)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-24123e?style=flat-square&logo=tensorflow&logoColor=f0bf55)
+![OpenCV](https://img.shields.io/badge/OpenCV-24123e?style=flat-square&logo=opencv&logoColor=f0bf55)
+![LangChain](https://img.shields.io/badge/LangChain-24123e?style=flat-square&logo=langchain&logoColor=f0bf55)
+
+### Data Engineering, APIs & Cloud
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2b1748?style=flat-square&logo=postgresql&logoColor=f4d680)
+![SingleStore](https://img.shields.io/badge/SingleStore-2b1748?style=flat-square&logo=singlestore&logoColor=f4d680)
+![FastAPI](https://img.shields.io/badge/FastAPI-2b1748?style=flat-square&logo=fastapi&logoColor=f4d680)
+![Flask](https://img.shields.io/badge/Flask-2b1748?style=flat-square&logo=flask&logoColor=f4d680)
+![Docker](https://img.shields.io/badge/Docker-2b1748?style=flat-square&logo=docker&logoColor=f4d680)
+![AWS](https://img.shields.io/badge/AWS-2b1748?style=flat-square&logo=amazonwebservices&logoColor=f4d680)
+![Azure](https://img.shields.io/badge/Azure-2b1748?style=flat-square&logo=microsoftazure&logoColor=f4d680)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-2b1748?style=flat-square&logo=googlecloud&logoColor=f4d680)
+
+### Spatial Intelligence & Engineering
+
+![ArcGIS](https://img.shields.io/badge/ArcGIS-321a51?style=flat-square&logo=esri&logoColor=f7df91)
+![QGIS](https://img.shields.io/badge/QGIS-321a51?style=flat-square&logo=qgis&logoColor=f7df91)
+![PostGIS](https://img.shields.io/badge/PostGIS-321a51?style=flat-square&logo=postgresql&logoColor=f7df91)
+![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-321a51?style=flat-square&logo=googleearth&logoColor=f7df91)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-321a51?style=flat-square&logo=autodesk&logoColor=f7df91)
+![Power BI](https://img.shields.io/badge/Power_BI-321a51?style=flat-square&logo=powerbi&logoColor=f7df91)
+![FME](https://img.shields.io/badge/FME-321a51?style=flat-square&logoColor=f7df91)
+![GNSS · UAV · Remote Sensing](https://img.shields.io/badge/GNSS_·_UAV_·_Remote_Sensing-321a51?style=flat-square&logoColor=f7df91)
 
 </div>
 
-### Python & Data Science
+## Featured Live Systems
 
-- Python, object-oriented programming, functions and reusable modules
-- NumPy arrays, vectorized calculations, statistics and linear algebra operations
-- Pandas DataFrames, joins, aggregation, groupby, reshaping and datetime analysis
-- Data cleaning, missing-value treatment, duplicate removal and outlier handling
-- Descriptive and inferential statistics, correlation, covariance and probability
-- Exploratory data analysis and business interpretation
-- Matplotlib and Seaborn for statistical and presentation-ready visualization
-- Jupyter Notebook and VS Code
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Machine Learning
+### 🌊 Pakistan Flood Intelligence
 
-- Scikit-learn
-- Linear Regression and Logistic Regression
-- Decision Trees, Random Forest and Support Vector Machines
-- Gradient Boosting, voting classifiers and voting regressors
-- K-Means, hierarchical clustering and DBSCAN
-- PCA, anomaly detection and feature engineering
-- Scaling, encoding, imputation and train-test validation
-- Accuracy, precision, recall, F1, confusion matrix and ROC-AUC
-- MAE, MSE, RMSE and R2 evaluation
+GeoAI decision-support demonstration connecting hazard indicators, population and crop exposure, preparedness and interactive risk communication.
 
-### Deep Learning, Generative AI & RAG
+**Python · GeoAI · Risk Analytics · Web Mapping**
 
-- TensorFlow and Keras
-- Dense neural networks and CNN concepts
-- SimpleRNN, LSTM and GRU sequence models
-- Dropout, regularization and optimization
-- Transformers and prompt engineering
-- Hugging Face models and embeddings
-- LangChain chains, agents and memory
-- Retrieval-Augmented Generation for document question answering
-- Course exposure to transfer learning, GANs, VAEs, PEFT and QLoRA
+[![Live](https://img.shields.io/badge/OPEN_LIVE_SYSTEM-e7be5c?style=flat-square&logoColor=180b29)](https://pakistan-flood-intelligence-2026.neat-grove-8624.chatgpt.site/)
+[![Source](https://img.shields.io/badge/SOURCE-24123e?style=flat-square&logo=github)](https://github.com/safdar404/pakistan-national-flood-intelligence)
 
-### Data Engineering & Deployment
+</td>
+<td width="50%" valign="top">
 
-- ETL-style data ingestion, transformation, merging and validation
-- CSV, Excel, JSON, REST API and web-scraped data processing
-- BeautifulSoup and Selenium
-- SQL, PostgreSQL, SQLite and SingleStore
-- Relational and vector-database concepts
-- Flask, FastAPI, Streamlit and Gradio
-- Model serialization and prediction APIs
-- HTML, CSS and JavaScript dashboard integration
-- Git, GitHub and API testing
+### 🏗️ MEP Scanner System
 
-## Selected Python, Data Science & AI Projects
+Engineering-document intelligence workflow for drawing ingestion, OCR-assisted extraction and structured MEP findings.
 
-### 1. [UCI Heart Disease Machine Learning Analysis](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10)
+**OCR · Computer Vision · Engineering AI · Data Extraction**
 
-**Technologies:** Python, NumPy, Pandas, Seaborn, Scikit-learn
+[![Live](https://img.shields.io/badge/OPEN_LIVE_SYSTEM-e7be5c?style=flat-square&logoColor=180b29)](https://mep-scanner-system.neat-grove-8624.chatgpt.site)
+[![Source](https://img.shields.io/badge/SOURCE-24123e?style=flat-square&logo=github)](https://github.com/safdar404/alfanar-mep-ocr)
 
-- Cleaned and analyzed 918 patient records.
-- Produced descriptive statistics, exploratory charts and reproducible preprocessing.
-- Compared classification models and a voting ensemble with about 82% test accuracy.
-- Applied regression to predict maximum heart rate.
-- Used K-Means clustering to identify patient groups.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 2. [USA Hospital Capacity & Helipad Analytics](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10)
+### 🧾 HIS Bill Scanner
 
-**Technologies:** Pandas, Scikit-learn, Ensemble Learning, Seaborn
+Responsive bill and receipt processing demonstration with image input, OCR review, structured fields and export-ready results.
 
-- Processed 7,570 hospital records.
-- Built hospital bed-capacity regression models.
-- Developed helipad-availability classification.
-- Grouped hospitals by capacity and location using K-Means.
-- Evaluated results with MAE, RMSE, R2, classification reports, confusion matrices and silhouette score.
+**Document AI · OCR · Responsive UI · Structured Data**
 
-### 3. [Healthcare Stock Time-Series Forecasting](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10)
+[![Live](https://img.shields.io/badge/OPEN_LIVE_SYSTEM-e7be5c?style=flat-square&logoColor=180b29)](https://his-bill-scanner.neat-grove-8624.chatgpt.site)
+[![Source](https://img.shields.io/badge/SOURCE-24123e?style=flat-square&logo=github)](https://github.com/safdar404/zarwa-bill-scanner)
 
-**Technologies:** TensorFlow, Keras, SimpleRNN, LSTM, GRU
+</td>
+<td width="50%" valign="top">
 
-- Prepared more than 5,800 chronologically ordered UnitedHealth daily records.
-- Created 30-day rolling input sequences.
-- Built and compared SimpleRNN, LSTM and GRU models.
-- Evaluated forecasting performance using MAE and RMSE.
-- Generated next-trading-day closing-price forecasts.
+### 📚 LangChain RAG Assistant
 
-### 4. [FDA AI Medical Device Forecasting](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10)
+Document ingestion, chunking, vector retrieval and evidence-grounded question answering in an interactive environment.
 
-**Technologies:** Pandas, TensorFlow, Keras, Time Series
+**Python · LangChain · SingleStore · Vector Search**
 
-- Converted FDA device decisions into a complete monthly authorization series.
-- Visualized historical and rolling trends.
-- Compared RNN, LSTM and GRU forecasting models.
-- Generated recursive three-month authorization forecasts.
+[![Live](https://img.shields.io/badge/OPEN_LIVE_SYSTEM-e7be5c?style=flat-square&logoColor=180b29)](https://langchain-rag-document-assistant.neat-grove-8624.chatgpt.site)
+[![Source](https://img.shields.io/badge/SOURCE-24123e?style=flat-square&logo=github)](https://github.com/safdar404/LangChain-RAG-Application)
 
-### 5. Multi-Model Prediction Dashboard — [Live App](https://prediction-api-dashboard-hub.neat-grove-8624.chatgpt.site) · [Source Code](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Technologies:** Python, scikit-learn, TensorFlow, FastAPI, Flask, REST APIs, HTML, CSS, JavaScript
+### 📊 Prediction Studio
 
-- Built four interactive modules for heart-disease risk, hospital capacity, healthcare stock and FDA device forecasting.
-- Added model-specific validated inputs, instant prediction outputs, trend visuals and clear model explanations.
-- Presented REST-style prediction endpoints, model metrics and responsive dashboards in one live workspace.
-- Designed the project as a transparent educational assessment demonstration.
+Four distinct interactive workflows for heart-risk classification, hospital-capacity regression, healthcare-stock forecasting and FDA device forecasting.
 
-### 6. LangChain RAG Document Assistant — [Live App](https://langchain-rag-document-assistant.neat-grove-8624.chatgpt.site) · [Source Code](https://github.com/safdar404/LangChain-RAG-Application)
+**scikit-learn · TensorFlow · FastAPI · Interactive UI**
 
-**Technologies:** Python, LangChain, SingleStore, Vector Search
+[![Live](https://img.shields.io/badge/OPEN_LIVE_SYSTEM-e7be5c?style=flat-square&logoColor=180b29)](https://prediction-api-dashboard-hub.neat-grove-8624.chatgpt.site)
+[![Source](https://img.shields.io/badge/SOURCE-24123e?style=flat-square&logo=github)](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10)
 
-- Built document ingestion, chunking and embedding workflows.
-- Stored and retrieved vectors using SingleStore.
-- Developed context-grounded document question answering.
-- Added configurable collection and table handling.
+</td>
+<td width="50%" valign="top">
 
-### 7. [Pakistan National Flood Intelligence System](https://github.com/safdar404/pakistan-national-flood-intelligence)
+### 🏙️ Planora AI
 
-**Technologies:** Python, GeoAI, Risk Analytics, Web Mapping
+AI-assisted CAD, BIM, GIS and building-design workflow concept localized for Pakistan’s architecture and property ecosystem.
 
-- Designed a flood decision-support prototype.
-- Combined flood indicators with population and crop exposure.
-- Structured district risk, damage-estimation and scenario outputs.
-- Supported interactive maps and preparedness recommendations.
+**CAD · BIM · GIS · AI Automation · PropTech**
 
-### 8. [Predictive Maintenance Model API](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10)
+[![Live](https://img.shields.io/badge/OPEN_LIVE_PLATFORM-e7be5c?style=flat-square&logoColor=180b29)](https://ai-cad-bim-flow.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/CASE_STUDY-24123e?style=flat-square&logo=githubpages)](https://safdar404.github.io/#projects)
 
-**Technologies:** Scikit-learn, FastAPI, Uvicorn, Model Serialization
+</td>
+</tr>
+</table>
 
-- Trained and serialized a predictive-maintenance regression model.
-- Exposed inference through a validated POST prediction endpoint.
-- Implemented portable project-relative model paths.
-- Tested the API through FastAPI documentation.
+> Live applications are public professional demonstrations. Employer and client projects are summarized separately to protect confidential information.
 
-> Explore my repositories: [github.com/safdar404](https://github.com/safdar404)
+## Professional Delivery
 
-### Additional Public Projects
+| Period | Role & Organization | Selected Contribution |
+|---|---|---|
+| **2025—Present** | **GIS Specialist · Professional Geo Tech Services FZC LLC** | NWC Riyadh wastewater mapping, infrastructure/GNSS delivery and environmental spatial analysis across KSA/UAE assignments |
+| **2023—2025** | **GIS Expert · TerraSense Consulting** | GeoAI land-cover workflows, satellite crop intelligence, wheat estimation and predictive analysis |
+| **2021—2023** | **GIS Specialist · FGEHA, Islamabad** | Enterprise geodatabases, CAD-to-GIS transformation, topology QA and training of 20+ personnel |
+| **2019—2021** | **GIS Manager · Kernel Seeds Corporation** | Agricultural GIS, crop analysis, geospatial repositories and data governance |
+| **2017—2019** | **GIS Manager · PDMA Punjab** | Chenab/Sutlej flood intelligence, exposure analysis and emergency situation mapping |
+| **2012—2017** | **GIS Professional · The Urban Unit & Loyal Consultants** | Urban, land, infrastructure, survey GIS, spatial databases and cartographic production |
 
-- **MEP Scanner System** — Professional multilingual drawing-intelligence workspace for extracting MEP components, duct sizes, airflow values, BOD levels and equipment tags, with QA review and structured exports. [Open Live App](https://mep-scanner-system.neat-grove-8624.chatgpt.site) · [Source Code](https://github.com/safdar404/alfanar-mep-ocr)
-- **HIS Bill Scanner** — Responsive real-time receipt and invoice OCR application with structured bill fields, editable review results and CSV export. [Open Live App](https://his-bill-scanner.neat-grove-8624.chatgpt.site) · [Source Code](https://github.com/safdar404/zarwa-bill-scanner)
-- [Python Full Stack AI Coursework](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10) - Exercises and applied projects completed during the bootcamp.
+## Core Capabilities
 
-## Relevant Professional Experience
+<table>
+<tr>
+<td width="33%" valign="top"><b>AI & Data Science</b><br/><sub>EDA, feature engineering, classification, regression, clustering, forecasting, neural networks, model evaluation and explainable outputs.</sub></td>
+<td width="33%" valign="top"><b>Data Engineering</b><br/><sub>ETL, SQL, APIs, structured and vector databases, validation, automation, reusable Python modules and deployment workflows.</sub></td>
+<td width="33%" valign="top"><b>GeoAI & Spatial Systems</b><br/><sub>Enterprise GIS, remote sensing, UAV/GNSS, spatial analysis, web mapping, disaster intelligence, CAD/BIM-to-GIS and decision support.</sub></td>
+</tr>
+</table>
 
-### GIS & GeoAI Specialist | Professional Geo Tech Services FZC LLC
+## Education & Selected Credentials
 
-**February 2025 - Present**
+- **MSc Geographic Information Systems** — University of the Punjab, Lahore
+- **BSc Computer Science, Economics & Statistics** — The Islamia University of Bahawalpur
+- **Python with Full Stack AI** — NexSkills, 2026
+- **Artificial Intelligence Using Python** — DigiSkills, 2026
+- **Data Analytics & Business Intelligence** — DigiSkills, 2026
+- **Python Essentials 1** — Cisco Networking Academy, 2026
+- **AWS Cloud Practitioner Essentials** — AWS, 2026
+- **Remote Pilot Certificate** — GACA, Saudi Arabia
+- **Esri Spatial Data Science, Imagery and Cartography Training**
 
-- Structure, validate and analyze infrastructure, wastewater, survey and environmental datasets.
-- Integrate tabular, geospatial and GNSS-derived data into repeatable analytical workflows.
-- Produce quality-controlled datasets and decision-support outputs.
-
-### GIS Expert | TerraSense Consulting Pvt. Ltd.
-
-**December 2023 - January 2025**
-
-- Performed GeoAI, remote-sensing and predictive analysis.
-- Supported land-use classification and crop/wheat estimation.
-- Prepared and interpreted multi-source datasets for analytical reporting.
-
-### GIS Specialist | FGEHA, Islamabad
-
-**March 2021 - September 2023**
-
-- Managed enterprise geodatabases and CAD-to-GIS conversion.
-- Performed topology validation and attribute quality assurance.
-- Developed repeatable ArcPy/Python-oriented workflows.
-- Trained more than 20 personnel in geospatial data processes.
-
-### Earlier GIS Data & Analytics Roles
-
-**PDMA Punjab, Kernel Seeds Corporation, The Urban Unit and Consulting | 2012 - 2021**
-
-Delivered disaster-risk, agriculture, land, infrastructure and survey data management, analysis, mapping and quality-assurance solutions.
-
-## Education
-
-- **MSc Geographic Information Systems** - University of the Punjab, Lahore | 2009-2011
-- **BSc Computer Science, Economics & Statistics** - The Islamia University of Bahawalpur | 2006-2008
-
-## Certifications & Professional Training
-
-- Python with Full Stack AI - NexSkills | 2026
-- Artificial Intelligence Using Python - DigiSkills | 2026
-- Python Essentials 1 - Cisco Networking Academy | 2026
-- Data Analytics & Business Intelligence - DigiSkills | 2026
-- The Complete PL/SQL Bootcamp - Udemy | 2026
-- AWS Cloud Practitioner Essentials - AWS | 2026
-- Generative AI with Diffusion Models - AWS | 2026
-- Esri Spatial Data Science and Remote Sensing training
-- Project Management, Agile and Scrum training
-
-## Current Learning Focus
-
-- Production machine-learning pipelines
-- Advanced SQL and data engineering
-- LLM agents, RAG evaluation and vector databases
-- Computer vision and GeoAI
-- Docker, cloud deployment, CI/CD and MLOps
-- AI automation and intelligent decision-support applications
-
-## GitHub Statistics
+## GitHub Activity
 
 <div align="center">
 
-[![GitHub Followers](https://img.shields.io/github/followers/safdar404?style=for-the-badge&logo=github&label=Followers&color=0A66C2)](https://github.com/safdar404?tab=followers)
-[![Public Repositories](https://img.shields.io/badge/Public_Repositories-20+-17365D?style=for-the-badge&logo=github)](https://github.com/safdar404?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=safdar404&style=for-the-badge&color=0A66C2&label=Profile+Views)](https://github.com/safdar404)
+[![Followers](https://img.shields.io/github/followers/safdar404?style=for-the-badge&logo=github&label=FOLLOWERS&color=9b6bce)](https://github.com/safdar404?tab=followers)
+[![Repositories](https://img.shields.io/badge/PUBLIC_REPOSITORIES-20%2B-e7be5c?style=for-the-badge&logo=github&logoColor=180b29)](https://github.com/safdar404?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=safdar404&style=for-the-badge&color=9b6bce&label=PROFILE+VIEWS)](https://github.com/safdar404)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=safdar404&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=safdar404&theme=midnight-purple&hide_border=true&ring=E7BE5C&fire=E7BE5C&currStreakLabel=E7BE5C" alt="Muhammad Safdar GitHub contribution streak" />
 
 </div>
 
-## Contact Me
-
-- Email: [safdar404@gmail.com](mailto:safdar404@gmail.com)
-- LinkedIn: [Muhammad Safdar](https://www.linkedin.com/in/muhammad-safdar-88b27730)
-- GitHub: [github.com/safdar404](https://github.com/safdar404)
-- Portfolio: [safdar404.github.io](https://safdar404.github.io/)
-- Professional website: [smhisresume.com](https://smhisresume.com/)
-- WhatsApp: [+92 322 8792404](https://wa.me/923228792404)
-
----
+## Let’s Connect
 
 <div align="center">
 
-### AI Creates Predictions. Spatial Intelligence Creates Decisions.
+### Building reliable intelligence for real-world decisions.
 
-Open to collaboration, remote work and opportunities in Data Science, Data Engineering, AI/ML Engineering, Python Development and GeoAI.
+**Open to Data Science, Data Engineering, AI/ML Engineering, Python, GIS, GeoAI and technical leadership opportunities in Pakistan, the GCC and globally.**
+
+[Portfolio](https://safdar404.github.io/) · [LinkedIn](https://www.linkedin.com/in/muhammad-safdar-88b27730) · [Email](mailto:safdar404@gmail.com) · [WhatsApp](https://wa.me/923228792404) · [SMHIS Resume](https://smhisresume.com/)
+
+<sub>AI creates predictions. Spatial intelligence creates decisions.</sub>
 
 </div>
