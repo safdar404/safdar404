@@ -129,13 +129,14 @@ My professional advantage is the combination of strong domain knowledge with mod
 - Compared RNN, LSTM and GRU forecasting models.
 - Generated recursive three-month authorization forecasts.
 
-### 5. [Multi-Model Prediction Dashboard](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10)
+### 5. Multi-Model Prediction Dashboard — [Live App](https://prediction-api-dashboard-hub.neat-grove-8624.chatgpt.site) · [Source Code](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10)
 
-**Technologies:** Flask, REST APIs, HTML, CSS, JavaScript
+**Technologies:** Python, scikit-learn, TensorFlow, FastAPI, Flask, REST APIs, HTML, CSS, JavaScript
 
-- Developed responsive dashboards for heart disease, hospitals, stock prices and FDA forecasts.
-- Built JSON prediction endpoints and reusable model-loading logic.
-- Added input validation, result cards, charts and one-click Windows startup.
+- Built four interactive modules for heart-disease risk, hospital capacity, healthcare stock and FDA device forecasting.
+- Added model-specific validated inputs, instant prediction outputs, trend visuals and clear model explanations.
+- Presented REST-style prediction endpoints, model metrics and responsive dashboards in one live workspace.
+- Designed the project as a transparent educational assessment demonstration.
 
 ### 6. LangChain RAG Document Assistant — [Live App](https://langchain-rag-document-assistant.neat-grove-8624.chatgpt.site) · [Source Code](https://github.com/safdar404/LangChain-RAG-Application)
 
