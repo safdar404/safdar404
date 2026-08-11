@@ -137,7 +137,7 @@ My professional advantage is the combination of strong domain knowledge with mod
 - Built JSON prediction endpoints and reusable model-loading logic.
 - Added input validation, result cards, charts and one-click Windows startup.
 
-### 6. [LangChain RAG Document Assistant](https://github.com/safdar404/LangChain-RAG-Application)
+### 6. LangChain RAG Document Assistant — [Live App](https://langchain-rag-document-assistant.neat-grove-8624.chatgpt.site) · [Source Code](https://github.com/safdar404/LangChain-RAG-Application)
 
 **Technologies:** Python, LangChain, SingleStore, Vector Search
 
