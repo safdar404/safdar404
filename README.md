@@ -169,8 +169,8 @@ My professional advantage is the combination of strong domain knowledge with mod
 ### Additional Public Projects
 
 - [MEP Analyzer](https://github.com/safdar404/mep-analyzer) - Python application for identifying MEP duct types and producing summary reports.
-- [MEP Scanner System](https://github.com/safdar404/alfanar-mep-ocr) - Professional OCR system for extracting MEP components, duct sizes, airflow values and equipment tags from engineering drawings.
-- [Zarwa Bill Scanner](https://github.com/safdar404/zarwa-bill-scanner) - Automated bill-scanning and structured data-extraction project.
+- **MEP Scanner System** — Professional multilingual drawing-intelligence workspace for extracting MEP components, duct sizes, airflow values, BOD levels and equipment tags, with QA review and structured exports. [Open Live App](https://mep-scanner-system.neat-grove-8624.chatgpt.site) · [Source Code](https://github.com/safdar404/alfanar-mep-ocr)
+- **HIS Bill Scanner** — Responsive real-time receipt and invoice OCR application with structured bill fields, editable review results and CSV export. [Open Live App](https://his-bill-scanner.neat-grove-8624.chatgpt.site) · [Source Code](https://github.com/safdar404/zarwa-bill-scanner)
 - [Python Full Stack AI Coursework](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10) - Exercises and applied projects completed during the bootcamp.
 
 ## Relevant Professional Experience
