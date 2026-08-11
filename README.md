@@ -74,14 +74,41 @@ My work connects **domain expertise** with **Python, machine learning, data engi
 
 ### Spatial Intelligence & Engineering
 
-![ArcGIS](https://img.shields.io/badge/ArcGIS-321a51?style=flat-square&logo=esri&logoColor=f7df91)
+<sub><b>GIS, Remote Sensing & Photogrammetry</b></sub><br/>
+
+![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-321a51?style=flat-square&logo=esri&logoColor=f7df91)
+![ArcGIS Enterprise](https://img.shields.io/badge/ArcGIS_Enterprise-321a51?style=flat-square&logo=esri&logoColor=f7df91)
 ![QGIS](https://img.shields.io/badge/QGIS-321a51?style=flat-square&logo=qgis&logoColor=f7df91)
-![PostGIS](https://img.shields.io/badge/PostGIS-321a51?style=flat-square&logo=postgresql&logoColor=f7df91)
+![ERDAS IMAGINE](https://img.shields.io/badge/ERDAS_IMAGINE-321a51?style=flat-square&logoColor=f7df91)
+![Agisoft Metashape](https://img.shields.io/badge/Agisoft_Metashape-321a51?style=flat-square&logoColor=f7df91)
 ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-321a51?style=flat-square&logo=googleearth&logoColor=f7df91)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-321a51?style=flat-square&logo=autodesk&logoColor=f7df91)
-![Power BI](https://img.shields.io/badge/Power_BI-321a51?style=flat-square&logo=powerbi&logoColor=f7df91)
+![PostGIS](https://img.shields.io/badge/PostGIS-321a51?style=flat-square&logo=postgresql&logoColor=f7df91)
 ![FME](https://img.shields.io/badge/FME-321a51?style=flat-square&logoColor=f7df91)
-![GNSS · UAV · Remote Sensing](https://img.shields.io/badge/GNSS_·_UAV_·_Remote_Sensing-321a51?style=flat-square&logoColor=f7df91)
+![GNSS · RTK · PPK](https://img.shields.io/badge/GNSS_·_RTK_·_PPK-321a51?style=flat-square&logoColor=f7df91)
+![UAV Photogrammetry](https://img.shields.io/badge/UAV_Photogrammetry-321a51?style=flat-square&logoColor=f7df91)
+![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-321a51?style=flat-square&logoColor=f7df91)
+
+<sub><b>CAD, BIM & Engineering Integration</b></sub><br/>
+
+![AutoCAD](https://img.shields.io/badge/AutoCAD-3a205c?style=flat-square&logo=autodesk&logoColor=f7df91)
+![Civil 3D](https://img.shields.io/badge/Civil_3D-3a205c?style=flat-square&logo=autodesk&logoColor=f7df91)
+![BIM](https://img.shields.io/badge/BIM-3a205c?style=flat-square&logo=autodesk&logoColor=f7df91)
+![IFC · BIM-to-GIS](https://img.shields.io/badge/IFC_·_BIM--to--GIS-3a205c?style=flat-square&logo=autodesk&logoColor=f7df91)
+![CAD-to-GIS](https://img.shields.io/badge/CAD--to--GIS-3a205c?style=flat-square&logo=esri&logoColor=f7df91)
+![Power BI](https://img.shields.io/badge/Power_BI-3a205c?style=flat-square&logo=powerbi&logoColor=f7df91)
+
+<sub><b>Python Geospatial Libraries</b></sub><br/>
+
+![ArcPy](https://img.shields.io/badge/ArcPy-422568?style=flat-square&logo=esri&logoColor=f7df91)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-422568?style=flat-square&logo=geopandas&logoColor=f7df91)
+![GDAL](https://img.shields.io/badge/GDAL-422568?style=flat-square&logo=python&logoColor=f7df91)
+![Rasterio](https://img.shields.io/badge/Rasterio-422568?style=flat-square&logo=python&logoColor=f7df91)
+![Shapely](https://img.shields.io/badge/Shapely-422568?style=flat-square&logo=python&logoColor=f7df91)
+![Fiona](https://img.shields.io/badge/Fiona-422568?style=flat-square&logo=python&logoColor=f7df91)
+![PyProj](https://img.shields.io/badge/PyProj-422568?style=flat-square&logo=python&logoColor=f7df91)
+![Folium](https://img.shields.io/badge/Folium-422568?style=flat-square&logo=leaflet&logoColor=f7df91)
+![Leaflet](https://img.shields.io/badge/Leaflet-422568?style=flat-square&logo=leaflet&logoColor=f7df91)
+![GeoJSON](https://img.shields.io/badge/GeoJSON-422568?style=flat-square&logo=json&logoColor=f7df91)
 
 </div>
 
