@@ -193,6 +193,19 @@ AI-assisted CAD, BIM, GIS and building-design workflow concept localized for Pak
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🤖 HIS AI Solutions — Agentic AI & GeoAI Platform
+
+A live AI solutions platform presenting autonomous agent workflows, AI engineering, analytics, consulting, GeoAI, Python automation and multi-cloud capabilities across business, engineering, healthcare and other industries.
+
+**Agentic AI · AI Agents · GeoAI · Python · AWS · Azure · Google Cloud**
+
+[![Live](https://img.shields.io/badge/OPEN_LIVE_PLATFORM-e7be5c?style=flat-square&logoColor=180b29)](https://geo-ai-agent-forge.lovable.app/)
+
+</td>
+</tr>
 </table>
 
 > Live applications are public professional demonstrations. Employer and client projects are summarized separately to protect confidential information.
