@@ -202,7 +202,7 @@ A live AI solutions platform presenting autonomous agent workflows, AI engineeri
 
 **Agentic AI · AI Agents · GeoAI · Python · AWS · Azure · Google Cloud**
 
-[![Live](https://img.shields.io/badge/OPEN_LIVE_PLATFORM-e7be5c?style=flat-square&logoColor=180b29)](https://geo-ai-agent-forge.lovable.app/)
+[![Live](https://img.shields.io/badge/OPEN_LIVE_PLATFORM-e7be5c?style=flat-square&logoColor=180b29)](https://his-ai-agentic-solutions.lovable.app/)
 
 </td>
 </tr>
