@@ -9,7 +9,17 @@
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-e7be5c?style=for-the-badge&logo=gmail&logoColor=180b29)](mailto:safdar404@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-MESSAGE-9b6bce?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923228792404)
 
+<br/>
+
+[![Followers](https://img.shields.io/github/followers/safdar404?style=flat-square&logo=github&label=FOLLOWERS&color=9b6bce)](https://github.com/safdar404?tab=followers)
+[![Total Stars](https://img.shields.io/github/stars/safdar404?affiliations=OWNER&style=flat-square&logo=github&label=TOTAL%20STARS&color=e7be5c)](https://github.com/safdar404?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=safdar404&style=flat-square&color=9b6bce&label=PROFILE+VIEWS)](https://github.com/safdar404)
+[![Repositories](https://img.shields.io/badge/REPOSITORIES-EXPLORE-e7be5c?style=flat-square&logo=github&logoColor=180b29)](https://github.com/safdar404?tab=repositories)
+[![Last Profile Update](https://img.shields.io/github/last-commit/safdar404/safdar404?style=flat-square&logo=github&label=PROFILE%20UPDATED&color=9b6bce)](https://github.com/safdar404/safdar404/commits/main)
+
 </div>
+
+> GitHub exposes follower identities through the Followers page. It does not disclose who viewed a profile; the profile-view badge is an anonymous aggregate counter.
 
 ## Executive Profile
 
@@ -269,13 +279,10 @@ A unified interactive spatial-decision workspace for **urban-growth suitability,
 
 ## GitHub Activity
 
-<div align="center">
-
-[![Followers](https://img.shields.io/github/followers/safdar404?style=for-the-badge&logo=github&label=FOLLOWERS&color=9b6bce)](https://github.com/safdar404?tab=followers)
-[![Repositories](https://img.shields.io/badge/PUBLIC_REPOSITORIES-20%2B-e7be5c?style=for-the-badge&logo=github&logoColor=180b29)](https://github.com/safdar404?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=safdar404&style=for-the-badge&color=9b6bce&label=PROFILE+VIEWS)](https://github.com/safdar404)
-
-</div>
+- **Followers:** [view the live follower list](https://github.com/safdar404?tab=followers)
+- **Repositories:** [explore public source code and technical demonstrations](https://github.com/safdar404?tab=repositories)
+- **Contribution history:** [review verified public activity](https://github.com/safdar404?tab=overview&from=2026-01-01&to=2026-12-31)
+- **Research focus:** GeoAI, spatial resilience, Python, AI/ML, document intelligence and decision-support systems
 
 ## Let’s Connect
 
