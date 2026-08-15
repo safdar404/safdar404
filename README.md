@@ -224,6 +224,7 @@ A unified interactive spatial-decision workspace for **urban-growth suitability,
 **GeoAI · Spatial MCDA · Disaster Risk · Utility Intelligence · Remote Sensing · Responsive Web App**
 
 [![Open Live Suite](https://img.shields.io/badge/OPEN_LIVE_GEOAI_SUITE-e7be5c?style=for-the-badge&logo=googleearth&logoColor=180b29)](https://geoai-resilience-intelligence-suite.neat-grove-8624.chatgpt.site)
+[![Research Source](https://img.shields.io/badge/RESEARCH_SOURCE-24123e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/safdar404/geoai-resilience-research-lab)
 
 </td>
 </tr>
