@@ -2,14 +2,14 @@
 
 <img src="./profile-banner.svg" alt="Muhammad Safdar — Data Science, AI/ML, GeoAI and Spatial Intelligence" width="100%" />
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-e7be5c?style=for-the-badge&logo=githubpages&logoColor=180b29)](https://safdar404.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-9b6bce?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-safdar-88b27730)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-e7be5c?style=for-the-badge&logo=gmail&logoColor=180b29)](mailto:safdar404@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-f5c85b?style=for-the-badge&logo=githubpages&logoColor=041019)](https://safdar404.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-1bdcff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-safdar-88b27730)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-f5c85b?style=for-the-badge&logo=gmail&logoColor=041019)](mailto:safdar404@gmail.com)
 
-[![Followers](https://img.shields.io/github/followers/safdar404?style=flat-square&logo=github&label=FOLLOWERS&color=9b6bce)](https://github.com/safdar404?tab=followers)
-[![Stars](https://img.shields.io/github/stars/safdar404?affiliations=OWNER&style=flat-square&logo=github&label=TOTAL%20STARS&color=e7be5c)](https://github.com/safdar404?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=safdar404&style=flat-square&color=9b6bce&label=PROFILE+VIEWS)](https://github.com/safdar404)
-[![Updated](https://img.shields.io/github/last-commit/safdar404/safdar404?style=flat-square&logo=github&label=PROFILE%20UPDATED&color=9b6bce)](https://github.com/safdar404/safdar404/commits/main)
+[![Followers](https://img.shields.io/github/followers/safdar404?style=flat-square&logo=github&label=FOLLOWERS&color=1bdcff)](https://github.com/safdar404?tab=followers)
+[![Stars](https://img.shields.io/github/stars/safdar404?affiliations=OWNER&style=flat-square&logo=github&label=TOTAL%20STARS&color=f5c85b)](https://github.com/safdar404?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=safdar404&style=flat-square&color=1bdcff&label=PROFILE+VIEWS)](https://github.com/safdar404)
+[![Updated](https://img.shields.io/github/last-commit/safdar404/safdar404?style=flat-square&logo=github&label=PROFILE%20UPDATED&color=1bdcff)](https://github.com/safdar404/safdar404/commits/main)
 
 ### Data Scientist · AI/ML Engineer · GeoAI & Enterprise GIS Specialist
 
@@ -50,8 +50,8 @@ Five program-specific workflows for urban suitability, flood response, utility r
 </td>
 <td width="50%" valign="top">
 
-### 🌊 Pakistan Flood Intelligence
-Interactive disaster-risk communication connecting hazard indicators, exposure, preparedness and map-based decisions.
+### 🌊 Pakistan Flood Intelligence · Updated 15 Aug 2026
+Current decision-support view combining the 15 August PMD outlook with dated NDMA impacts, FFD river context, preparedness guidance and map-based decisions.
 
 **GeoAI · Risk Analytics · Web Mapping · Data Visualization**
 
