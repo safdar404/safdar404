@@ -21,7 +21,7 @@ My work connects **domain expertise** with **Python, machine learning, data engi
 <tr>
 <td align="center"><b>10+ Years</b><br/><sub>Professional delivery</sub></td>
 <td align="center"><b>20+ Staff</b><br/><sub>Trained in GIS workflows</sub></td>
-<td align="center"><b>6 Live Systems</b><br/><sub>Public project demonstrations</sub></td>
+<td align="center"><b>8 Live Systems</b><br/><sub>Public project demonstrations</sub></td>
 <td align="center"><b>Pakistan · GCC · Global</b><br/><sub>Open to opportunities</sub></td>
 </tr>
 </table>
@@ -209,6 +209,27 @@ A live AI solutions platform presenting autonomous agent workflows, AI engineeri
 </table>
 
 > Live applications are public professional demonstrations. Employer and client projects are summarized separately to protect confidential information.
+
+## GeoAI Resilience Intelligence Suite
+
+<table>
+<tr>
+<td width="18%" align="center" valign="middle"><b>05</b><br/><sub>operational workflows</sub></td>
+<td valign="top">
+
+### 🌍 Urban · Flood · Utilities · Drainage · Earth Observation
+
+A unified interactive spatial-decision workspace for **urban-growth suitability, flood-response prioritization, utility-network risk, stormwater capacity and remote-sensing change review**. Users can configure scenarios, run transparent screening, inspect decision surfaces and export assessment results.
+
+**GeoAI · Spatial MCDA · Disaster Risk · Utility Intelligence · Remote Sensing · Responsive Web App**
+
+[![Open Live Suite](https://img.shields.io/badge/OPEN_LIVE_GEOAI_SUITE-e7be5c?style=for-the-badge&logo=googleearth&logoColor=180b29)](https://geoai-resilience-intelligence-suite.neat-grove-8624.chatgpt.site)
+
+</td>
+</tr>
+</table>
+
+> The suite is a professional decision-support demonstration. User-configured inputs produce transparent screening outputs and must be validated against authoritative field and engineering data.
 
 ## Professional Delivery
 
