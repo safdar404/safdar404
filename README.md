@@ -107,26 +107,6 @@ Responsive receipt processing with image input, OCR review, structured fields an
 
 <sub>Public applications are professional demonstrations. Operational use requires authoritative data, calibration, security review and domain validation.</sub>
 
-## GeoAI resilience research
-
-The research lab exposes transparent analytical logic, validation assumptions, program-specific GIS outputs and ArcGIS Pro/QGIS-oriented workflow specifications.
-
-<table>
-<tr>
-<td width="50%" align="center"><a href="https://raw.githubusercontent.com/safdar404/geoai-resilience-research-lab/main/docs/assets/gis-urban-intelligence.svg"><img src="https://raw.githubusercontent.com/safdar404/geoai-resilience-research-lab/main/docs/assets/gis-urban-intelligence.svg" alt="Urban growth suitability professional GIS map" width="100%"></a><br/><b>Urban Growth Suitability</b></td>
-<td width="50%" align="center"><a href="https://raw.githubusercontent.com/safdar404/geoai-resilience-research-lab/main/docs/assets/gis-flood-intelligence.svg"><img src="https://raw.githubusercontent.com/safdar404/geoai-resilience-research-lab/main/docs/assets/gis-flood-intelligence.svg" alt="Flood hazard and exposure professional GIS map" width="100%"></a><br/><b>Flood Hazard & Exposure</b></td>
-</tr>
-<tr>
-<td width="50%" align="center"><a href="https://raw.githubusercontent.com/safdar404/geoai-resilience-research-lab/main/docs/assets/gis-utility-guardian.svg"><img src="https://raw.githubusercontent.com/safdar404/geoai-resilience-research-lab/main/docs/assets/gis-utility-guardian.svg" alt="Utility network criticality professional GIS map" width="100%"></a><br/><b>Utility Network Criticality</b></td>
-<td width="50%" align="center"><a href="https://raw.githubusercontent.com/safdar404/geoai-resilience-research-lab/main/docs/assets/gis-drainage-lab.svg"><img src="https://raw.githubusercontent.com/safdar404/geoai-resilience-research-lab/main/docs/assets/gis-drainage-lab.svg" alt="Drainage capacity and surcharge professional GIS map" width="100%"></a><br/><b>Drainage Capacity & Surcharge</b></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><a href="https://raw.githubusercontent.com/safdar404/geoai-resilience-research-lab/main/docs/assets/gis-earth-change-ai.svg"><img src="https://raw.githubusercontent.com/safdar404/geoai-resilience-research-lab/main/docs/assets/gis-earth-change-ai.svg" alt="Earth observation land-cover change professional GIS map" width="72%"></a><br/><b>Earth-observation Change Detection</b></td>
-</tr>
-</table>
-
-[Open the live GIS workbenches](https://geoai-resilience-intelligence-suite.neat-grove-8624.chatgpt.site) · [Review equations, validation and architecture](https://github.com/safdar404/geoai-resilience-research-lab)
-
 ## Technology stack
 
 | Area | Tools |
