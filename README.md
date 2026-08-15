@@ -147,7 +147,7 @@ Engineering-document intelligence workflow for drawing ingestion, OCR-assisted e
 **OCR · Computer Vision · Engineering AI · Data Extraction**
 
 [![Live](https://img.shields.io/badge/OPEN_LIVE_SYSTEM-e7be5c?style=flat-square&logoColor=180b29)](https://mep-scanner-system.neat-grove-8624.chatgpt.site)
-[![Source](https://img.shields.io/badge/SOURCE-24123e?style=flat-square&logo=github)](https://github.com/safdar404/alfanar-mep-ocr)
+[![Source](https://img.shields.io/badge/SOURCE-24123e?style=flat-square&logo=github)](https://github.com/safdar404/HIS-MEP-Scanner-System.)
 
 </td>
 </tr>
@@ -161,7 +161,7 @@ Responsive bill and receipt processing demonstration with image input, OCR revie
 **Document AI · OCR · Responsive UI · Structured Data**
 
 [![Live](https://img.shields.io/badge/OPEN_LIVE_SYSTEM-e7be5c?style=flat-square&logoColor=180b29)](https://his-bill-scanner.neat-grove-8624.chatgpt.site)
-[![Source](https://img.shields.io/badge/SOURCE-24123e?style=flat-square&logo=github)](https://github.com/safdar404/zarwa-bill-scanner)
+[![Source](https://img.shields.io/badge/SOURCE-24123e?style=flat-square&logo=github)](https://github.com/safdar404/HIS-Bill-Scanner)
 
 </td>
 <td width="50%" valign="top">
