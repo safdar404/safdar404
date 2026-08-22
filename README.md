@@ -29,7 +29,7 @@ I transform spatial, engineering and business data into validated analysis, prod
 |---|---|---|
 | **Data Science & AI** | Classification, regression, forecasting, computer vision, RAG, evaluation and explainable outputs | Prediction Studio, RAG Assistant, OCR systems |
 | **Data Engineering & APIs** | ETL, SQL, validation, REST APIs, structured/vector data and deployment workflows | FastAPI/Flask services, export pipelines, reusable Python modules |
-| **GeoAI & Spatial Systems** | Enterprise GIS, remote sensing, urban planning, utilities, disaster intelligence and spatial decision support | GeoAI Resilience Suite, Pakistan Flood Intelligence |
+| **GeoAI & Spatial Systems** | Enterprise GIS, remote sensing, urban planning, utilities, disaster intelligence and spatial decision support | GeoAI Resilience Suite, Pakistan Flood Intelligence, Infrastructure GIS Command Centre |
 | **Engineering Intelligence** | CAD/BIM-to-GIS, MEP document analysis, GNSS/UAV and infrastructure information workflows | MEP Scanner, Planora AI, professional case studies |
 
 > **Current focus:** trustworthy GeoAI, agent-ready spatial services, applied AI, data engineering and decision-support products.
@@ -40,6 +40,16 @@ I transform spatial, engineering and business data into validated analysis, prod
 <tr>
 <td width="50%" valign="top">
 
+### 🗺️ Pakistan Infrastructure GIS Command Centre
+Infrastructure and transportation GIS dashboard for spatial decision support, project monitoring and public-development workflows.
+
+**GIS · Infrastructure · Transportation · Dashboards**
+
+[Open command centre](https://pmu-pdp-infrastructure-gis.neat-grove-8624.chatgpt.site/)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🌍 GeoAI Resilience Intelligence Suite
 Five program-specific workflows for urban suitability, flood response, utility risk, drainage capacity and earth-observation change.
 
@@ -48,6 +58,8 @@ Five program-specific workflows for urban suitability, flood response, utility r
 [Live suite](https://geoai-resilience-intelligence-suite.neat-grove-8624.chatgpt.site) · [Research repository](https://github.com/safdar404/geoai-resilience-research-lab)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🌊 Pakistan Flood Intelligence · Updated 15 Aug 2026
@@ -58,8 +70,6 @@ Current decision-support view combining the 15 August PMD outlook with dated NDM
 [Live system](https://pakistan-flood-intelligence-2026.neat-grove-8624.chatgpt.site/) · [Source](https://github.com/safdar404/Pakistan-National-Flood-Intelligence)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📊 Prediction Studio
@@ -70,6 +80,8 @@ Four distinct assessment workflows covering heart risk, hospital capacity, healt
 [Live dashboards](https://prediction-api-dashboard-hub.neat-grove-8624.chatgpt.site) · [Source](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📚 LangChain RAG Assistant
@@ -80,8 +92,6 @@ Document ingestion, chunking, retrieval and evidence-grounded question answering
 [Live assistant](https://langchain-rag-document-assistant.neat-grove-8624.chatgpt.site) · [Source](https://github.com/safdar404/LangChain-RAG-Application)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🏗️ MEP Scanner System
@@ -90,16 +100,6 @@ Engineering-document intelligence for drawing ingestion, OCR-assisted extraction
 **OCR · Computer Vision · Engineering AI · Data Extraction**
 
 [Live system](https://mep-scanner-system.neat-grove-8624.chatgpt.site) · [Source](https://github.com/safdar404/HIS-MEP-Scanner-System.)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧾 HIS Bill Scanner
-Responsive receipt processing with image input, OCR review, structured fields and export-ready results.
-
-**Document AI · OCR · Responsive UI · Structured Data**
-
-[Live system](https://his-bill-scanner.neat-grove-8624.chatgpt.site) · [Source](https://github.com/safdar404/HIS-Bill-Scanner)
 
 </td>
 </tr>
