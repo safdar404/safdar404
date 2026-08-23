@@ -38,6 +38,20 @@ I transform spatial, engineering and business data into validated analysis, prod
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### 🛰️ GeoSentinel FloodOps — Global Temporal GeoAI
+
+**Agentic flood and water intelligence for any selected area of interest.** Combines live Leaflet mapping, temporal Sentinel-1/2 selection, flood prediction, LULC, NDVI/NDWI, before/after analysis, human approval and downloadable operational map products.
+
+`Leaflet` · `Sentinel-1/2` · `Google Earth Engine` · `Python GeoAI` · `PostGIS` · `Agentic AI`
+
+[**Project overview →**](https://safdar404.github.io/geosentinel-floodops/) · [**Open live system →**](https://geosentinel-drain-floodops.neat-grove-8624.chatgpt.site/)
+
+</td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🗺️ Pakistan Infrastructure GIS Command Centre
