@@ -46,7 +46,7 @@ I transform spatial, engineering and business data into validated analysis, prod
 
 `Leaflet` · `Sentinel-1/2` · `Google Earth Engine` · `Python GeoAI` · `PostGIS` · `Agentic AI`
 
-[**Project overview →**](https://safdar404.github.io/geosentinel-floodops/) · [**Open live system →**](https://geosentinel-drain-floodops.neat-grove-8624.chatgpt.site/)
+[**Open GeoSentinel FloodOps →**](https://safdar404.github.io/geosentinel-floodops/)
 
 </td>
 </tr>
