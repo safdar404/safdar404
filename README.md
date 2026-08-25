@@ -4,12 +4,8 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-f5c85b?style=for-the-badge&logo=githubpages&logoColor=041019)](https://safdar404.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-1bdcff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-safdar-88b27730)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-f5c85b?style=for-the-badge&logo=gmail&logoColor=041019)](mailto:safdar404@gmail.com)
-
 [![Followers](https://img.shields.io/github/followers/safdar404?style=flat-square&logo=github&label=FOLLOWERS&color=1bdcff)](https://github.com/safdar404?tab=followers)
-[![Stars](https://img.shields.io/github/stars/safdar404?affiliations=OWNER&style=flat-square&logo=github&label=TOTAL%20STARS&color=f5c85b)](https://github.com/safdar404?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=safdar404&style=flat-square&color=1bdcff&label=PROFILE+VIEWS)](https://github.com/safdar404)
-[![Updated](https://img.shields.io/github/last-commit/safdar404/safdar404?style=flat-square&logo=github&label=PROFILE%20UPDATED&color=1bdcff)](https://github.com/safdar404/safdar404/commits/main)
 
 ### Data Scientist · AI/ML Engineer · GeoAI & Enterprise GIS Specialist
 
@@ -17,96 +13,74 @@ I transform spatial, engineering and business data into validated analysis, prod
 
 **10+ years professional delivery · Pakistan & GCC experience · Open to global opportunities**
 
-[Live systems](#selected-live-systems) · [GeoAI research](#geoai-resilience-research) · [Experience](#professional-delivery) · [Contact](#contact)
-
 </div>
 
 ---
 
 ## What I deliver
 
-| Capability | Applied work | Evidence |
-|---|---|---|
-| **Data Science & AI** | Classification, regression, forecasting, computer vision, RAG, evaluation and explainable outputs | Prediction Studio, RAG Assistant, OCR systems |
-| **Data Engineering & APIs** | ETL, SQL, validation, REST APIs, structured/vector data and deployment workflows | FastAPI/Flask services, export pipelines, reusable Python modules |
-| **GeoAI & Spatial Systems** | Enterprise GIS, remote sensing, urban planning, utilities, disaster intelligence and spatial decision support | GeoAI Resilience Suite, Pakistan Flood Intelligence, Infrastructure GIS Command Centre |
-| **Engineering Intelligence** | CAD/BIM-to-GIS, MEP document analysis, GNSS/UAV and infrastructure information workflows | MEP Scanner, Planora AI, professional case studies |
+| Capability | Applied work |
+|---|---|
+| **Data Science & AI** | Classification, regression, forecasting, computer vision, RAG, evaluation and explainable outputs |
+| **Data Engineering & APIs** | ETL, SQL, validation, REST APIs, structured/vector data and deployment workflows |
+| **GeoAI & Spatial Systems** | Enterprise GIS, remote sensing, urban planning, utilities, disaster intelligence and spatial decision support |
+| **Engineering Intelligence** | CAD/BIM-to-GIS, MEP document analysis, GNSS/UAV and infrastructure information workflows |
 
 > **Current focus:** trustworthy GeoAI, agent-ready spatial services, applied AI, data engineering and decision-support products.
 
+## 🆕 Featured research visualization
+
+### 🇵🇰 Pakistan PhD & MS Research — From Numbers to National Impact
+
+A GIS/GeoAI-based research communication project that turns HEC 2024–25 postgraduate enrollment statistics into a spatially oriented national-impact narrative. It visualizes **166,712 MS/MPhil students**, **30,950 PhD students**, and **197,662 total postgraduate research talent**, with regional PhD distribution and a **Problem → Data → Model → Map → Impact** pathway.
+
+**GeoAI · Python · AI/ML · GIS · Data Visualization · Spatial Intelligence**
+
+[**Open the research map →**](https://safdar404.github.io/pakistan-phd-ms-research-impact/) · [**Repository folder →**](https://github.com/safdar404/safdar404.github.io/tree/main/pakistan-phd-ms-research-impact)
+
+> Research should begin with: **“Why does Pakistan, its industry or its society need this research?”** and end with: **“What changed because this research was done?”**
+
 ## Selected live systems
 
-<table>
-<tr>
-<td colspan="2" valign="top">
-
 ### 🛰️ GeoSentinel FloodOps — Global Temporal GeoAI
+Agentic flood and water intelligence combining temporal Sentinel-1/2 analysis, Leaflet operational maps, exposure/damage assessment, human approval and downloadable operational map products.
 
-**Agentic flood and water intelligence for any selected area of interest.** Combines live Leaflet mapping, temporal Sentinel-1/2 selection, flood prediction, LULC, NDVI/NDWI, before/after analysis, human approval and downloadable operational map products.
+**Leaflet · Sentinel-1/2 · Google Earth Engine · Python GeoAI · PostGIS · Agentic AI**
 
-`Leaflet` · `Sentinel-1/2` · `Google Earth Engine` · `Python GeoAI` · `PostGIS` · `Agentic AI`
-
-[**Open GeoSentinel FloodOps →**](https://safdar404.github.io/geosentinel-floodops/)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+[Open GeoSentinel FloodOps](https://safdar404.github.io/geosentinel-floodops/)
 
 ### 🗺️ Pakistan Infrastructure GIS Command Centre
 Infrastructure and transportation GIS dashboard for spatial decision support, project monitoring and public-development workflows.
 
-**GIS · Infrastructure · Transportation · Dashboards**
-
 [Open command centre](https://pmu-pdp-infrastructure-gis.neat-grove-8624.chatgpt.site/)
 
-</td>
-<td width="50%" valign="top">
-
 ### 🌍 GeoAI Resilience Intelligence Suite
-Five program-specific workflows for urban suitability, flood response, utility risk, drainage capacity and earth-observation change.
+Five program-specific workflows for urban suitability, flood response, utility risk, drainage capacity and Earth-observation change.
 
 **GeoAI · GIS · MCDA · Remote Sensing · Spatial QA**
 
 [Live suite](https://geoai-resilience-intelligence-suite.neat-grove-8624.chatgpt.site) · [Research repository](https://github.com/safdar404/geoai-resilience-research-lab)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌊 Pakistan Flood Intelligence · Updated 15 Aug 2026
-Current decision-support view combining the 15 August PMD outlook with dated NDMA impacts, FFD river context, preparedness guidance and map-based decisions.
+### 🌊 Pakistan Flood Intelligence
+Decision-support view combining weather outlooks, dated impacts, river context, preparedness guidance and map-based decisions.
 
 **GeoAI · Risk Analytics · Web Mapping · Data Visualization**
 
 [Live system](https://pakistan-flood-intelligence-2026.neat-grove-8624.chatgpt.site/) · [Source](https://github.com/safdar404/Pakistan-National-Flood-Intelligence)
 
-</td>
-<td width="50%" valign="top">
-
 ### 📊 Prediction Studio
-Four distinct assessment workflows covering heart risk, hospital capacity, healthcare stock and FDA-device forecasting.
+Applied ML workflows covering health-risk prediction, hospital intelligence, healthcare stock forecasting and FDA-device analysis.
 
-**scikit-learn · TensorFlow · FastAPI · Interactive UI**
+**scikit-learn · TensorFlow · FastAPI · Python**
 
 [Live dashboards](https://prediction-api-dashboard-hub.neat-grove-8624.chatgpt.site) · [Source](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 📚 LangChain RAG Assistant
-Document ingestion, chunking, retrieval and evidence-grounded question answering with transparent source handling.
+Document ingestion, retrieval and evidence-grounded question answering with transparent source handling.
 
 **Python · LangChain · RAG · Vector Search**
 
 [Live assistant](https://langchain-rag-document-assistant.neat-grove-8624.chatgpt.site) · [Source](https://github.com/safdar404/LangChain-RAG-Application)
-
-</td>
-<td width="50%" valign="top">
 
 ### 🏗️ MEP Scanner System
 Engineering-document intelligence for drawing ingestion, OCR-assisted extraction and structured MEP findings.
@@ -115,21 +89,13 @@ Engineering-document intelligence for drawing ingestion, OCR-assisted extraction
 
 [Live system](https://mep-scanner-system.neat-grove-8624.chatgpt.site) · [Source](https://github.com/safdar404/HIS-MEP-Scanner-System.)
 
-</td>
-</tr>
-</table>
-
-<sub>Public applications are professional demonstrations. Operational use requires authoritative data, calibration, security review and domain validation.</sub>
-
 ## Technology stack
 
-| Area | Tools |
-|---|---|
-| **AI & Data Science** | Python, Pandas, NumPy, scikit-learn, TensorFlow/Keras, OpenCV, Hugging Face, LangChain, RAG |
-| **Data & APIs** | SQL, PostgreSQL/PostGIS, SQLite, SingleStore, ETL, FastAPI, Flask, REST, Streamlit, Docker |
-| **GIS & Remote Sensing** | ArcGIS Pro/Enterprise, QGIS, ERDAS IMAGINE, Google Earth Engine, FME, Agisoft Metashape |
-| **Geospatial Python** | ArcPy, GeoPandas, GDAL, Rasterio, Shapely, Fiona, PyProj, Folium, Leaflet |
-| **Engineering & Cloud** | AutoCAD, Civil 3D, BIM/IFC, CAD-to-GIS, Power BI, AWS, Azure, Google Cloud |
+**AI & Data Science:** Python, Pandas, NumPy, scikit-learn, TensorFlow/Keras, OpenCV, Hugging Face, LangChain, RAG  
+**Data & APIs:** SQL, PostgreSQL/PostGIS, SQLite, ETL, FastAPI, Flask, REST, Streamlit, Docker  
+**GIS & Remote Sensing:** ArcGIS Pro/Enterprise, QGIS, Google Earth Engine, FME, Agisoft Metashape  
+**Geospatial Python:** ArcPy, GeoPandas, GDAL, Rasterio, Shapely, Fiona, PyProj, Folium, Leaflet  
+**Engineering & Cloud:** AutoCAD, Civil 3D, BIM/IFC, CAD-to-GIS, Power BI, AWS, Azure, Google Cloud
 
 ## Professional delivery
 
@@ -160,7 +126,5 @@ Engineering-document intelligence for drawing ingestion, OCR-assisted extraction
 Open to **Data Science, Data Engineering, AI/ML Engineering, Python, GIS, GeoAI and technical leadership** opportunities in Pakistan, the GCC and globally.
 
 [Portfolio](https://safdar404.github.io/) · [LinkedIn](https://www.linkedin.com/in/muhammad-safdar-88b27730) · [Email](mailto:safdar404@gmail.com) · [WhatsApp](https://wa.me/923228792404) · [Resume](https://smhisresume.com/)
-
-<sub>GitHub does not disclose individual profile viewers. The view badge is an anonymous aggregate counter.</sub>
 
 </div>
