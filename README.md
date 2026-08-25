@@ -3,6 +3,7 @@
 <img src="./profile-banner.svg" alt="Muhammad Safdar — Data Science, AI/ML, GeoAI and Spatial Intelligence" width="100%" />
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-f5c85b?style=for-the-badge&logo=githubpages&logoColor=041019)](https://safdar404.github.io/)
+[![GeoAI Suite](https://img.shields.io/badge/GEOAI%20SUITE-EXPLORE-1bdcff?style=for-the-badge&logo=googlemaps&logoColor=white)](https://safdar404.github.io/geoai-site-intelligence/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-1bdcff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-safdar-88b27730)
 [![Followers](https://img.shields.io/github/followers/safdar404?style=flat-square&logo=github&label=FOLLOWERS&color=1bdcff)](https://github.com/safdar404?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=safdar404&style=flat-square&color=1bdcff&label=PROFILE+VIEWS)](https://github.com/safdar404)
@@ -28,19 +29,39 @@ I transform spatial, engineering and business data into validated analysis, prod
 
 > **Current focus:** trustworthy GeoAI, agent-ready spatial services, applied AI, data engineering and decision-support products.
 
-## ⭐ Featured GeoAI project
+---
 
-### 🧭 GeoAI Site Intelligence Suite
+## ⭐ Featured project — GeoAI Site Intelligence Suite
 
-A three-application geospatial decision-support project from the uploaded prototype package, focused on **AI/ML + GeoAI + GIS + spatial suitability**:
+### 🧭 AI/ML + GeoAI + GIS for spatial site selection
 
-- **MERIDIAN PRO** — AI Geospatial Suitability Platform
-- **GEOSENTINEL PRO** — Flood Mitigation Siting Platform
-- **SOLARIS PRO** — Utility-Scale Solar Siting Platform
+A three-application decision-support suite that packages **spatial suitability modeling, flood-mitigation siting and utility-scale solar screening** into interactive map-based workflows.
+
+| Application | Decision question | Key focus |
+|---|---|---|
+| **MERIDIAN PRO** | Where is the most suitable location? | AI geospatial suitability · MCDA · candidate ranking |
+| **GEOSENTINEL PRO** | Where should mitigation be prioritized? | Flood hazard · exposure · spatial suitability |
+| **SOLARIS PRO** | Where are the strongest solar candidates? | Solar screening · terrain · infrastructure · constraints |
 
 **Python · AI/ML · GeoAI · GIS · Leaflet · MCDA · Remote Sensing · Site Selection**
 
-[**Open project →**](https://safdar404.github.io/geoai-site-intelligence/) · [**Portfolio repository →**](https://github.com/safdar404/safdar404.github.io/tree/main/geoai-site-intelligence)
+### Explore the suite
+
+[**🚀 Open GeoAI Site Intelligence Suite**](https://safdar404.github.io/geoai-site-intelligence/) · [**📁 Open portfolio repository folder**](https://github.com/safdar404/safdar404.github.io/tree/main/geoai-site-intelligence)
+
+### Individual applications
+
+- [**MERIDIAN PRO — AI Geospatial Suitability Platform**](https://safdar404.github.io/geoai-site-intelligence/meridian-pro.html)
+- [**GEOSENTINEL PRO — Flood Mitigation Siting Platform**](https://safdar404.github.io/geoai-site-intelligence/geosentinel-pro.html)
+- [**SOLARIS PRO — Utility-Scale Solar Siting Platform**](https://safdar404.github.io/geoai-site-intelligence/solaris-pro.html)
+
+### Analytical chain
+
+`Problem definition → spatial/EO data → preprocessing → criteria → weights/MCDA → AI/ML/GeoAI analysis → candidate scoring → ranked sites → interactive decision support`
+
+> **Validation note:** These are GeoAI/spatial decision-support prototypes. Operational deployment requires authoritative local datasets, documented data provenance, uncertainty/sensitivity analysis, regulatory and engineering checks, and expert validation.
+
+---
 
 ## Selected live systems
 
@@ -90,6 +111,8 @@ Engineering-document intelligence for drawing ingestion, OCR-assisted extraction
 **OCR · Computer Vision · Engineering AI · Data Extraction**
 
 [Live system](https://mep-scanner-system.neat-grove-8624.chatgpt.site) · [Source](https://github.com/safdar404/HIS-MEP-Scanner-System.)
+
+---
 
 ## Technology stack
 
