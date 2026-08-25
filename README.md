@@ -28,6 +28,20 @@ I transform spatial, engineering and business data into validated analysis, prod
 
 > **Current focus:** trustworthy GeoAI, agent-ready spatial services, applied AI, data engineering and decision-support products.
 
+## ⭐ Featured GeoAI project
+
+### 🧭 GeoAI Site Intelligence Suite
+
+A three-application geospatial decision-support project from the uploaded prototype package, focused on **AI/ML + GeoAI + GIS + spatial suitability**:
+
+- **MERIDIAN PRO** — AI Geospatial Suitability Platform
+- **GEOSENTINEL PRO** — Flood Mitigation Siting Platform
+- **SOLARIS PRO** — Utility-Scale Solar Siting Platform
+
+**Python · AI/ML · GeoAI · GIS · Leaflet · MCDA · Remote Sensing · Site Selection**
+
+[**Open project →**](https://safdar404.github.io/geoai-site-intelligence/) · [**Portfolio repository →**](https://github.com/safdar404/safdar404.github.io/tree/main/geoai-site-intelligence)
+
 ## Selected live systems
 
 ### 🛰️ GeoSentinel FloodOps — Global Temporal GeoAI
