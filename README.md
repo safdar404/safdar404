@@ -63,7 +63,7 @@ A three-application decision-support suite that packages **spatial suitability m
 
 ---
 
-## Selected live systems
+## 🚀 Selected projects
 
 ### 🛰️ GeoSentinel FloodOps — Global Temporal GeoAI
 Agentic flood and water intelligence combining temporal Sentinel-1/2 analysis, Leaflet operational maps, exposure/damage assessment, human approval and downloadable operational map products.
@@ -74,6 +74,8 @@ Agentic flood and water intelligence combining temporal Sentinel-1/2 analysis, L
 
 ### 🗺️ Pakistan Infrastructure GIS Command Centre
 Infrastructure and transportation GIS dashboard for spatial decision support, project monitoring and public-development workflows.
+
+**GIS · Infrastructure · Transportation · Spatial Decision Support · Web Mapping**
 
 [Open command centre](https://pmu-pdp-infrastructure-gis.neat-grove-8624.chatgpt.site/)
 
@@ -92,25 +94,60 @@ Decision-support view combining weather outlooks, dated impacts, river context, 
 [Live system](https://pakistan-flood-intelligence-2026.neat-grove-8624.chatgpt.site/) · [Source](https://github.com/safdar404/Pakistan-National-Flood-Intelligence)
 
 ### 📊 Prediction Studio
-Applied ML workflows covering health-risk prediction, hospital intelligence, healthcare stock forecasting and FDA-device analysis.
+Applied machine-learning workflows covering health-risk prediction, hospital intelligence, healthcare stock forecasting and FDA-device analysis.
 
-**scikit-learn · TensorFlow · FastAPI · Python**
+**Python · scikit-learn · TensorFlow · FastAPI · Applied ML**
 
 [Live dashboards](https://prediction-api-dashboard-hub.neat-grove-8624.chatgpt.site) · [Source](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10)
 
 ### 📚 LangChain RAG Assistant
-Document ingestion, retrieval and evidence-grounded question answering with transparent source handling.
+Document intelligence platform for ingestion, retrieval and evidence-grounded question answering with transparent source handling.
 
-**Python · LangChain · RAG · Vector Search**
+**Python · LangChain · RAG · Vector Search · LLM Applications**
 
 [Live assistant](https://langchain-rag-document-assistant.neat-grove-8624.chatgpt.site) · [Source](https://github.com/safdar404/LangChain-RAG-Application)
 
 ### 🏗️ MEP Scanner System
 Engineering-document intelligence for drawing ingestion, OCR-assisted extraction and structured MEP findings.
 
-**OCR · Computer Vision · Engineering AI · Data Extraction**
+**OCR · Computer Vision · Engineering AI · Data Extraction · Python**
 
 [Live system](https://mep-scanner-system.neat-grove-8624.chatgpt.site) · [Source](https://github.com/safdar404/HIS-MEP-Scanner-System.)
+
+### 🏢 Planora AI — AI CAD, BIM & GIS Flow
+AI-assisted workflow concept connecting CAD, BIM and GIS information for engineering and spatial data processing.
+
+**AI · CAD · BIM · GIS · Engineering Automation**
+
+[Open application](https://ai-cad-bim-flow.lovable.app/) · [Source](https://github.com/safdar404/ai-cad-bim-flow)
+
+### 🔎 MEP Drawing Analyzer
+AI-assisted analysis workflow for engineering drawings, document interpretation and structured MEP information extraction.
+
+**Python · OCR · Computer Vision · Engineering AI · Document Intelligence**
+
+[Source repository](https://github.com/safdar404/mep-analyzer)
+
+### 🧾 Alfanar MEP OCR
+OCR-based engineering document processing workflow for extracting structured information from MEP drawings and documents.
+
+**Python · OCR · Document AI · Computer Vision · Data Extraction**
+
+[Source repository](https://github.com/safdar404/alfanar-mep-ocr)
+
+### 💳 Zarwa Bill Scanner
+Document-scanning workflow for bill image processing, OCR extraction and structured financial information capture.
+
+**Python · OCR · Computer Vision · Document AI · Data Extraction**
+
+[Source repository](https://github.com/safdar404/zarwa-bill-scanner)
+
+### 🐍 Python & AI Analytics Lab
+Applied Python and AI/ML learning projects covering analytics, APIs, dashboards and practical machine-learning workflows.
+
+**Python · AI/ML · Pandas · APIs · Data Analytics**
+
+[Open analytics lab](https://safdar404.github.io/python-ai-lab/)
 
 ---
 
