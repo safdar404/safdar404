@@ -5,6 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-f5c85b?style=for-the-badge&logo=githubpages&logoColor=041019)](https://safdar404.github.io/)
 [![GeoAI Suite](https://img.shields.io/badge/GEOAI%20SUITE-EXPLORE-1bdcff?style=for-the-badge&logo=googlemaps&logoColor=white)](https://safdar404.github.io/geoai-site-intelligence/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-1bdcff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-safdar-88b27730)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-CONNECT-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/muhammad.safdar.615557)
 [![Followers](https://img.shields.io/github/followers/safdar404?style=flat-square&logo=github&label=FOLLOWERS&color=1bdcff)](https://github.com/safdar404?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=safdar404&style=flat-square&color=1bdcff&label=PROFILE+VIEWS)](https://github.com/safdar404)
 
@@ -216,6 +217,6 @@ Applied Python and AI/ML learning projects covering analytics, APIs, dashboards 
 
 Open to **Data Science, Data Engineering, AI/ML Engineering, Python, GIS, GeoAI and technical leadership** opportunities in Pakistan, the GCC and globally.
 
-[Portfolio](https://safdar404.github.io/) · [LinkedIn](https://www.linkedin.com/in/muhammad-safdar-88b27730) · [Email](mailto:safdar404@gmail.com) · [WhatsApp](https://wa.me/923228792404) · [Resume](https://smhisresume.com/)
+[Portfolio](https://safdar404.github.io/) · [LinkedIn](https://www.linkedin.com/in/muhammad-safdar-88b27730) · [Facebook](https://www.facebook.com/muhammad.safdar.615557) · [Email](mailto:safdar404@gmail.com) · [WhatsApp](https://wa.me/923228792404) · [Resume](https://smhisresume.com/)
 
 </div>
