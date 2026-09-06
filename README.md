@@ -12,11 +12,15 @@
 
 I transform spatial, engineering and business data into validated analysis, production-minded applications and decision-ready intelligence.
 
-**10+ years professional delivery · Pakistan & GCC experience · Open to global opportunities**
+**15+ years professional delivery · Pakistan & GCC experience · Open to global opportunities**
 
 </div>
 
 ---
+
+<p align="center">
+<img src="./profile-metrics.svg" alt="Professional snapshot: 15+ years GIS/GeoAI, 20+ people trained, 3 GeoAI suite apps, 5 resilience workflows, 10+ applied AI projects" width="100%" />
+</p>
 
 ## What I deliver
 
@@ -58,6 +62,10 @@ A three-application decision-support suite that packages **spatial suitability m
 ### Analytical chain
 
 `Problem definition → spatial/EO data → preprocessing → criteria → weights/MCDA → AI/ML/GeoAI analysis → candidate scoring → ranked sites → interactive decision support`
+
+<p align="center">
+<img src="./geoai-workflow.svg" alt="Applied GeoAI delivery pipeline from problem definition through data, QA, GeoAI analysis, decision support and deployment" width="100%" />
+</p>
 
 > **Validation note:** These are GeoAI/spatial decision-support prototypes. Operational deployment requires authoritative local datasets, documented data provenance, uncertainty/sensitivity analysis, regulatory and engineering checks, and expert validation.
 
