@@ -35,6 +35,18 @@ I transform spatial, engineering and business data into validated analysis, prod
 
 ---
 
+## 📊 Power BI & Decision Intelligence
+
+I use **Power BI, DAX and Power Query** to turn operational, business and geospatial data into governed metrics, interactive dashboards and decision-ready reporting.
+
+<p align="center">
+<img src="./powerbi-analytics.svg" alt="Power BI analytics workflow: data sources, Power Query, semantic modeling, dashboards, insights and decision intelligence" width="100%" />
+</p>
+
+**Power BI · DAX · Power Query · SQL/PostGIS · Python · GIS · Remote Sensing · Spatial Analytics**
+
+---
+
 ## ⭐ Featured project — GeoAI Site Intelligence Suite
 
 ### 🧭 AI/ML + GeoAI + GIS for spatial site selection
