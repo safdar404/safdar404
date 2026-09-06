@@ -65,6 +65,15 @@ A three-application decision-support suite that packages **spatial suitability m
 
 ## 🚀 Selected projects
 
+### 🏥 AI-HealthAssist — Clinical Decision Support & Triage System
+AI-powered healthcare decision-support application designed to provide structured health guidance, triage/risk workflows and safety-focused escalation in an accessible web interface.
+
+**AI/ML · Python · LLM Applications · Decision Support · Healthcare AI · Responsive Web App**
+
+[**Open AI-HealthAssist**](https://ai-healthassist.ai.studio/) · [**Source repository**](https://github.com/safdar404/HIS-AI-HealthAssist)
+
+> **Safety:** AI-HealthAssist is an educational/decision-support application and is not a substitute for qualified medical diagnosis, treatment or professional clinical advice.
+
 ### 🛰️ GeoSentinel FloodOps — Global Temporal GeoAI
 Agentic flood and water intelligence combining temporal Sentinel-1/2 analysis, Leaflet operational maps, exposure/damage assessment, human approval and downloadable operational map products.
 
