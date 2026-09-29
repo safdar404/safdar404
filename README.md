@@ -92,37 +92,30 @@ A customer-sales case study drawn from a file labeled as a hiring assessment. Af
 
 ## ⭐ Featured project — GeoAI Site Intelligence Suite
 
-### 🧭 AI/ML + GeoAI + GIS for spatial site selection
-
-A three-application decision-support suite that packages **spatial suitability modeling, flood-mitigation siting and utility-scale solar screening** into interactive map-based workflows.
-
-| Application | Decision question | Key focus |
-|---|---|---|
-| **MERIDIAN PRO** | Where is the most suitable location? | AI geospatial suitability · MCDA · candidate ranking |
-| **GEOSENTINEL PRO** | Where should mitigation be prioritized? | Flood hazard · exposure · spatial suitability |
-| **SOLARIS PRO** | Where are the strongest solar candidates? | Solar screening · terrain · infrastructure · constraints |
-
-**Python · AI/ML · GeoAI · GIS · Leaflet · MCDA · Remote Sensing · Site Selection**
-
-### Explore the suite
-
-[**🚀 Open GeoAI Site Intelligence Suite**](https://safdar404.github.io/geoai-site-intelligence/) · [**📁 Open portfolio repository folder**](https://github.com/safdar404/safdar404.github.io/tree/main/geoai-site-intelligence)
-
-### Individual applications
-
-- [**MERIDIAN PRO — AI Geospatial Suitability Platform**](https://safdar404.github.io/geoai-site-intelligence/meridian-pro.html)
-- [**GEOSENTINEL PRO — Flood Mitigation Siting Platform**](https://safdar404.github.io/geoai-site-intelligence/geosentinel-pro.html)
-- [**SOLARIS PRO — Utility-Scale Solar Siting Platform**](https://safdar404.github.io/geoai-site-intelligence/solaris-pro.html)
-
-### Analytical chain
-
-`Problem definition → spatial/EO data → preprocessing → criteria → weights/MCDA → AI/ML/GeoAI analysis → candidate scoring → ranked sites → interactive decision support`
+Three interactive GIS workspaces present a common **site-selection workflow** for general suitability, flood mitigation, and utility-scale solar screening. Each lets visitors explore a map, adjust criterion weights, inspect candidate scores and factor contributions, and export a ranked shortlist.
 
 <p align="center">
-<img src="./geoai-workflow.svg" alt="Applied GeoAI delivery pipeline from problem definition through data, QA, GeoAI analysis, decision support and deployment" width="100%" />
+  <a href="https://safdar404.github.io/geoai-site-intelligence/">
+    <img src="./geoai-site-intelligence.svg" alt="GeoAI Site Intelligence Suite overview: spatial criteria, weighted scoring, candidate ranking, and the three applications" width="100%" />
+  </a>
 </p>
 
-> **Validation note:** These are GeoAI/spatial decision-support prototypes. Operational deployment requires authoritative local datasets, documented data provenance, uncertainty/sensitivity analysis, regulatory and engineering checks, and expert validation.
+| Application | Decision supported | Explore |
+|---|---|---|
+| **MERIDIAN PRO** | Compare locations with terrain, flood avoidance, road access, utilities and demand factors. | [Open suitability workspace](https://safdar404.github.io/geoai-site-intelligence/meridian-pro.html) |
+| **GEOSENTINEL PRO** | Prioritize flood-mitigation sites using storage, interception, outfall, drainage and impervious-load factors. | [Open flood workspace](https://safdar404.github.io/geoai-site-intelligence/geosentinel-pro.html) |
+| **SOLARIS PRO** | Screen solar candidates using terrain, transmission, road, interconnection and grid-demand factors. | [Open solar workspace](https://safdar404.github.io/geoai-site-intelligence/solaris-pro.html) |
+
+### How the analysis works
+
+1. Choose a study area and generate the application's spatial grid.
+2. Adjust the five criterion weights to explore a scenario.
+3. Review the normalized weighted suitability surface and candidate ranking.
+4. Inspect each site's score, leading factor and coordinates; export the shortlist as CSV.
+
+**Implementation:** Leaflet maps, client-side JavaScript scoring, adjustable MCDA weights, scenario controls and CSV export. [Explore the complete suite](https://safdar404.github.io/geoai-site-intelligence/) · [Read methodology and limitations](https://github.com/safdar404/safdar404.github.io/tree/main/geoai-site-intelligence)
+
+> **Scope:** These are interactive decision-support prototypes. Their relative scores and candidate locations are illustrative. Operational site selection requires authoritative local layers, provenance, uncertainty and sensitivity checks, and engineering and regulatory validation.
 
 ---
 
