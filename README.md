@@ -121,98 +121,19 @@ Three interactive GIS workspaces present a common **site-selection workflow** fo
 
 ## 🚀 Selected projects
 
-### 🏥 AI-HealthAssist — Clinical Decision Support & Triage System
-AI-powered healthcare decision-support application designed to provide structured health guidance, triage/risk workflows and safety-focused escalation in an accessible web interface.
+Explore the live applications and repositories through these project visuals. The GIS motifs depict workflows and are **schematic illustrations**, not measured maps or verified outputs.
 
-**AI/ML · Python · LLM Applications · Decision Support · Healthcare AI · Responsive Web App**
+| Spatial intelligence & applied AI | Engineering & data workflows |
+|:---|:---|
+| <a href="https://ai-healthassist.ai.studio/"><img src="./project-visuals/ai-healthassist.svg" alt="AI HealthAssist: Structured guidance; Triage and escalation" width="100%" /></a><br/><a href="https://ai-healthassist.ai.studio/"><strong>Open project →</strong></a> · <a href="https://github.com/safdar404/HIS-AI-HealthAssist">Source</a> | <a href="https://safdar404.github.io/geosentinel-floodops/"><img src="./project-visuals/geosentinel-floodops.svg" alt="GeoSentinel FloodOps: Temporal flood context; Exposure and operational maps" width="100%" /></a><br/><a href="https://safdar404.github.io/geosentinel-floodops/"><strong>Open project →</strong></a> |
+| <a href="https://pmu-pdp-infrastructure-gis.neat-grove-8624.chatgpt.site/"><img src="./project-visuals/infrastructure-gis.svg" alt="Infrastructure GIS: Spatial infrastructure view; Map-based decision support" width="100%" /></a><br/><a href="https://pmu-pdp-infrastructure-gis.neat-grove-8624.chatgpt.site/"><strong>Open project →</strong></a> | <a href="https://geoai-resilience-intelligence-suite.neat-grove-8624.chatgpt.site"><img src="./project-visuals/resilience-suite.svg" alt="GeoAI Resilience Suite: Urban · flood · utility; Drainage · EO change" width="100%" /></a><br/><a href="https://geoai-resilience-intelligence-suite.neat-grove-8624.chatgpt.site"><strong>Open project →</strong></a> · <a href="https://github.com/safdar404/geoai-resilience-research-lab">Source</a> |
+| <a href="https://pakistan-flood-intelligence-2026.neat-grove-8624.chatgpt.site/"><img src="./project-visuals/pakistan-flood.svg" alt="Pakistan Flood Intelligence: Dated impact context; Map-based response view" width="100%" /></a><br/><a href="https://pakistan-flood-intelligence-2026.neat-grove-8624.chatgpt.site/"><strong>Open project →</strong></a> · <a href="https://github.com/safdar404/Pakistan-National-Flood-Intelligence">Source</a> | <a href="https://prediction-api-dashboard-hub.neat-grove-8624.chatgpt.site"><img src="./project-visuals/prediction-studio.svg" alt="Prediction Studio: Health and stock forecasts; Model-oriented dashboards" width="100%" /></a><br/><a href="https://prediction-api-dashboard-hub.neat-grove-8624.chatgpt.site"><strong>Open project →</strong></a> · <a href="https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10">Source</a> |
+| <a href="https://langchain-rag-document-assistant.neat-grove-8624.chatgpt.site"><img src="./project-visuals/rag-assistant.svg" alt="LangChain RAG Assistant: Ingest and retrieve; Evidence-grounded answers" width="100%" /></a><br/><a href="https://langchain-rag-document-assistant.neat-grove-8624.chatgpt.site"><strong>Open project →</strong></a> · <a href="https://github.com/safdar404/LangChain-RAG-Application">Source</a> | <a href="https://mep-scanner-system.neat-grove-8624.chatgpt.site"><img src="./project-visuals/mep-scanner.svg" alt="MEP Scanner System: Drawing ingestion; Structured extraction" width="100%" /></a><br/><a href="https://mep-scanner-system.neat-grove-8624.chatgpt.site"><strong>Open project →</strong></a> · <a href="https://github.com/safdar404/HIS-MEP-Scanner-System.">Source</a> |
+| <a href="https://ai-cad-bim-flow.lovable.app/"><img src="./project-visuals/planora-ai.svg" alt="Planora AI: Engineering data flow; Cross-domain workflow concept" width="100%" /></a><br/><a href="https://ai-cad-bim-flow.lovable.app/"><strong>Open project →</strong></a> · <a href="https://github.com/safdar404/ai-cad-bim-flow">Source</a> | <a href="https://github.com/safdar404/mep-analyzer"><img src="./project-visuals/mep-analyzer.svg" alt="MEP Drawing Analyzer: Engineering drawings; Structured MEP information" width="100%" /></a><br/><a href="https://github.com/safdar404/mep-analyzer"><strong>Open project →</strong></a> |
+| <a href="https://github.com/safdar404/alfanar-mep-ocr"><img src="./project-visuals/alfanar-ocr.svg" alt="Alfanar MEP OCR: MEP document processing; Text to structured fields" width="100%" /></a><br/><a href="https://github.com/safdar404/alfanar-mep-ocr"><strong>Open project →</strong></a> | <a href="https://github.com/safdar404/zarwa-bill-scanner"><img src="./project-visuals/zarwa-bill.svg" alt="Zarwa Bill Scanner: Bill image processing; Structured capture" width="100%" /></a><br/><a href="https://github.com/safdar404/zarwa-bill-scanner"><strong>Open project →</strong></a> |
+| <a href="https://safdar404.github.io/python-ai-lab/"><img src="./project-visuals/python-ai-lab.svg" alt="Python & AI Analytics Lab: Analytics and APIs; Practical ML workflows" width="100%" /></a><br/><a href="https://safdar404.github.io/python-ai-lab/"><strong>Open project →</strong></a> |  |
 
-[**Open AI-HealthAssist**](https://ai-healthassist.ai.studio/) · [**Source repository**](https://github.com/safdar404/HIS-AI-HealthAssist)
-
-> **Safety:** AI-HealthAssist is an educational/decision-support application and is not a substitute for qualified medical diagnosis, treatment or professional clinical advice.
-
-### 🛰️ GeoSentinel FloodOps — Global Temporal GeoAI
-Agentic flood and water intelligence combining temporal Sentinel-1/2 analysis, Leaflet operational maps, exposure/damage assessment, human approval and downloadable operational map products.
-
-**Leaflet · Sentinel-1/2 · Google Earth Engine · Python GeoAI · PostGIS · Agentic AI**
-
-[Open GeoSentinel FloodOps](https://safdar404.github.io/geosentinel-floodops/)
-
-### 🗺️ Pakistan Infrastructure GIS Command Centre
-Infrastructure and transportation GIS dashboard for spatial decision support, project monitoring and public-development workflows.
-
-**GIS · Infrastructure · Transportation · Spatial Decision Support · Web Mapping**
-
-[Open command centre](https://pmu-pdp-infrastructure-gis.neat-grove-8624.chatgpt.site/)
-
-### 🌍 GeoAI Resilience Intelligence Suite
-Five program-specific workflows for urban suitability, flood response, utility risk, drainage capacity and Earth-observation change.
-
-**GeoAI · GIS · MCDA · Remote Sensing · Spatial QA**
-
-[Live suite](https://geoai-resilience-intelligence-suite.neat-grove-8624.chatgpt.site) · [Research repository](https://github.com/safdar404/geoai-resilience-research-lab)
-
-### 🌊 Pakistan Flood Intelligence
-Decision-support view combining weather outlooks, dated impacts, river context, preparedness guidance and map-based decisions.
-
-**GeoAI · Risk Analytics · Web Mapping · Data Visualization**
-
-[Live system](https://pakistan-flood-intelligence-2026.neat-grove-8624.chatgpt.site/) · [Source](https://github.com/safdar404/Pakistan-National-Flood-Intelligence)
-
-### 📊 Prediction Studio
-Applied machine-learning workflows covering health-risk prediction, hospital intelligence, healthcare stock forecasting and FDA-device analysis.
-
-**Python · scikit-learn · TensorFlow · FastAPI · Applied ML**
-
-[Live dashboards](https://prediction-api-dashboard-hub.neat-grove-8624.chatgpt.site) · [Source](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10)
-
-### 📚 LangChain RAG Assistant
-Document intelligence platform for ingestion, retrieval and evidence-grounded question answering with transparent source handling.
-
-**Python · LangChain · RAG · Vector Search · LLM Applications**
-
-[Live assistant](https://langchain-rag-document-assistant.neat-grove-8624.chatgpt.site) · [Source](https://github.com/safdar404/LangChain-RAG-Application)
-
-### 🏗️ MEP Scanner System
-Engineering-document intelligence for drawing ingestion, OCR-assisted extraction and structured MEP findings.
-
-**OCR · Computer Vision · Engineering AI · Data Extraction · Python**
-
-[Live system](https://mep-scanner-system.neat-grove-8624.chatgpt.site) · [Source](https://github.com/safdar404/HIS-MEP-Scanner-System.)
-
-### 🏢 Planora AI — AI CAD, BIM & GIS Flow
-AI-assisted workflow concept connecting CAD, BIM and GIS information for engineering and spatial data processing.
-
-**AI · CAD · BIM · GIS · Engineering Automation**
-
-[Open application](https://ai-cad-bim-flow.lovable.app/) · [Source](https://github.com/safdar404/ai-cad-bim-flow)
-
-### 🔎 MEP Drawing Analyzer
-AI-assisted analysis workflow for engineering drawings, document interpretation and structured MEP information extraction.
-
-**Python · OCR · Computer Vision · Engineering AI · Document Intelligence**
-
-[Source repository](https://github.com/safdar404/mep-analyzer)
-
-### 🧾 Alfanar MEP OCR
-OCR-based engineering document processing workflow for extracting structured information from MEP drawings and documents.
-
-**Python · OCR · Document AI · Computer Vision · Data Extraction**
-
-[Source repository](https://github.com/safdar404/alfanar-mep-ocr)
-
-### 💳 Zarwa Bill Scanner
-Document-scanning workflow for bill image processing, OCR extraction and structured financial information capture.
-
-**Python · OCR · Computer Vision · Document AI · Data Extraction**
-
-[Source repository](https://github.com/safdar404/zarwa-bill-scanner)
-
-### 🐍 Python & AI Analytics Lab
-Applied Python and AI/ML learning projects covering analytics, APIs, dashboards and practical machine-learning workflows.
-
-**Python · AI/ML · Pandas · APIs · Data Analytics**
-
-[Open analytics lab](https://safdar404.github.io/python-ai-lab/)
+> **AI-HealthAssist:** Educational decision support only; it does not replace professional clinical diagnosis or treatment. Project capabilities and deployment status should be evaluated in the linked applications and repositories.
 
 ---
 
