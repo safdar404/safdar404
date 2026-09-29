@@ -38,6 +38,13 @@ I transform spatial, engineering and business data into validated analysis, prod
 
 ## 📊 Power BI & Decision Intelligence
 
+### Superstore Sales Intelligence
+
+Interactive analysis of 5,899 order lines across 2019–2020, with sales, profit, margin, monthly trends, product mix and regional results. The project includes a Power BI Desktop semantic-model guide and a documented mismatch in the source returns table.
+
+[Open interactive dashboard](https://safdar404.github.io/superstore-bi/) · [Power BI build guide and source](https://github.com/safdar404/safdar404.github.io/tree/main/superstore-bi)
+
+
 I use **Power BI, DAX and Power Query** to turn operational, business and geospatial data into governed metrics, interactive dashboards and decision-ready reporting.
 
 <p align="center">
