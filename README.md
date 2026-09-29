@@ -67,6 +67,27 @@ An end-to-end sales analytics case study using the supplied Superstore workbook.
 
 *The live dashboard is a web demonstration. The repository includes the Power BI Desktop build instructions; a native .pbix file has not been published.*
 
+### Laptop Sales & Pricing Intelligence
+
+A new analysis of **4,446 laptop listings** and **$205.07 million in reported sales**. It compares brands, CPU families, price bands and graphics types, with brand-level pricing and coverage of ratings and stock. The dashboard filters by brand and graphics configuration.
+
+<p align="center"><img src="./laptop-performance.svg" alt="Laptop analytics charts showing sales by brand, CPU mix, price bands, and graphics configuration" width="100%" /></p>
+
+**Data quality:** 537 rows have reported sales that differ from price × units by more than $1, and the dataset has no transaction dates. The supplied archive includes a Power BI report credited to Sridhar Kamali; this independent dashboard uses its CSV and does not claim authorship of that report.
+
+[**View laptop dashboard →**](https://safdar404.github.io/laptop-intelligence/) · [Power BI model guide](https://github.com/safdar404/safdar404.github.io/tree/main/laptop-intelligence)
+
+### Customer Purchase Intelligence
+
+A customer-sales case study drawn from a file labeled as a hiring assessment. After removing one exact duplicate, **99 purchases total 34,400 source currency units** across 2016–2019. The public dashboard explores year, country, product and age-band mix without customer names or identifiers.
+
+<p align="center"><img src="./customer-purchases.svg" alt="Customer purchase charts showing annual amount, product and country comparisons, and age-band mix" width="100%" /></p>
+
+**Data quality:** Mixed date strings were interpreted day-first; the source does not specify a currency. The dashboard documents both assumptions.
+
+[**View customer dashboard →**](https://safdar404.github.io/customer-purchase-intelligence/) · [Power BI model guide](https://github.com/safdar404/safdar404.github.io/tree/main/customer-purchase-intelligence)
+
+
 ---
 
 ## ⭐ Featured project — GeoAI Site Intelligence Suite
