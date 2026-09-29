@@ -40,18 +40,32 @@ I transform spatial, engineering and business data into validated analysis, prod
 
 ### Superstore Sales Intelligence
 
-Interactive analysis of 5,899 order lines across 2019–2020, with sales, profit, margin, monthly trends, product mix and regional results. The project includes a Power BI Desktop semantic-model guide and a documented mismatch in the source returns table.
+An end-to-end sales analytics case study using the supplied Superstore workbook. The source contains **5,899 order lines** and **3,002 distinct orders** from January 2019 through December 2020. The published dashboard supports year, region, category and customer-segment filters. The repository documents the Power BI data model and DAX measures for a Desktop implementation.
 
-[Open interactive dashboard](https://safdar404.github.io/superstore-bi/) · [Power BI build guide and source](https://github.com/safdar404/safdar404.github.io/tree/main/superstore-bi)
+| KPI | 2019–2020 |
+|---|---:|
+| Sales | **$1,342,420.85** |
+| Profit | **$175,234.44** |
+| Profit margin | **13.1%** |
+| Units sold | **22,313** |
 
-
-I use **Power BI, DAX and Power Query** to turn operational, business and geospatial data into governed metrics, interactive dashboards and decision-ready reporting.
+**Analysis:** 2020 sales reached $733,215, up 20.4% from 2019. Technology generated $498,095 in sales and $90,458 in profit. Furniture generated $414,289 in sales but only $9,978 in profit; Tables alone lost $11,092. The West contributed the highest regional profit at $67,861.
 
 <p align="center">
-<img src="./powerbi-analytics.svg" alt="Power BI analytics workflow: data sources, Power Query, semantic modeling, dashboards, insights and decision intelligence" width="100%" />
+  <img src="./superstore-performance.svg" alt="Superstore charts comparing monthly sales in 2019 and 2020, sales by category, and profit by region" width="100%" />
 </p>
 
-**Power BI · DAX · Power Query · SQL/PostGIS · Python · GIS · Remote Sensing · Spatial Analytics**
+**Model and quality checks:** Order Date links to a Date dimension; measures cover sales, profit, margin, distinct orders, units and average order value. The workbook's Returns sheet has 296 distinct IDs, with **zero matches** against Orders, so a return rate is excluded. The public dashboard uses grouped figures without customer or order identifiers.
+
+<p align="center">
+  <a href="https://safdar404.github.io/superstore-bi/"><strong>View interactive dashboard →</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/safdar404/safdar404.github.io/tree/main/superstore-bi"><strong>Read the Power BI build guide →</strong></a>
+</p>
+
+**Tools:** Power BI model design · DAX · Power Query workflow · Python data validation · interactive web visualization
+
+*The live dashboard is a web demonstration. The repository includes the Power BI Desktop build instructions; a native .pbix file has not been published.*
 
 ---
 
