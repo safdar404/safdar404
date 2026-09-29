@@ -49,10 +49,10 @@ An end-to-end sales analytics case study using the supplied Superstore workbook.
 | Profit margin | **13.1%** |
 | Units sold | **22,313** |
 
-**Analysis:** 2020 sales reached $733,215, up 20.4% from 2019. Technology generated $498,095 in sales and $90,458 in profit. Furniture generated $414,289 in sales but only $9,978 in profit; Tables alone lost $11,092. The West contributed the highest regional profit at $67,861.
+**Visual analysis:** Monthly trend, category ranking, regional profit, customer-segment mix, diverging subcategory profit and quarterly geographic intensity.\n\n**Findings:** 2020 sales reached $733,215, up 20.4% from 2019. Technology generated $498,095 in sales and $90,458 in profit. Furniture generated $414,289 in sales but only $9,978 in profit; Tables alone lost $11,092. The West contributed the highest regional profit at $67,861.
 
 <p align="center">
-  <img src="./superstore-performance.svg" alt="Superstore charts comparing monthly sales in 2019 and 2020, sales by category, and profit by region" width="100%" />
+  <img src="./superstore-performance.svg" alt="Six Superstore charts: monthly sales trend, category sales, regional profit, segment share, subcategory profit, and regional quarterly sales heatmap" width="100%" />
 </p>
 
 **Model and quality checks:** Order Date links to a Date dimension; measures cover sales, profit, margin, distinct orders, units and average order value. The workbook's Returns sheet has 296 distinct IDs, with **zero matches** against Orders, so a return rate is excluded. The public dashboard uses grouped figures without customer or order identifiers.
