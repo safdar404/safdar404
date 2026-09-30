@@ -100,6 +100,12 @@ A customer-sales case study drawn from a file labeled as a hiring assessment. Af
 
 ---
 
+## 🌐 Live AI & GeoAI Applications
+
+[![HIS AI Agentic Solutions](https://img.shields.io/badge/HIS_AI_AGENTIC_SOLUTIONS-OPEN_APP-7C3AED?style=for-the-badge&logo=probot&logoColor=white)](https://his-ai-agentic-solutions.lovable.app/)
+[![GeoSentinel AI](https://img.shields.io/badge/GEOSENTINEL_AI-OPEN_APP-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://geosentinel-ai-1.ai.studio/)
+[![AI HealthAssist](https://img.shields.io/badge/AI_HEALTHASSIST-OPEN_APP-059669?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-healthassist.ai.studio/)
+
 ## 🚀 Selected projects
 
 | Project gallery | Project gallery |
