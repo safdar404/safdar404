@@ -101,6 +101,12 @@ An interactive ArcGIS and Python geospatial project covering Islamabad, combinin
 - Interactive 3D-style pie and bar charts with category area, percentage and source details; Power BI-ready data and setup kit.
 - Shapefile ZIPs for ten vector datasets, GeoJSON, raster data, map/chart PNG and PDF exports, and analysis reports.
 
+
+<p align="center"><a href="https://islamabad-feature-intelligence.safdarwatto7714.chatgpt.site/"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/assets/islamabad-feature-intelligence/sentinel2-analysis-map.png" alt="Islamabad Sentinel-2 analysis: false-color imagery, NDVI vegetation index and land-cover screening, acquired 23 February 2026" width="100%" /></a></p>
+<p align="center"><em>Sentinel-2B L2A analysis · 23 February 2026 · false color, NDVI and candidate land-cover screening.</em></p>
+<p align="center"><a href="https://islamabad-feature-intelligence.safdarwatto7714.chatgpt.site/"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/assets/islamabad-feature-intelligence/dashboard-charts.jpg" alt="Actual Islamabad dashboard chart panel showing a 3D-style land-use pie, category-area bars and 22.19 percent mapped land-use coverage" width="100%" /></a></p>
+<p align="center"><em>Live dashboard chart panel · mapped land use across the full Islamabad boundary. Unmapped land use is shown explicitly.</em></p>
+
 **Tools:** ArcGIS Maps SDK for JavaScript · Python · GeoPandas · Rasterio · scikit-learn · Sentinel-2 · OpenStreetMap · Microsoft Global ML Building Footprints
 
 *Building footprints are reference geometry, not legal cadastral parcels. Source coverage is incomplete, ML property use is unknown, and spectral candidates require validation. The dashboard provides Power BI-ready materials rather than an embedded Power BI report.*
