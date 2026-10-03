@@ -38,81 +38,146 @@ I transform spatial, engineering and business data into validated analysis, prod
 
 ## 📊 Power BI & Decision Intelligence
 
-### Superstore Sales Intelligence
-
-An end-to-end sales analytics case study using the supplied Superstore workbook. The source contains **5,899 order lines** and **3,002 distinct orders** from January 2019 through December 2020. The published dashboard supports year, region, category and customer-segment filters. The repository documents the Power BI data model and DAX measures for a Desktop implementation.
-
-| KPI | 2019–2020 |
-|---|---:|
-| Sales | **$1,342,420.85** |
-| Profit | **$175,234.44** |
-| Profit margin | **13.1%** |
-| Units sold | **22,313** |
-
-**Visual analysis:** Monthly trend, category ranking, regional profit, customer-segment mix, diverging subcategory profit and quarterly geographic intensity.\n\n**Findings:** 2020 sales reached $733,215, up 20.4% from 2019. Technology generated $498,095 in sales and $90,458 in profit. Furniture generated $414,289 in sales but only $9,978 in profit; Tables alone lost $11,092. The West contributed the highest regional profit at $67,861.
+I use **Power BI, DAX and Power Query** to turn operational, business and geospatial data into governed metrics, interactive dashboards and decision-ready reporting.
 
 <p align="center">
-  <img src="./superstore-performance.svg" alt="Six Superstore charts: monthly sales trend, category sales, regional profit, segment share, subcategory profit, and regional quarterly sales heatmap" width="100%" />
+<img src="./powerbi-analytics.svg" alt="Power BI analytics workflow: data sources, Power Query, semantic modeling, dashboards, insights and decision intelligence" width="100%" />
 </p>
 
-**Model and quality checks:** Order Date links to a Date dimension; measures cover sales, profit, margin, distinct orders, units and average order value. The workbook's Returns sheet has 296 distinct IDs, with **zero matches** against Orders, so a return rate is excluded. The public dashboard uses grouped figures without customer or order identifiers.
-
-<p align="center">
-  <a href="https://safdar404.github.io/superstore-bi/"><strong>View interactive dashboard →</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/safdar404/safdar404.github.io/tree/main/superstore-bi"><strong>Read the Power BI build guide →</strong></a>
-</p>
-
-**Tools:** Power BI model design · DAX · Power Query workflow · Python data validation · interactive web visualization
-
-*The live dashboard is a web demonstration. The repository includes the Power BI Desktop build instructions; a native .pbix file has not been published.*
-
-### Laptop Sales & Pricing Intelligence
-
-A new analysis of **4,446 laptop listings** and **$205.07 million in reported sales**. It compares brands, CPU families, price bands and graphics types, with brand-level pricing and coverage of ratings and stock. The dashboard filters by brand and graphics configuration.
-
-<p align="center"><img src="./laptop-performance.svg" alt="Laptop analytics charts showing sales by brand, CPU mix, price bands, and graphics configuration" width="100%" /></p>
-
-**Data quality:** 537 rows have reported sales that differ from price × units by more than $1, and the dataset has no transaction dates. The supplied archive includes a Power BI report credited to Sridhar Kamali; this independent dashboard uses its CSV and does not claim authorship of that report.
-
-[**View laptop dashboard →**](https://safdar404.github.io/laptop-intelligence/) · [Power BI model guide](https://github.com/safdar404/safdar404.github.io/tree/main/laptop-intelligence)
-
-### Customer Purchase Intelligence
-
-A customer-sales case study drawn from a file labeled as a hiring assessment. After removing one exact duplicate, **99 purchases total 34,400 source currency units** across 2016–2019. The public dashboard explores year, country, product and age-band mix without customer names or identifiers.
-
-<p align="center"><img src="./customer-purchases.svg" alt="Customer purchase charts showing annual amount, product and country comparisons, and age-band mix" width="100%" /></p>
-
-**Data quality:** Mixed date strings were interpreted day-first; the source does not specify a currency. The dashboard documents both assumptions.
-
-[**View customer dashboard →**](https://safdar404.github.io/customer-purchase-intelligence/) · [Power BI model guide](https://github.com/safdar404/safdar404.github.io/tree/main/customer-purchase-intelligence)
-
+**Power BI · DAX · Power Query · SQL/PostGIS · Python · GIS · Remote Sensing · Spatial Analytics**
 
 ---
 
 ## ⭐ Featured project — GeoAI Site Intelligence Suite
 
-<a href="https://safdar404.github.io/geoai-site-intelligence/"><img src="./geoai-site-intelligence.svg" alt="GeoAI Site Intelligence Suite workflow and three GIS applications" width="100%" /></a>
+### 🧭 AI/ML + GeoAI + GIS for spatial site selection
 
-[**MERIDIAN PRO**](https://safdar404.github.io/geoai-site-intelligence/meridian-pro.html) · [**GEOSENTINEL PRO**](https://safdar404.github.io/geoai-site-intelligence/geosentinel-pro.html) · [**SOLARIS PRO**](https://safdar404.github.io/geoai-site-intelligence/solaris-pro.html) · [Methodology](https://github.com/safdar404/safdar404.github.io/tree/main/geoai-site-intelligence)
+A three-application decision-support suite that packages **spatial suitability modeling, flood-mitigation siting and utility-scale solar screening** into interactive map-based workflows.
 
-*Illustrative decision-support prototypes; validate local inputs before real-world use.*
+| Application | Decision question | Key focus |
+|---|---|---|
+| **MERIDIAN PRO** | Where is the most suitable location? | AI geospatial suitability · MCDA · candidate ranking |
+| **GEOSENTINEL PRO** | Where should mitigation be prioritized? | Flood hazard · exposure · spatial suitability |
+| **SOLARIS PRO** | Where are the strongest solar candidates? | Solar screening · terrain · infrastructure · constraints |
+
+**Python · AI/ML · GeoAI · GIS · Leaflet · MCDA · Remote Sensing · Site Selection**
+
+### Explore the suite
+
+[**🚀 Open GeoAI Site Intelligence Suite**](https://safdar404.github.io/geoai-site-intelligence/) · [**📁 Open portfolio repository folder**](https://github.com/safdar404/safdar404.github.io/tree/main/geoai-site-intelligence)
+
+### Individual applications
+
+- [**MERIDIAN PRO — AI Geospatial Suitability Platform**](https://safdar404.github.io/geoai-site-intelligence/meridian-pro.html)
+- [**GEOSENTINEL PRO — Flood Mitigation Siting Platform**](https://safdar404.github.io/geoai-site-intelligence/geosentinel-pro.html)
+- [**SOLARIS PRO — Utility-Scale Solar Siting Platform**](https://safdar404.github.io/geoai-site-intelligence/solaris-pro.html)
+
+### Analytical chain
+
+`Problem definition → spatial/EO data → preprocessing → criteria → weights/MCDA → AI/ML/GeoAI analysis → candidate scoring → ranked sites → interactive decision support`
+
+<p align="center">
+<img src="./geoai-workflow.svg" alt="Applied GeoAI delivery pipeline from problem definition through data, QA, GeoAI analysis, decision support and deployment" width="100%" />
+</p>
+
+> **Validation note:** These are GeoAI/spatial decision-support prototypes. Operational deployment requires authoritative local datasets, documented data provenance, uncertainty/sensitivity analysis, regulatory and engineering checks, and expert validation.
 
 ---
 
 ## 🚀 Selected projects
 
-| Project gallery | Project gallery |
-|:---|:---|
-| <a href="https://ai-healthassist.ai.studio/"><img src="./project-visuals/ai-healthassist.svg" alt="AI HealthAssist: Structured guidance; Triage and escalation" width="100%" /></a><br/><a href="https://ai-healthassist.ai.studio/">View project →</a> · <a href="https://github.com/safdar404/HIS-AI-HealthAssist">Source</a> | <a href="https://safdar404.github.io/geosentinel-floodops/"><img src="./project-visuals/geosentinel-floodops.svg" alt="GeoSentinel FloodOps: Temporal flood context; Exposure and operational maps" width="100%" /></a><br/><a href="https://safdar404.github.io/geosentinel-floodops/">View project →</a> |
-| <a href="https://pmu-pdp-infrastructure-gis.neat-grove-8624.chatgpt.site/"><img src="./project-visuals/infrastructure-gis.svg" alt="Infrastructure GIS: Spatial infrastructure view; Map-based decision support" width="100%" /></a><br/><a href="https://pmu-pdp-infrastructure-gis.neat-grove-8624.chatgpt.site/">View project →</a> | <a href="https://geoai-resilience-intelligence-suite.neat-grove-8624.chatgpt.site"><img src="./project-visuals/resilience-suite.svg" alt="GeoAI Resilience Suite: Urban · flood · utility; Drainage · EO change" width="100%" /></a><br/><a href="https://geoai-resilience-intelligence-suite.neat-grove-8624.chatgpt.site">View project →</a> · <a href="https://github.com/safdar404/geoai-resilience-research-lab">Source</a> |
-| <a href="https://pakistan-flood-intelligence-2026.neat-grove-8624.chatgpt.site/"><img src="./project-visuals/pakistan-flood.svg" alt="Pakistan Flood Intelligence: Dated impact context; Map-based response view" width="100%" /></a><br/><a href="https://pakistan-flood-intelligence-2026.neat-grove-8624.chatgpt.site/">View project →</a> · <a href="https://github.com/safdar404/Pakistan-National-Flood-Intelligence">Source</a> | <a href="https://safdar404.github.io/prediction-studio/"><img src="./project-visuals/prediction-studio.svg" alt="Prediction Studio: Health and stock forecasts; Model-oriented dashboards" width="100%" /></a><br/><a href="https://safdar404.github.io/prediction-studio/">View project →</a> · <a href="https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10">Source</a> |
-| <a href="https://langchain-rag-document-assistant.neat-grove-8624.chatgpt.site"><img src="./project-visuals/rag-assistant.svg" alt="LangChain RAG Assistant: Ingest and retrieve; Evidence-grounded answers" width="100%" /></a><br/><a href="https://langchain-rag-document-assistant.neat-grove-8624.chatgpt.site">View project →</a> · <a href="https://github.com/safdar404/LangChain-RAG-Application">Source</a> | <a href="https://mep-scanner-system.neat-grove-8624.chatgpt.site"><img src="./project-visuals/mep-scanner.svg" alt="MEP Scanner System: Drawing ingestion; Structured extraction" width="100%" /></a><br/><a href="https://mep-scanner-system.neat-grove-8624.chatgpt.site">View project →</a> · <a href="https://github.com/safdar404/HIS-MEP-Scanner-System.">Source</a> |
-| <a href="https://ai-cad-bim-flow.lovable.app/"><img src="./project-visuals/planora-ai.svg" alt="Planora AI: Engineering data flow; Cross-domain workflow concept" width="100%" /></a><br/><a href="https://ai-cad-bim-flow.lovable.app/">View project →</a> · <a href="https://github.com/safdar404/ai-cad-bim-flow">Source</a> | <a href="https://github.com/safdar404/mep-analyzer"><img src="./project-visuals/mep-analyzer.svg" alt="MEP Drawing Analyzer: Engineering drawings; Structured MEP information" width="100%" /></a><br/><a href="https://github.com/safdar404/mep-analyzer">View project →</a> |
-| <a href="https://github.com/safdar404/alfanar-mep-ocr"><img src="./project-visuals/alfanar-ocr.svg" alt="Alfanar MEP OCR: MEP document processing; Text to structured fields" width="100%" /></a><br/><a href="https://github.com/safdar404/alfanar-mep-ocr">View project →</a> | <a href="https://github.com/safdar404/zarwa-bill-scanner"><img src="./project-visuals/zarwa-bill.svg" alt="Zarwa Bill Scanner: Bill image processing; Structured capture" width="100%" /></a><br/><a href="https://github.com/safdar404/zarwa-bill-scanner">View project →</a> |
-| <a href="https://safdar404.github.io/python-ai-lab/"><img src="./project-visuals/python-ai-lab.svg" alt="Python & AI Analytics Lab: Analytics and APIs; Practical ML workflows" width="100%" /></a><br/><a href="https://safdar404.github.io/python-ai-lab/">View project →</a> |  |
+### 🏥 AI-HealthAssist — Clinical Decision Support & Triage System
+AI-powered healthcare decision-support application designed to provide structured health guidance, triage/risk workflows and safety-focused escalation in an accessible web interface.
 
-> **AI-HealthAssist:** Educational decision support only; it does not replace professional clinical diagnosis or treatment. Project capabilities and deployment status should be evaluated in the linked applications and repositories.
+**AI/ML · Python · LLM Applications · Decision Support · Healthcare AI · Responsive Web App**
+
+[**Open AI-HealthAssist**](https://ai-healthassist.ai.studio/) · [**Source repository**](https://github.com/safdar404/HIS-AI-HealthAssist)
+
+> **Safety:** AI-HealthAssist is an educational/decision-support application and is not a substitute for qualified medical diagnosis, treatment or professional clinical advice.
+
+### 🛰️ GeoSentinel FloodOps — Global Temporal GeoAI
+Agentic flood and water intelligence combining temporal Sentinel-1/2 analysis, Leaflet operational maps, exposure/damage assessment, human approval and downloadable operational map products.
+
+**Leaflet · Sentinel-1/2 · Google Earth Engine · Python GeoAI · PostGIS · Agentic AI**
+
+[Open GeoSentinel FloodOps](https://safdar404.github.io/geosentinel-floodops/)
+
+### 🗺️ Pakistan Infrastructure GIS Command Centre
+Infrastructure and transportation GIS dashboard for spatial decision support, project monitoring and public-development workflows.
+
+**GIS · Infrastructure · Transportation · Spatial Decision Support · Web Mapping**
+
+[Open command centre](https://pmu-pdp-infrastructure-gis.neat-grove-8624.chatgpt.site/)
+
+### 🌍 GeoAI Resilience Intelligence Suite
+Five program-specific workflows for urban suitability, flood response, utility risk, drainage capacity and Earth-observation change.
+
+**GeoAI · GIS · MCDA · Remote Sensing · Spatial QA**
+
+[Live suite](https://geoai-resilience-intelligence-suite.neat-grove-8624.chatgpt.site) · [Research repository](https://github.com/safdar404/geoai-resilience-research-lab)
+
+### 🌊 Pakistan Flood Intelligence
+Decision-support view combining weather outlooks, dated impacts, river context, preparedness guidance and map-based decisions.
+
+**GeoAI · Risk Analytics · Web Mapping · Data Visualization**
+
+[Live system](https://pakistan-flood-intelligence-2026.neat-grove-8624.chatgpt.site/) · [Source](https://github.com/safdar404/Pakistan-National-Flood-Intelligence)
+
+### 📊 Prediction Studio
+Applied machine-learning workflows covering health-risk prediction, hospital intelligence, healthcare stock forecasting and FDA-device analysis.
+
+**Python · scikit-learn · TensorFlow · FastAPI · Applied ML**
+
+[Live dashboards](https://prediction-api-dashboard-hub.neat-grove-8624.chatgpt.site) · [Source](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10)
+
+### 📚 LangChain RAG Assistant
+Document intelligence platform for ingestion, retrieval and evidence-grounded question answering with transparent source handling.
+
+**Python · LangChain · RAG · Vector Search · LLM Applications**
+
+[Live assistant](https://langchain-rag-document-assistant.neat-grove-8624.chatgpt.site) · [Source](https://github.com/safdar404/LangChain-RAG-Application)
+
+### 🏗️ MEP Scanner System
+Engineering-document intelligence for drawing ingestion, OCR-assisted extraction and structured MEP findings.
+
+**OCR · Computer Vision · Engineering AI · Data Extraction · Python**
+
+[Live system](https://mep-scanner-system.neat-grove-8624.chatgpt.site) · [Source](https://github.com/safdar404/HIS-MEP-Scanner-System.)
+
+### 🏢 Planora AI — AI CAD, BIM & GIS Flow
+AI-assisted workflow concept connecting CAD, BIM and GIS information for engineering and spatial data processing.
+
+**AI · CAD · BIM · GIS · Engineering Automation**
+
+[Open application](https://ai-cad-bim-flow.lovable.app/) · [Source](https://github.com/safdar404/ai-cad-bim-flow)
+
+### 🔎 MEP Drawing Analyzer
+AI-assisted analysis workflow for engineering drawings, document interpretation and structured MEP information extraction.
+
+**Python · OCR · Computer Vision · Engineering AI · Document Intelligence**
+
+[Source repository](https://github.com/safdar404/mep-analyzer)
+
+### 🧾 Alfanar MEP OCR
+OCR-based engineering document processing workflow for extracting structured information from MEP drawings and documents.
+
+**Python · OCR · Document AI · Computer Vision · Data Extraction**
+
+[Source repository](https://github.com/safdar404/alfanar-mep-ocr)
+
+### 💳 Zarwa Bill Scanner
+Document-scanning workflow for bill image processing, OCR extraction and structured financial information capture.
+
+**Python · OCR · Computer Vision · Document AI · Data Extraction**
+
+[Source repository](https://github.com/safdar404/zarwa-bill-scanner)
+
+### 🐍 Python & AI Analytics Lab
+Applied Python and AI/ML learning projects covering analytics, APIs, dashboards and practical machine-learning workflows.
+
+**Python · AI/ML · Pandas · APIs · Data Analytics**
+
+[Open analytics lab](https://safdar404.github.io/python-ai-lab/)
 
 ---
 
