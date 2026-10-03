@@ -49,9 +49,7 @@ An end-to-end sales analytics case study using the supplied Superstore workbook.
 | Profit margin | **13.1%** |
 | Units sold | **22,313** |
 
-**Visual analysis:** Monthly trend, category ranking, regional profit, customer-segment mix, diverging subcategory profit and quarterly geographic intensity.
-
-**Findings:** 2020 sales reached $733,215, up 20.4% from 2019. Technology generated $498,095 in sales and $90,458 in profit. Furniture generated $414,289 in sales but only $9,978 in profit; Tables alone lost $11,092. The West contributed the highest regional profit at $67,861.
+**Visual analysis:** Monthly trend, category ranking, regional profit, customer-segment mix, diverging subcategory profit and quarterly geographic intensity.\n\n**Findings:** 2020 sales reached $733,215, up 20.4% from 2019. Technology generated $498,095 in sales and $90,458 in profit. Furniture generated $414,289 in sales but only $9,978 in profit; Tables alone lost $11,092. The West contributed the highest regional profit at $67,861.
 
 <p align="center">
   <img src="./superstore-performance.svg" alt="Six Superstore charts: monthly sales trend, category sales, regional profit, segment share, subcategory profit, and regional quarterly sales heatmap" width="100%" />
@@ -416,4 +414,3 @@ Open to **Data Science, Data Engineering, AI/ML Engineering, Python, GIS, GeoAI 
 [Portfolio](https://safdar404.github.io/) · [LinkedIn](https://www.linkedin.com/in/muhammad-safdar-88b27730) · [Facebook](https://www.facebook.com/muhammad.safdar.615557) · [Email](mailto:safdar404@gmail.com) · [WhatsApp](https://wa.me/923228792404) · [Resume](https://smhisresume.com/)
 
 </div>
-
