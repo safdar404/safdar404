@@ -90,23 +90,6 @@ A customer-sales case study drawn from a file labeled as a hiring assessment. Af
 
 ---
 
-## Islamabad Feature Intelligence
-
-[**Open the live Islamabad dashboard**](https://islamabad-feature-intelligence.safdarwatto7714.chatgpt.site)
-
-An interactive ArcGIS and Python geospatial project covering Islamabad, combining **16,704 OSM building footprints** with **228,921 additional Microsoft ML footprints** into a **245,625-feature Building Footprints view**. Residential, commercial, industrial, other tagged use and unknown-use categories have independent filters and polygon colors.
-
-- Reference roads, waterways, water bodies and land-use areas alongside Sentinel-2 vegetation, water and built-up / bare-soil screening.
-- Dated Sentinel-2B imagery (23 February 2026), spectral indices and unsupervised ML clusters for broad land-cover context.
-- Interactive 3D-style pie and bar charts with category area, percentage and source details; Power BI-ready data and setup kit.
-- Shapefile ZIPs for ten vector datasets, GeoJSON, raster data, map/chart PNG and PDF exports, and analysis reports.
-
-**Tools:** ArcGIS Maps SDK for JavaScript · Python · GeoPandas · Rasterio · scikit-learn · Sentinel-2 · OpenStreetMap · Microsoft Global ML Building Footprints
-
-*Building footprints are reference geometry, not legal cadastral parcels. Source coverage is incomplete, ML property use is unknown, and spectral candidates require validation. The dashboard provides Power BI-ready materials rather than an embedded Power BI report.*
-
----
-
 ## ⭐ Featured project — GeoAI Site Intelligence Suite
 
 <a href="https://safdar404.github.io/geoai-site-intelligence/"><img src="./geoai-site-intelligence.svg" alt="GeoAI Site Intelligence Suite workflow and three GIS applications" width="100%" /></a>
@@ -116,12 +99,6 @@ An interactive ArcGIS and Python geospatial project covering Islamabad, combinin
 *Illustrative decision-support prototypes; validate local inputs before real-world use.*
 
 ---
-
-## 🌐 Live AI & GeoAI Applications
-
-[![HIS AI Agentic Solutions](https://img.shields.io/badge/HIS_AI_AGENTIC_SOLUTIONS-OPEN_APP-7C3AED?style=for-the-badge&logo=probot&logoColor=white)](https://his-ai-agentic-solutions.lovable.app/)
-[![GeoSentinel AI](https://img.shields.io/badge/GEOSENTINEL_AI-OPEN_APP-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://geosentinel-ai-1.ai.studio/)
-[![AI HealthAssist](https://img.shields.io/badge/AI_HEALTHASSIST-OPEN_APP-059669?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-healthassist.ai.studio/)
 
 ## 🚀 Selected projects
 
