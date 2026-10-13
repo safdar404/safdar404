@@ -189,15 +189,21 @@ Rock-versus-mine classification from 60 sonar measurements, using a scaled SVC p
 
 **Python · Pandas · scikit-learn · SVC · Model evaluation**
 
+<p align="center"><img src="./assets/ml-analysis/sonar-analysis.svg" alt="Sonar classification analysis: measured metrics, confusion matrix, ROC and precision-recall curves" width="100%" /></p>
+
 ### 🎗️ Breast Cancer Classification
 An educational Wisconsin diagnostic-dataset workflow using logistic regression as a baseline and a StandardScaler → PCA → SVC pipeline. Includes cross-validation, malignant recall, confusion matrices, ROC/precision–recall analysis and model persistence.
 
 **Python · PCA · SVC · Cross-validation · Recall analysis**
 
+<p align="center"><img src="./assets/ml-analysis/cancer-analysis.svg" alt="Breast cancer educational classification analysis: measured metrics, confusion matrix, ROC and precision-recall curves" width="100%" /></p>
+
 ### 💳 Credit Card Fraud Detection
 Rare-event classification with tree-based model comparisons and a balanced random forest. Analysis emphasizes average precision, fraud recall, validation-based threshold selection, false alarms and missed transactions.
 
 **Python · Random Forest · Imbalanced learning · Threshold tuning · Precision–recall**
+
+<p align="center"><img src="./assets/ml-analysis/fraud-analysis.svg" alt="Fraud detection analysis: validation-selected threshold, measured metrics, confusion matrix, ROC and precision-recall curves" width="100%" /></p>
 
 **Shared frontend:** a prepared Streamlit dashboard brings these three projects together with editable sample inputs, CSV batch predictions, evaluation charts and downloadable results. Online Streamlit deployment is pending; no live URL is claimed.
 
