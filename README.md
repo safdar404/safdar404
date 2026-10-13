@@ -114,10 +114,20 @@ PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 <img src="https://img.shields.io/badge/BIM%20%2F%20IFC-8B5CF6?style=for-the-badge" alt="BIM / IFC" title="BIM / IFC" />
 <img src="https://img.shields.io/badge/CAD%2Dto%2DGIS-06B6D4?style=for-the-badge" alt="CAD-to-GIS" title="CAD-to-GIS" /></p>
 
+### Workflow Automation
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" title="n8n" />
+  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make.com" title="Make.com" />
+</p>
+
+**n8n · Make.com** · Visual workflows · API integrations · Automation
+
 <details>
 <summary><strong>Complete technical stack</strong></summary>
 
 **AI & Data Science:** Python, Pandas, NumPy, scikit-learn, TensorFlow/Keras, OpenCV, Hugging Face, LangChain, RAG  
+**Workflow Automation:** n8n, Make.com, visual workflows and API integrations  
 **Data & APIs:** SQL, PostgreSQL/PostGIS, SQLite, ETL, FastAPI, Flask, REST, Streamlit, Docker  
 **GIS & Remote Sensing:** ArcGIS Pro/Enterprise, QGIS, Google Earth Engine, FME, Agisoft Metashape  
 **Geospatial Python:** ArcPy, GeoPandas, GDAL, Rasterio, Shapely, Fiona, PyProj, Folium, Leaflet  
