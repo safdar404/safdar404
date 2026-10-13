@@ -20,7 +20,7 @@ I transform spatial, engineering and business data into validated analysis, prod
 ---
 
 <p align="center">
-<img src="./profile-metrics.svg" alt="Professional snapshot: 15+ years GIS/GeoAI, 20+ people trained, 3 GeoAI suite apps, 5 resilience workflows, 10+ applied AI projects" width="100%" />
+<img src="./profile-metrics.svg" alt="Portfolio snapshot: 21 projects, 3 applied ML studies, 3 BI dashboards, 5 resilience workflows and 3 site selection apps" width="100%" />
 </p>
 
 ## What I deliver
