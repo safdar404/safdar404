@@ -46,6 +46,63 @@ I use **Power BI, DAX and Power Query** to turn operational, business and geospa
 
 ---
 
+<!-- TOOL-LOGOS-START -->
+## 🛠️ Tools & Technology
+
+### AI/ML & Data Science
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" title="Keras" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="48" height="48" />
+</p>
+
+Python · NumPy · Pandas · scikit-learn · TensorFlow · Keras · OpenCV
+
+### Data, APIs & Applications
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL / PostGIS" title="PostgreSQL / PostGIS" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Streamlit" title="Streamlit" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="48" height="48" />
+</p>
+
+PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
+
+### GIS, Remote Sensing & Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/ArcGIS_Pro_%2F_Enterprise-007AC2?style=for-the-badge" alt="ArcGIS Pro / Enterprise" title="ArcGIS Pro / Enterprise" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge" alt="QGIS" title="QGIS" />
+  <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge" alt="Google Earth Engine" title="Google Earth Engine" />
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge" alt="GeoPandas" title="GeoPandas" />
+  <img src="https://img.shields.io/badge/GDAL_%2F_Rasterio-14B8A6?style=for-the-badge" alt="GDAL / Rasterio" title="GDAL / Rasterio" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" alt="Power BI" title="Power BI" />
+  <img src="https://img.shields.io/badge/AutoCAD_%2F_Civil_3D-E51050?style=for-the-badge" alt="AutoCAD / Civil 3D" title="AutoCAD / Civil 3D" />
+  <img src="https://img.shields.io/badge/BIM_%2F_IFC-8B5CF6?style=for-the-badge" alt="BIM / IFC" title="BIM / IFC" />
+</p>
+
+<details>
+<summary><strong>Complete technical stack</strong></summary>
+
+**AI & Data Science:** Python, Pandas, NumPy, scikit-learn, TensorFlow/Keras, OpenCV, Hugging Face, LangChain, RAG  
+**Data & APIs:** SQL, PostgreSQL/PostGIS, SQLite, ETL, FastAPI, Flask, REST, Streamlit, Docker  
+**GIS & Remote Sensing:** ArcGIS Pro/Enterprise, QGIS, Google Earth Engine, FME, Agisoft Metashape  
+**Geospatial Python:** ArcPy, GeoPandas, GDAL, Rasterio, Shapely, Fiona, PyProj, Folium, Leaflet  
+**Engineering & Cloud:** AutoCAD, Civil 3D, BIM/IFC, CAD-to-GIS, Power BI, AWS, Azure, Google Cloud
+
+
+</details>
+<!-- TOOL-LOGOS-END -->
+
+---
+
 <!-- PROJECT-GALLERY-START -->
 ## Project portfolio
 
@@ -517,14 +574,6 @@ Interactive analysis of 5,899 order lines across 2019–2020: sales, profit, mar
 
 
 </details>
-
-## Technology stack
-
-**AI & Data Science:** Python, Pandas, NumPy, scikit-learn, TensorFlow/Keras, OpenCV, Hugging Face, LangChain, RAG  
-**Data & APIs:** SQL, PostgreSQL/PostGIS, SQLite, ETL, FastAPI, Flask, REST, Streamlit, Docker  
-**GIS & Remote Sensing:** ArcGIS Pro/Enterprise, QGIS, Google Earth Engine, FME, Agisoft Metashape  
-**Geospatial Python:** ArcPy, GeoPandas, GDAL, Rasterio, Shapely, Fiona, PyProj, Folium, Leaflet  
-**Engineering & Cloud:** AutoCAD, Civil 3D, BIM/IFC, CAD-to-GIS, Power BI, AWS, Azure, Google Cloud
 
 ## Professional delivery
 
