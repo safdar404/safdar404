@@ -181,6 +181,78 @@ Applied Python and AI/ML learning projects covering analytics, APIs, dashboards 
 
 ---
 
+
+## 🆕 Applied ML case studies — 13 October 2026
+
+### 🌊 Sonar Signal Classification
+Rock-versus-mine classification from 60 sonar measurements, using a scaled SVC pipeline, stratified splitting, classification reports and sample predictions.
+
+**Python · Pandas · scikit-learn · SVC · Model evaluation**
+
+### 🎗️ Breast Cancer Classification
+An educational Wisconsin diagnostic-dataset workflow using logistic regression as a baseline and a StandardScaler → PCA → SVC pipeline. Includes cross-validation, malignant recall, confusion matrices, ROC/precision–recall analysis and model persistence.
+
+**Python · PCA · SVC · Cross-validation · Recall analysis**
+
+### 💳 Credit Card Fraud Detection
+Rare-event classification with tree-based model comparisons and a balanced random forest. Analysis emphasizes average precision, fraud recall, validation-based threshold selection, false alarms and missed transactions.
+
+**Python · Random Forest · Imbalanced learning · Threshold tuning · Precision–recall**
+
+**Shared frontend:** a prepared Streamlit dashboard brings these three projects together with editable sample inputs, CSV batch predictions, evaluation charts and downloadable results. Online Streamlit deployment is pending; no live URL is claimed.
+
+> Case-study descriptions are grounded in the reviewed notebooks. Dataset results are educational evaluations, not clinical validation or evidence of operational fraud-detection reliability.
+
+---
+
+## 🗂️ Additional projects from my portfolio
+
+### 🏙️ Islamabad Feature Intelligence
+Combined OSM and Microsoft ML building references, mapped roads and land use, dated Sentinel-2 screening, category filters and interactive analytical charts.
+
+**ArcGIS · Python · GeoAI · Sentinel-2**
+
+[Open dashboard](https://islamabad-feature-intelligence.safdarwatto7714.chatgpt.site/) · [Portfolio details](https://safdar404.github.io/)
+
+### 🤖 HIS AI Agentic Solutions
+An AI engineering and automation showcase connecting specialist agents, data, tools, validation and human approval.
+
+**Agentic workflows · Human review · GeoAI**
+
+[Open application](https://his-ai-agentic-solutions.lovable.app/)
+
+### 🛰️ GeoSentinel AI
+Flood-intelligence and municipal incident-management demonstration featuring the Nullah Lai and Margalla catchment context, evidence review and work-order workflows.
+
+**Web GIS · Flood intelligence · Incident workflows**
+
+[Open application](https://geosentinel-ai-1.ai.studio/)
+
+### 💻 Laptop Sales & Pricing Intelligence
+Analysis of 4,446 laptop listings across brands, price bands, processor mix, ratings and reported sales, with documented source inconsistencies and a Power BI model guide.
+
+**Power BI · DAX · Retail Analytics · Data QA**
+
+[Open dashboard](https://safdar404.github.io/laptop-intelligence/) · [Model guide](https://github.com/safdar404/safdar404.github.io/tree/main/laptop-intelligence)
+
+### 🛒 Customer Purchase Intelligence
+Anonymous purchase analysis across 2016–2019, including country, product, year and age-band views with documented source-date and currency limitations.
+
+**Power BI · DAX · Customer Analytics**
+
+[Open dashboard](https://safdar404.github.io/customer-purchase-intelligence/) · [Model guide](https://github.com/safdar404/safdar404.github.io/tree/main/customer-purchase-intelligence)
+
+### 📈 Superstore Sales Intelligence
+Interactive analysis of 5,899 order lines across 2019–2020: sales, profit, margin, monthly trends and regional/product performance, with a documented returns data-quality finding.
+
+**Power BI · DAX · Data Analytics**
+
+[Open dashboard](https://safdar404.github.io/superstore-bi/) · [Power BI guide](https://github.com/safdar404/safdar404.github.io/tree/main/superstore-bi)
+
+**Current portfolio links for existing profile projects:** [Prediction Studio](https://safdar404.github.io/prediction-studio/) · [HIS Bill Scanner (formerly Zarwa Bill Scanner)](https://his-bill-scanner.neat-grove-8624.chatgpt.site/) · [Current bill-scanner repository](https://github.com/safdar404/HIS-Bill-Scanner)
+
+---
+
 ## Technology stack
 
 **AI & Data Science:** Python, Pandas, NumPy, scikit-learn, TensorFlow/Keras, OpenCV, Hugging Face, LangChain, RAG  
