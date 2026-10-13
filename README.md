@@ -75,18 +75,44 @@ Python · NumPy · Pandas · scikit-learn · TensorFlow · Keras · OpenCV
 
 PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 
-### GIS, Remote Sensing & Engineering
+### Power BI & Business Intelligence
 
-<p>
-  <img src="https://img.shields.io/badge/ArcGIS_Pro_%2F_Enterprise-007AC2?style=for-the-badge" alt="ArcGIS Pro / Enterprise" title="ArcGIS Pro / Enterprise" />
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge" alt="QGIS" title="QGIS" />
-  <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge" alt="Google Earth Engine" title="Google Earth Engine" />
-  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge" alt="GeoPandas" title="GeoPandas" />
-  <img src="https://img.shields.io/badge/GDAL_%2F_Rasterio-14B8A6?style=for-the-badge" alt="GDAL / Rasterio" title="GDAL / Rasterio" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" alt="Power BI" title="Power BI" />
-  <img src="https://img.shields.io/badge/AutoCAD_%2F_Civil_3D-E51050?style=for-the-badge" alt="AutoCAD / Civil 3D" title="AutoCAD / Civil 3D" />
-  <img src="https://img.shields.io/badge/BIM_%2F_IFC-8B5CF6?style=for-the-badge" alt="BIM / IFC" title="BIM / IFC" />
-</p>
+<p><img src="./assets/tool-icons/powerbi.svg" alt="Microsoft Power BI" title="Microsoft Power BI" width="48" height="48" /></p>
+
+**Microsoft Power BI** · DAX · Power Query · Dashboard design
+
+<p><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge" alt="Power BI" title="Power BI" />
+<img src="https://img.shields.io/badge/DAX-E8B923?style=for-the-badge" alt="DAX" title="DAX" />
+<img src="https://img.shields.io/badge/Power%20Query-14B8A6?style=for-the-badge" alt="Power Query" title="Power Query" /></p>
+
+### GIS & Remote Sensing
+
+<p><img src="./assets/tool-icons/arcgis.svg" alt="ArcGIS Pro / Enterprise" title="ArcGIS Pro / Enterprise" width="48" height="48" />
+<img src="./assets/tool-icons/qgis.svg" alt="QGIS" title="QGIS" width="48" height="48" /></p>
+
+**ArcGIS Pro / Enterprise · QGIS** · Google Earth Engine · FME · Agisoft Metashape
+
+<p><img src="https://img.shields.io/badge/ArcGIS%20Pro-007AC2?style=for-the-badge" alt="ArcGIS Pro" title="ArcGIS Pro" />
+<img src="https://img.shields.io/badge/ArcGIS%20Enterprise-0284C7?style=for-the-badge" alt="ArcGIS Enterprise" title="ArcGIS Enterprise" />
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge" alt="QGIS" title="QGIS" />
+<img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge" alt="Google Earth Engine" title="Google Earth Engine" />
+<img src="https://img.shields.io/badge/FME-E67E22?style=for-the-badge" alt="FME" title="FME" />
+<img src="https://img.shields.io/badge/Agisoft%20Metashape-7C3AED?style=for-the-badge" alt="Agisoft Metashape" title="Agisoft Metashape" />
+<img src="https://img.shields.io/badge/ArcPy-007AC2?style=for-the-badge" alt="ArcPy" title="ArcPy" />
+<img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge" alt="GeoPandas" title="GeoPandas" />
+<img src="https://img.shields.io/badge/GDAL-14B8A6?style=for-the-badge" alt="GDAL" title="GDAL" />
+<img src="https://img.shields.io/badge/Rasterio-0D9488?style=for-the-badge" alt="Rasterio" title="Rasterio" /></p>
+
+### CAD & Engineering
+
+<p><img src="./assets/tool-icons/autocad.svg" alt="Autodesk AutoCAD" title="Autodesk AutoCAD" width="48" height="48" /></p>
+
+**AutoCAD · Civil 3D** · BIM/IFC · CAD-to-GIS workflows
+
+<p><img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge" alt="AutoCAD" title="AutoCAD" />
+<img src="https://img.shields.io/badge/Civil%203D-D946EF?style=for-the-badge" alt="Civil 3D" title="Civil 3D" />
+<img src="https://img.shields.io/badge/BIM%20%2F%20IFC-8B5CF6?style=for-the-badge" alt="BIM / IFC" title="BIM / IFC" />
+<img src="https://img.shields.io/badge/CAD%2Dto%2DGIS-06B6D4?style=for-the-badge" alt="CAD-to-GIS" title="CAD-to-GIS" /></p>
 
 <details>
 <summary><strong>Complete technical stack</strong></summary>
