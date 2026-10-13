@@ -40,226 +40,256 @@ I transform spatial, engineering and business data into validated analysis, prod
 
 I use **Power BI, DAX and Power Query** to turn operational, business and geospatial data into governed metrics, interactive dashboards and decision-ready reporting.
 
-<p align="center">
-<img src="./powerbi-analytics.svg" alt="Power BI analytics workflow: data sources, Power Query, semantic modeling, dashboards, insights and decision intelligence" width="100%" />
-</p>
+[Explore the three implemented BI dashboards and their source notes below.](#-business-intelligence)
 
 **Power BI · DAX · Power Query · SQL/PostGIS · Python · GIS · Remote Sensing · Spatial Analytics**
 
 ---
 
 <!-- PROJECT-GALLERY-START -->
-## 🎨 Explore my projects
+## Project portfolio
 
-[![Project implementation gallery](./assets/project-gallery-banner.svg)](https://safdar404.github.io/)
+**Original interfaces, measured analyses and source-backed implementation details.**
 
-**Choose a workspace → explore the implementation → inspect the source or analysis → discuss your project.**
+[Browse the searchable portfolio](https://safdar404.github.io/) · [Discuss your project](https://wa.me/923228792404)
 
-[**Browse searchable portfolio**](https://safdar404.github.io/) · [**Discuss a project on WhatsApp**](https://wa.me/923228792404) · [**Connect on LinkedIn**](https://www.linkedin.com/in/muhammad-safdar-88b27730)
+### 🛰️ GeoAI & GIS
 
-Screenshots show existing interfaces; overview graphics illustrate project workflows. Demo access and sign-in requirements vary. Numerical highlights below describe the documented datasets or project scope, not independently verified operational performance.
-
-<details open>
-<summary><strong>🛰️ GeoAI &amp; GIS · 7 projects</strong></summary>
-<br />
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://islamabad-feature-intelligence.safdarwatto7714.chatgpt.site"><img src="https://safdar404.github.io/assets/islamabad-feature-intelligence/sentinel2-analysis-map.png" alt="Islamabad Sentinel-2 false color, NDVI and land-cover analysis" width="100%" /></a><br />
+<td width="34%" valign="middle">
+<a href="https://islamabad-feature-intelligence.safdarwatto7714.chatgpt.site"><img src="https://safdar404.github.io/assets/islamabad-feature-intelligence/sentinel2-analysis-map.png" alt="Islamabad Feature Intelligence — Original interface / analysis" width="260" /></a><br /><sub>Original interface / analysis</sub>
+</td>
+<td width="66%" valign="top">
 <strong>Islamabad Feature Intelligence</strong><br />
-<sub>Original project interface / analysis image</sub><br /><br />
-245,625 combined building references · Sentinel-2 screening<br /><br />
-<sub>ArcGIS · Python · GeoAI</sub><br /><br />
+<sub>Sentinel-2 false-colour, NDVI and land-cover map</sub><br /><br />
+Building references, roads and land-use filters; the preview shows spectral analysis, not verified cadastral boundaries.<br /><br />
+<sub>ArcGIS · Python · GeoAI</sub><br />
 <a href="https://islamabad-feature-intelligence.safdarwatto7714.chatgpt.site"><strong>Open live dashboard</strong></a>
 </td>
-<td width="50%" valign="top">
-<a href="https://geoai-resilience-intelligence-suite.neat-grove-8624.chatgpt.site/"><img src="https://safdar404.github.io/assets/selected-projects/resilience.jpg" alt="GeoAI Resilience Intelligence Suite — application screenshot" width="100%" /></a><br />
+</tr>
+<tr>
+<td width="34%" valign="middle">
+<a href="https://geoai-resilience-intelligence-suite.neat-grove-8624.chatgpt.site/"><img src="https://safdar404.github.io/assets/selected-projects/resilience.jpg" alt="GeoAI Resilience Intelligence Suite — Original interface / analysis" width="260" /></a><br /><sub>Original interface / analysis</sub>
+</td>
+<td width="66%" valign="top">
 <strong>GeoAI Resilience Intelligence Suite</strong><br />
-<sub>Original project interface / analysis image</sub><br /><br />
-5 spatial programmes · Python research toolkit<br /><br />
-<sub>Python · GeoAI · GIS</sub><br /><br />
+<sub>Urban growth · Flood response · Utilities · Drainage · EO change</sub><br /><br />
+Five spatial planning workflows with a linked Python research toolkit.<br /><br />
+<sub>Python · GeoAI · GIS</sub><br />
 <a href="https://geoai-resilience-intelligence-suite.neat-grove-8624.chatgpt.site/"><strong>View project</strong></a> · <a href="https://github.com/safdar404/geoai-resilience-research-lab"><strong>Source</strong></a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<a href="https://safdar404.github.io/geosentinel-floodops/"><img src="https://safdar404.github.io/assets/selected-projects/floodops.jpg" alt="GeoSentinel FloodOps — application screenshot" width="100%" /></a><br />
+<td width="34%" valign="middle">
+<a href="https://safdar404.github.io/geosentinel-floodops/"><img src="https://safdar404.github.io/assets/selected-projects/floodops.jpg" alt="GeoSentinel FloodOps — Original interface / analysis" width="260" /></a><br /><sub>Original interface / analysis</sub>
+</td>
+<td width="66%" valign="top">
 <strong>GeoSentinel FloodOps</strong><br />
-<sub>Original project interface / analysis image</sub><br /><br />
-An interactive global flood and water-intelligence demonstration linking geographic context, modeled exposure, incidents, missions and review-oriented recommendations.<br /><br />
-<sub>Leaflet · Flood intelligence · Human review</sub><br /><br />
+<sub>Operational map · Evidence · Missions · Human review</sub><br /><br />
+Flood and water-intelligence demonstration; displayed scenario values are illustrative.<br /><br />
+<sub>Leaflet · Flood intelligence · Human review</sub><br />
 <a href="https://safdar404.github.io/geosentinel-floodops/"><strong>View project</strong></a> · <a href="https://github.com/safdar404/safdar404.github.io/tree/main/geosentinel-floodops"><strong>Source</strong></a>
 </td>
-<td width="50%" valign="top">
-<a href="https://pakistan-flood-intelligence-2026.neat-grove-8624.chatgpt.site/"><img src="https://safdar404.github.io/assets/portfolio-previews/pakistan-flood.svg" alt="Pakistan National Flood Intelligence — project overview graphic" width="100%" /></a><br />
+</tr>
+<tr>
+<td width="34%" valign="middle">
+<strong>Documented implementation</strong><br /><br /><sub><code>public/pakistan-boundary.geojson</code><br />React / TypeScript<br />District markers + scenario views</sub>
+</td>
+<td width="66%" valign="top">
 <strong>Pakistan National Flood Intelligence</strong><br />
-<sub>Project overview graphic</sub><br /><br />
-A national flood-planning dashboard combining dated disaster-impact context, river and reservoir summaries, district screening and phase-specific response views.<br /><br />
-<sub>React · TypeScript · GeoJSON</sub><br /><br />
+<sub>35 priority districts · 5 scenarios · 4 response phases</sub><br /><br />
+Repository-documented national screening. River observations are dated 5 August 2026; scenario scores are qualitative.<br /><br />
+<sub>React · TypeScript · GeoJSON</sub><br />
 <a href="https://pakistan-flood-intelligence-2026.neat-grove-8624.chatgpt.site/"><strong>View project</strong></a> · <a href="https://github.com/safdar404/Pakistan-National-Flood-Intelligence"><strong>Source</strong></a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<a href="https://geosentinel-ai-1.ai.studio/"><img src="https://safdar404.github.io/assets/live-ai-applications/geosentinel-app.jpg" alt="GeoSentinel AI interface" width="100%" /></a><br />
+<td width="34%" valign="middle">
+<a href="https://geosentinel-ai-1.ai.studio/"><img src="https://safdar404.github.io/assets/live-ai-applications/geosentinel-app.jpg" alt="GeoSentinel AI — Original interface / analysis" width="260" /></a><br /><sub>Original interface / analysis</sub>
+</td>
+<td width="66%" valign="top">
 <strong>GeoSentinel AI</strong><br />
-<sub>Original project interface / analysis image</sub><br /><br />
-A geospatial decision-support dashboard demonstrating flood intelligence and municipal incident-management workflows, with the Nullah Lai and Margalla catchment as a featured context.<br /><br />
-<sub>Web GIS · Flood intelligence · Incident workflows</sub><br /><br />
+<sub>Nullah Lai · Margalla catchment · Incident workflows</sub><br /><br />
+Flood dashboard, incident intelligence, evidence review and work-order verification.<br /><br />
+<sub>Web GIS · Flood intelligence · Incident workflows</sub><br />
 <a href="https://geosentinel-ai-1.ai.studio/"><strong>Open live app</strong></a>
 </td>
-<td width="50%" valign="top">
-<a href="https://safdar404.github.io/geoai-site-intelligence/"><img src="https://safdar404.github.io/assets/portfolio-previews/geoai-site-intelligence.svg" alt="GeoAI Site Intelligence Suite workflow" width="100%" /></a><br />
+</tr>
+<tr>
+<td width="34%" valign="middle">
+<a href="https://safdar404.github.io/geoai-site-intelligence/"><img src="./assets/project-screenshots/meridian-actual-dashboard.jpg" alt="GeoAI Site Intelligence Suite — Actual interface · modeled scenario" width="260" /></a><br /><sub>Actual interface · modeled scenario</sub>
+</td>
+<td width="66%" valign="top">
 <strong>GeoAI Site Intelligence Suite</strong><br />
-<sub>Project overview graphic</sub><br /><br />
-3 spatial prototypes · Suitability, flood mitigation and solar<br /><br />
-<sub>Python · GeoAI · GIS</sub><br /><br />
+<sub>MERIDIAN · GEOSENTINEL · SOLARIS</sub><br /><br />
+Actual MERIDIAN siting interface: 960-cell demonstration using modeled overlays; not surveyed site recommendations.<br /><br />
+<sub>Python · GeoAI · GIS</sub><br />
 <a href="https://safdar404.github.io/geoai-site-intelligence/"><strong>View suite</strong></a> · <a href="https://github.com/safdar404/safdar404.github.io/tree/main/geoai-site-intelligence"><strong>Source</strong></a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<a href="https://pmu-pdp-infrastructure-gis.neat-grove-8624.chatgpt.site/"><img src="https://safdar404.github.io/assets/selected-projects/infrastructure.jpg" alt="Pakistan Infrastructure GIS Command Centre — application screenshot" width="100%" /></a><br />
+<td width="34%" valign="middle">
+<a href="https://pmu-pdp-infrastructure-gis.neat-grove-8624.chatgpt.site/"><img src="https://safdar404.github.io/assets/selected-projects/infrastructure.jpg" alt="Pakistan Infrastructure GIS Command Centre — Original interface / analysis" width="260" /></a><br /><sub>Original interface / analysis</sub>
+</td>
+<td width="66%" valign="top">
 <strong>Pakistan Infrastructure GIS Command Centre</strong><br />
-<sub>Original project interface / analysis image</sub><br /><br />
-A Punjab infrastructure GIS prototype bringing utility networks, asset condition, field verification, project progress and data-quality issues into one command dashboard.<br /><br />
-<sub>Infrastructure GIS · Utilities · Project monitoring</sub><br /><br />
+<sub>Utilities · Field verification · Progress · Data QA</sub><br /><br />
+Punjab infrastructure prototype; map overlays and operational metrics are illustrative.<br /><br />
+<sub>Infrastructure GIS · Utilities · Project monitoring</sub><br />
 <a href="https://pmu-pdp-infrastructure-gis.neat-grove-8624.chatgpt.site/"><strong>View project</strong></a>
 </td>
-<td width="50%"></td>
 </tr>
 </table>
-</details>
 
-<details open>
-<summary><strong>🧠 AI &amp; Data Science · 5 projects</strong></summary>
-<br />
+### 🧠 AI & Data Science
+
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://his-ai-agentic-solutions.lovable.app/"><img src="https://safdar404.github.io/assets/live-ai-applications/his-agentic-app.jpg" alt="HIS AI Agentic Solutions interface" width="100%" /></a><br />
+<td width="34%" valign="middle">
+<a href="https://his-ai-agentic-solutions.lovable.app/"><img src="https://safdar404.github.io/assets/live-ai-applications/his-agentic-app.jpg" alt="HIS AI Agentic Solutions — Original interface / analysis" width="260" /></a><br /><sub>Original interface / analysis</sub>
+</td>
+<td width="66%" valign="top">
 <strong>HIS AI Agentic Solutions</strong><br />
-<sub>Original project interface / analysis image</sub><br /><br />
-An AI engineering and automation showcase connecting data, specialist agents, tools, validation and human approval in a clear workflow.<br /><br />
-<sub>Agentic workflows · Human review · GeoAI</sub><br /><br />
+<sub>Agents · Tools · Validation · Human approval</sub><br /><br />
+Explore the original agent workflow interface and its review stages.<br /><br />
+<sub>Agentic workflows · Human review · GeoAI</sub><br />
 <a href="https://his-ai-agentic-solutions.lovable.app/"><strong>Open live app</strong></a>
 </td>
-<td width="50%" valign="top">
-<a href="https://ai-healthassist.ai.studio/"><img src="https://safdar404.github.io/assets/live-ai-applications/healthassist-app.jpg" alt="AI HealthAssist — application screenshot" width="100%" /></a><br />
+</tr>
+<tr>
+<td width="34%" valign="middle">
+<a href="https://ai-healthassist.ai.studio/"><img src="https://safdar404.github.io/assets/live-ai-applications/healthassist-app.jpg" alt="AI HealthAssist — Original interface / analysis" width="260" /></a><br /><sub>Original interface / analysis</sub>
+</td>
+<td width="66%" valign="top">
 <strong>AI HealthAssist</strong><br />
-<sub>Original project interface / analysis image</sub><br /><br />
-An educational healthcare decision-support prototype combining structured intake, symptom and vital-sign capture, clinical history, laboratory inputs and geographic context.<br /><br />
-<sub>Structured intake · Clinical calculators · Health GIS</sub><br /><br />
+<sub>Intake · Vitals · Clinical calculators · Health GIS</sub><br /><br />
+Educational interface for structured guidance and escalation; not clinical diagnosis.<br /><br />
+<sub>Structured intake · Clinical calculators · Health GIS</sub><br />
 <a href="https://ai-healthassist.ai.studio/"><strong>View project</strong></a> · <a href="https://github.com/safdar404/HIS-AI-HealthAssist"><strong>Source</strong></a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<a href="https://safdar404.github.io/python-ai-lab/"><img src="https://safdar404.github.io/assets/selected-projects/python-lab.jpg" alt="Python &amp; AI Analytics Lab — application screenshot" width="100%" /></a><br />
+<td width="34%" valign="middle">
+<a href="https://safdar404.github.io/python-ai-lab/"><img src="https://safdar404.github.io/assets/selected-projects/python-lab.jpg" alt="Python &amp; AI Analytics Lab — Original interface / analysis" width="260" /></a><br /><sub>Original interface / analysis</sub>
+</td>
+<td width="66%" valign="top">
 <strong>Python &amp; AI Analytics Lab</strong><br />
-<sub>Original project interface / analysis image</sub><br /><br />
-4 project workspaces · Model evaluation and source<br /><br />
-<sub>Pandas · scikit-learn · TensorFlow/Keras</sub><br /><br />
+<sub>Heart ML · Hospital analysis · Stock RNN · FDA device RNN</sub><br /><br />
+Four educational workspaces with analysis, evaluation charts and Python source.<br /><br />
+<sub>Pandas · scikit-learn · TensorFlow/Keras</sub><br />
 <a href="https://safdar404.github.io/python-ai-lab/"><strong>View project</strong></a> · <a href="https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10"><strong>Source</strong></a>
 </td>
-<td width="50%" valign="top">
-<a href="https://safdar404.github.io/prediction-studio/"><img src="https://safdar404.github.io/assets/selected-projects/prediction.jpg" alt="Prediction Studio — application screenshot" width="100%" /></a><br />
+</tr>
+<tr>
+<td width="34%" valign="middle">
+<a href="https://safdar404.github.io/prediction-studio/"><img src="https://safdar404.github.io/assets/selected-projects/prediction.jpg" alt="Prediction Studio — Original interface / analysis" width="260" /></a><br /><sub>Original interface / analysis</sub>
+</td>
+<td width="66%" valign="top">
 <strong>Prediction Studio</strong><br />
-<sub>Original project interface / analysis image</sub><br /><br />
-A browser-based CSV analytics workspace with transparent calculations for heart-model audits, hospital capacity, healthcare inventory and device-event trends.<br /><br />
-<sub>CSV analytics · Model evaluation · Client-side JavaScript</sub><br /><br />
+<sub>CSV upload · Model audit · Capacity · Inventory · Trends</sub><br /><br />
+Client-side calculations with labeled samples, row validation and analyzed-record exports.<br /><br />
+<sub>CSV analytics · Model evaluation · Client-side JavaScript</sub><br />
 <a href="https://safdar404.github.io/prediction-studio/"><strong>View project</strong></a> · <a href="https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10"><strong>Source</strong></a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<a href="https://langchain-rag-document-assistant.neat-grove-8624.chatgpt.site/"><img src="https://safdar404.github.io/assets/portfolio-previews/rag-assistant.svg" alt="LangChain RAG Document Assistant — project overview graphic" width="100%" /></a><br />
+<td width="34%" valign="middle">
+<strong>Verified source configuration</strong><br /><br /><sub><code>RagConfig</code><br />chunk_size = 800<br />chunk_overlap = 150<br />top_k = 4</sub>
+</td>
+<td width="66%" valign="top">
 <strong>LangChain RAG Document Assistant</strong><br />
-<sub>Project overview graphic</sub><br /><br />
-A document-intelligence project demonstrating a traceable retrieval-augmented generation pipeline from document ingestion to source-aware answers.<br /><br />
-<sub>Python · LangChain · Vector search</sub><br /><br />
+<sub>800-character chunks · 150 overlap · top-k 4</sub><br /><br />
+Verified rag_singlestore.py defaults: OpenAI embeddings, SingleStore vector retrieval and source snippets.<br /><br />
+<sub>Python · LangChain · Vector search</sub><br />
 <a href="https://langchain-rag-document-assistant.neat-grove-8624.chatgpt.site/"><strong>View project</strong></a> · <a href="https://github.com/safdar404/LangChain-RAG-Application"><strong>Source</strong></a>
 </td>
-<td width="50%"></td>
 </tr>
 </table>
-</details>
 
-<details open>
-<summary><strong>📊 Business Intelligence · 3 projects</strong></summary>
-<br />
+### 📊 Business Intelligence
+
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://safdar404.github.io/laptop-intelligence/"><img src="https://safdar404.github.io/assets/portfolio-previews/laptop-performance.svg" alt="Laptop sales analysis" width="100%" /></a><br />
+<td width="34%" valign="middle">
+<a href="https://safdar404.github.io/laptop-intelligence/"><img src="./assets/project-screenshots/laptop-actual-dashboard.jpg" alt="Laptop Sales &amp; Pricing Intelligence — Actual dashboard · all filters" width="260" /></a><br /><sub>Actual dashboard · all filters</sub>
+</td>
+<td width="66%" valign="top">
 <strong>Laptop Sales &amp; Pricing Intelligence</strong><br />
-<sub>Project overview graphic</sub><br /><br />
-4,446 listings · Pricing, brands and data QA<br /><br />
-<sub>Power BI · DAX · Retail Analytics</sub><br /><br />
+<sub>4,446 listings · 171,678 reported units · $205.07m reported sales</sub><br /><br />
+Actual dashboard, all filters selected. Source sales inconsistencies are documented; this is not a date-based sales trend.<br /><br />
+<sub>Power BI · DAX · Retail Analytics</sub><br />
 <a href="https://safdar404.github.io/laptop-intelligence/"><strong>Open dashboard</strong></a> · <a href="https://github.com/safdar404/safdar404.github.io/tree/main/laptop-intelligence"><strong>Model guide</strong></a>
 </td>
-<td width="50%" valign="top">
-<a href="https://safdar404.github.io/customer-purchase-intelligence/"><img src="https://safdar404.github.io/assets/portfolio-previews/customer-purchases.svg" alt="Customer purchase analysis" width="100%" /></a><br />
+</tr>
+<tr>
+<td width="34%" valign="middle">
+<a href="https://safdar404.github.io/customer-purchase-intelligence/"><img src="./assets/project-screenshots/customer-actual-dashboard.jpg" alt="Customer Purchase Intelligence — Actual dashboard · all filters" width="260" /></a><br /><sub>Actual dashboard · all filters</sub>
+</td>
+<td width="66%" valign="top">
 <strong>Customer Purchase Intelligence</strong><br />
-<sub>Project overview graphic</sub><br /><br />
-2016–2019 analysis · Country, product and age bands<br /><br />
-<sub>Power BI · DAX · Customer Analytics</sub><br /><br />
+<sub>99 unique purchases · 34,400 source units · 2016–2019</sub><br /><br />
+Actual dashboard after exact duplicate removal. Source currency is unspecified.<br /><br />
+<sub>Power BI · DAX · Customer Analytics</sub><br />
 <a href="https://safdar404.github.io/customer-purchase-intelligence/"><strong>Open dashboard</strong></a> · <a href="https://github.com/safdar404/safdar404.github.io/tree/main/customer-purchase-intelligence"><strong>Model guide</strong></a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<a href="https://safdar404.github.io/superstore-bi/"><img src="https://safdar404.github.io/assets/portfolio-previews/superstore-performance.svg" alt="Superstore sales analysis" width="100%" /></a><br />
+<td width="34%" valign="middle">
+<a href="https://safdar404.github.io/superstore-bi/"><img src="./assets/project-screenshots/superstore-actual-dashboard.jpg" alt="Superstore Sales Intelligence — Actual dashboard · all filters" width="260" /></a><br /><sub>Actual dashboard · all filters</sub>
+</td>
+<td width="66%" valign="top">
 <strong>Superstore Sales Intelligence</strong><br />
-<sub>Project overview graphic</sub><br /><br />
-5,899 order lines · Sales, profit and margin<br /><br />
-<sub>Power BI · DAX · Data Analytics</sub><br /><br />
+<sub>5,899 lines · $1.342m sales · $175,234 profit · 13.1% margin</sub><br /><br />
+Actual dashboard, all filters selected. The unmatched Returns sheet is excluded from return-rate calculations.<br /><br />
+<sub>Power BI · DAX · Data Analytics</sub><br />
 <a href="https://safdar404.github.io/superstore-bi/"><strong>Open dashboard</strong></a> · <a href="https://github.com/safdar404/safdar404.github.io/tree/main/superstore-bi"><strong>Power BI guide</strong></a>
 </td>
-<td width="50%"></td>
 </tr>
 </table>
-</details>
 
-<details open>
-<summary><strong>🏗️ Engineering &amp; OCR · 3 projects</strong></summary>
-<br />
+### 🏗️ Engineering & OCR
+
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://his-bill-scanner.neat-grove-8624.chatgpt.site/"><img src="https://safdar404.github.io/assets/portfolio-previews/zarwa-bill.svg" alt="Zarwa Bill Scanner / HIS Bill Scanner — project overview graphic" width="100%" /></a><br />
+<td width="34%" valign="middle">
+<strong>Documented OCR fields</strong><br /><br /><sub>Vendor · Invoice number/date<br />PKR / SAR / AED / USD<br />Subtotal · Tax · Total<br />Line items → CSV</sub>
+</td>
+<td width="66%" valign="top">
 <strong>Zarwa Bill Scanner / HIS Bill Scanner</strong><br />
-<sub>Project overview graphic</sub><br /><br />
-A browser-based invoice and receipt OCR project. The former zarwa-bill-scanner repository now redirects to HIS Bill Scanner.<br /><br />
-<sub>Tesseract.js · React · TypeScript</sub><br /><br />
+<sub>Camera / upload · OCR review · Structured CSV</sub><br /><br />
+Repository documents browser-based Tesseract.js and PDF.js; vendor, invoice, currency, tax, totals and line items.<br /><br />
+<sub>Tesseract.js · React · TypeScript</sub><br />
 <a href="https://his-bill-scanner.neat-grove-8624.chatgpt.site/"><strong>View project</strong></a> · <a href="https://github.com/safdar404/HIS-Bill-Scanner"><strong>Source</strong></a>
 </td>
-<td width="50%" valign="top">
-<a href="https://ai-cad-bim-flow.lovable.app/"><img src="https://safdar404.github.io/assets/selected-projects/planora.jpg" alt="Planora AI — CAD, BIM &amp; GIS Flow — application screenshot" width="100%" /></a><br />
+</tr>
+<tr>
+<td width="34%" valign="middle">
+<a href="https://ai-cad-bim-flow.lovable.app/"><img src="https://safdar404.github.io/assets/selected-projects/planora.jpg" alt="Planora AI — CAD, BIM &amp; GIS Flow — Original interface / analysis" width="260" /></a><br /><sub>Original interface / analysis</sub>
+</td>
+<td width="66%" valign="top">
 <strong>Planora AI — CAD, BIM &amp; GIS Flow</strong><br />
-<sub>Original project interface / analysis image</sub><br /><br />
-An AI-assisted built-environment application showcasing a connected project brief, CAD, 3D, BIM, MEP, GIS, costing and digital-twin workflow.<br /><br />
-<sub>CAD · BIM–GIS · 3D</sub><br /><br />
+<sub>Project brief · CAD/BIM · MEP · GIS · Costing</sub><br /><br />
+Original application screenshot. Source is private; engineering outputs require professional review.<br /><br />
+<sub>CAD · BIM–GIS · 3D</sub><br />
 <a href="https://ai-cad-bim-flow.lovable.app/"><strong>View project</strong></a> · <a href="https://github.com/safdar404/AI-Cad-Bim-Flow"><strong>Source (private)</strong></a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<a href="https://mep-scanner-system.neat-grove-8624.chatgpt.site/"><img src="https://safdar404.github.io/assets/portfolio-previews/mep-scanner.svg" alt="MEP Scanner System — project overview graphic" width="100%" /></a><br />
+<td width="34%" valign="middle">
+<strong>Verified extraction schema</strong><br /><br /><sub><code>ScanRecord</code><br />component · tag · duct_size_mm<br />airflow · airflow_unit<br />confidence_pct · source_line</sub>
+</td>
+<td width="66%" valign="top">
 <strong>MEP Scanner System</strong><br />
-<sub>Project overview graphic</sub><br /><br />
-A Python engineering-document scanner that associates OCR-detected MEP components with nearby dimensions, airflow values and equipment tags.<br /><br />
-<sub>Python · EasyOCR · OpenCV</sub><br /><br />
+<sub>Drawing pages · Component tags · Duct sizes · Airflow</sub><br /><br />
+Verified app.py extracts MEP components, dimensions and airflow, retaining OCR confidence and source lines.<br /><br />
+<sub>Python · EasyOCR · OpenCV</sub><br />
 <a href="https://mep-scanner-system.neat-grove-8624.chatgpt.site/"><strong>View project</strong></a> · <a href="https://github.com/safdar404/HIS-MEP-Scanner-System."><strong>Source</strong></a>
 </td>
-<td width="50%"></td>
 </tr>
 </table>
-</details>
 
-**Three measured ML case studies:** scroll to the Sonar, Breast Cancer and Credit Card Fraud analysis graphics below. Their results come from fitted models on the supplied datasets; the shared Streamlit application is prepared and awaiting online deployment.
-
-**Have a dataset, drawing set or spatial problem?** [Send a project enquiry](mailto:safdar404@gmail.com?subject=Project%20enquiry) or [start a WhatsApp conversation](https://wa.me/923228792404) with your objective, available data and intended deliverable.
+**ML model results:** the Sonar, Breast Cancer and Fraud case studies below show measured held-out performance. Their Streamlit frontend is prepared; public hosting is pending.
 
 <!-- PROJECT-GALLERY-END -->
 
@@ -293,13 +323,16 @@ A three-application decision-support suite that packages **spatial suitability m
 
 `Problem definition → spatial/EO data → preprocessing → criteria → weights/MCDA → AI/ML/GeoAI analysis → candidate scoring → ranked sites → interactive decision support`
 
-<p align="center">
-<img src="./geoai-workflow.svg" alt="Applied GeoAI delivery pipeline from problem definition through data, QA, GeoAI analysis, decision support and deployment" width="100%" />
-</p>
+<p align="center"><a href="https://safdar404.github.io/geoai-site-intelligence/meridian-pro.html"><img src="./assets/project-screenshots/meridian-actual-dashboard.jpg" alt="MERIDIAN implemented suitability grid with modeled overlays and ranked candidates" width="100%" /></a></p>
+
+*Actual MERIDIAN interface. Demonstration uses modeled overlays; candidate scores are not field-validated recommendations.*
 
 > **Validation note:** These are GeoAI/spatial decision-support prototypes. Operational deployment requires authoritative local datasets, documented data provenance, uncertainty/sensitivity analysis, regulatory and engineering checks, and expert validation.
 
 ---
+
+<details>
+<summary><strong>Project descriptions and related earlier implementations</strong></summary>
 
 ## 🚀 Selected projects
 
@@ -399,6 +432,9 @@ Applied Python and AI/ML learning projects covering analytics, APIs, dashboards 
 ---
 
 
+
+</details>
+
 ## 🆕 Applied ML case studies — 13 October 2026
 
 ### 🌊 Sonar Signal Classification
@@ -427,6 +463,9 @@ Rare-event classification with tree-based model comparisons and a balanced rando
 > Case-study descriptions are grounded in the reviewed notebooks. Dataset results are educational evaluations, not clinical validation or evidence of operational fraud-detection reliability.
 
 ---
+
+<details>
+<summary><strong>Additional project descriptions and model guides</strong></summary>
 
 ## 🗂️ Additional projects from my portfolio
 
@@ -475,6 +514,9 @@ Interactive analysis of 5,899 order lines across 2019–2020: sales, profit, mar
 **Current portfolio links for existing profile projects:** [Prediction Studio](https://safdar404.github.io/prediction-studio/) · [HIS Bill Scanner (formerly Zarwa Bill Scanner)](https://his-bill-scanner.neat-grove-8624.chatgpt.site/) · [Current bill-scanner repository](https://github.com/safdar404/HIS-Bill-Scanner)
 
 ---
+
+
+</details>
 
 ## Technology stack
 
