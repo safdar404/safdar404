@@ -528,113 +528,95 @@ Applied Python and AI/ML learning projects covering analytics, APIs, dashboards 
 
 </details>
 
-## 🆕 Applied ML case studies — 13 October 2026
+## Applied AI/ML — eight collective dashboards
 
-### 🌊 Sonar Signal Classification
-Rock-versus-mine classification from 60 sonar measurements, using a scaled SVC pipeline, stratified splitting, classification reports and sample predictions.
+Classification, regression, customer segmentation and time-series forecasting with original charts from my completed project notebooks.
 
-**Python · Pandas · scikit-learn · SVC · Model evaluation**
+[**Explore all eight dashboards at full size**](https://safdar404.github.io/applied-ml-analysis/)
 
-<p align="center"><img src="./assets/ml-analysis/sonar-analysis.svg" alt="Sonar classification analysis: measured metrics, confusion matrix, ROC and precision-recall curves" width="100%" /></p>
+### Sonar Signal Classification
 
-### 🎗️ Breast Cancer Classification
-An educational Wisconsin diagnostic-dataset workflow using logistic regression as a baseline and a StandardScaler → PCA → SVC pipeline. Includes cross-validation, malignant recall, confusion matrices, ROC/precision–recall analysis and model persistence.
+[![Sonar Signal Classification — original collective dashboard](https://safdar404.github.io/assets/ml-dashboards/sonar.png)](https://safdar404.github.io/applied-ml-analysis/#sonar)
 
-**Python · PCA · SVC · Cross-validation · Recall analysis**
+**Accuracy 81.0% · ROC AUC 0.939 · Average precision 0.950**
 
-<p align="center"><img src="./assets/ml-analysis/cancer-analysis.svg" alt="Breast cancer educational classification analysis: measured metrics, confusion matrix, ROC and precision-recall curves" width="100%" /></p>
+Supplied tuned SVC dashboard; 42 test samples. This run differs from the earlier baseline evaluation.
 
-### 💳 Credit Card Fraud Detection
-Rare-event classification with tree-based model comparisons and a balanced random forest. Analysis emphasizes average precision, fraud recall, validation-based threshold selection, false alarms and missed transactions.
+[View analysis](https://safdar404.github.io/applied-ml-analysis/#sonar) · [Open original image](https://safdar404.github.io/assets/ml-dashboards/sonar.png)
 
-**Python · Random Forest · Imbalanced learning · Threshold tuning · Precision–recall**
+### Breast Cancer Classification
 
-<p align="center"><img src="./assets/ml-analysis/fraud-analysis.svg" alt="Fraud detection analysis: validation-selected threshold, measured metrics, confusion matrix, ROC and precision-recall curves" width="100%" /></p>
+[![Breast Cancer Classification — original collective dashboard](https://safdar404.github.io/assets/ml-dashboards/cancer.png)](https://safdar404.github.io/applied-ml-analysis/#cancer)
 
-**Shared frontend:** a prepared Streamlit dashboard brings these three projects together with editable sample inputs, CSV batch predictions, evaluation charts and downloadable results. Online Streamlit deployment is pending; no live URL is claimed.
+**Accuracy 96.5% · Malignant recall 92.9% · ROC AUC 0.990**
 
-> Case-study descriptions are grounded in the reviewed notebooks. Dataset results are educational evaluations, not clinical validation or evidence of operational fraud-detection reliability.
+Educational dataset evaluation; 3 missed malignant cases and 1 false positive in the displayed test set.
 
----
+[View analysis](https://safdar404.github.io/applied-ml-analysis/#cancer) · [Open original image](https://safdar404.github.io/assets/ml-dashboards/cancer.png)
 
+### Credit Card Fraud Detection
 
-## Applied ML analysis — 14 October 2026
+[![Credit Card Fraud Detection — original collective dashboard](https://safdar404.github.io/assets/ml-dashboards/fraud.png)](https://safdar404.github.io/applied-ml-analysis/#fraud)
 
-Five completed teaching projects, with collective dashboard previews and recorded notebook results.
+**Fraud recall 83.7% · Precision 88.2% · Average precision 0.861**
 
-[**Open the five-project analysis collection**](https://safdar404.github.io/applied-ml-analysis/)
+Supplied notebook run at threshold 0.25: 82 detected frauds, 16 missed frauds and 11 false alarms. This differs from the earlier duplicate-removed experiment.
+
+[View analysis](https://safdar404.github.io/applied-ml-analysis/#fraud) · [Open original image](https://safdar404.github.io/assets/ml-dashboards/fraud.png)
 
 ### House Price Prediction
 
-California block-level median house-value regression with preprocessing, cross-validation, tuned gradient boosting and geographic error analysis.
+[![House Price Prediction — original collective dashboard](https://safdar404.github.io/assets/ml-dashboards/house-price.png)](https://safdar404.github.io/applied-ml-analysis/#house-price)
 
-[![House Price Prediction recorded notebook analysis](https://safdar404.github.io/applied-ml-analysis/assets/house-price.svg)](https://safdar404.github.io/applied-ml-analysis/#house-price)
+**MAE $30,846 · RMSE $46,504 · R² 0.835**
 
-**Python · HistGradientBoosting · Geographic error analysis**
+California housing evaluation with geographic and price-range error analysis.
 
-**Test RMSE: $46,504** · **Test MAE: $30,846** · **Test R²: 0.835**
-
-Recorded outputs from the uploaded notebook (not a new benchmark). 20,640 rows; 80/20 random split, seed 42. Median value target capped at $500,001. Ratio features are exploratory and are not used by the saved model.
-
-[**View collective analysis**](https://safdar404.github.io/applied-ml-analysis/#house-price)
+[View analysis](https://safdar404.github.io/applied-ml-analysis/#house-price) · [Open original image](https://safdar404.github.io/assets/ml-dashboards/house-price.png)
 
 ### Medical Insurance Cost Prediction
 
-Insurance-charges regression comparing linear models and tree ensembles, with log-target prediction and subgroup error analysis.
+[![Medical Insurance Cost Prediction — original collective dashboard](https://safdar404.github.io/assets/ml-dashboards/insurance-cost.png)](https://safdar404.github.io/applied-ml-analysis/#insurance-cost)
 
-[![Medical Insurance Cost Prediction recorded notebook analysis](https://safdar404.github.io/applied-ml-analysis/assets/insurance-cost.svg)](https://safdar404.github.io/applied-ml-analysis/#insurance-cost)
+**MAE 1,959.91 · RMSE 4,284.29 · R² 0.900**
 
-**Random Forest · Log-target regression · Error analysis**
+Log-target random-forest evaluation with subgroup errors and feature importance; educational estimates.
 
-**Log-RF test MAE: 1,960.704** · **Log-RF RMSE: 4,283.830** · **Test R²: 0.900**
-
-Recorded results from the supplied teacher notebook: 1,337 rows after duplicate removal. Log-target and ordinary forests have different hyperparameters, so their comparison does not isolate the log transform. Later local retraining outputs were not supplied. Educational estimates, not insurance quotes.
-
-[**View collective analysis**](https://safdar404.github.io/applied-ml-analysis/#insurance-cost)
+[View analysis](https://safdar404.github.io/applied-ml-analysis/#insurance-cost) · [Open original image](https://safdar404.github.io/assets/ml-dashboards/insurance-cost.png)
 
 ### Customer Segmentation
 
-Income-and-spending customer segmentation with scaling, elbow and silhouette analysis, centroids and business profiles.
+[![Customer Segmentation — original collective dashboard](https://safdar404.github.io/assets/ml-dashboards/customer-segmentation.png)](https://safdar404.github.io/applied-ml-analysis/#customer-segmentation)
 
-[![Customer Segmentation recorded notebook analysis](https://safdar404.github.io/applied-ml-analysis/assets/customer-segmentation.svg)](https://safdar404.github.io/applied-ml-analysis/#customer-segmentation)
+**200 customers · 5 clusters · Silhouette 0.555**
 
-**K-Means · Silhouette analysis · Customer profiling**
+Customer profiles, cluster sizes, elbow and silhouette analysis; cluster IDs are arbitrary.
 
-**Customers: 200** · **K-Means clusters: 5** · **Silhouette: 0.555**
-
-Recorded notebook evaluation on 200 mall customers. K-Means uses scaled income and spending only; age is descriptive. Cluster IDs are arbitrary and can change after refitting. Silhouette is an internal clustering score, not predictive accuracy.
-
-[**View collective analysis**](https://safdar404.github.io/applied-ml-analysis/#customer-segmentation)
+[View analysis](https://safdar404.github.io/applied-ml-analysis/#customer-segmentation) · [Open original image](https://safdar404.github.io/assets/ml-dashboards/customer-segmentation.png)
 
 ### Fake News Text Classification
 
-Article classification using cleaned title and body text, TF-IDF unigrams/bigrams and logistic regression, with error and term-weight analysis.
+[![Fake News Text Classification — original collective dashboard](https://safdar404.github.io/assets/ml-dashboards/fake-news.png)](https://safdar404.github.io/applied-ml-analysis/#fake-news)
 
-[![Fake News Text Classification recorded notebook analysis](https://safdar404.github.io/applied-ml-analysis/assets/fake-news.svg)](https://safdar404.github.io/applied-ml-analysis/#fake-news)
+**Accuracy 95.4% · Macro F1 0.954 · ROC AUC 0.991**
 
-**TF-IDF · Logistic Regression · NLP**
+TF-IDF and LinearSVC evaluation, term weights and text-length errors. Numeric class labels are retained; this model does not verify factual truth.
 
-**Recorded test accuracy: 93.53%** · **Test articles: 3,972** · **Incorrect predictions: 257**
-
-Recorded baseline outputs: 19,856 cleaned sampled articles; 15,884 train / 3,972 test. Numeric classes retained because label semantics require verification for this CSV. No executed outputs from the later model-selection/tuning cells were supplied. Duplicate-content leakage must be audited; classification does not verify factual truth.
-
-[**View collective analysis**](https://safdar404.github.io/applied-ml-analysis/#fake-news)
+[View analysis](https://safdar404.github.io/applied-ml-analysis/#fake-news) · [Open original image](https://safdar404.github.io/assets/ml-dashboards/fake-news.png)
 
 ### Airline Passenger Forecasting
 
-Monthly passenger forecasting comparing ARIMA with log-scale seasonal SARIMAX, chronological evaluation and forecast uncertainty.
+[![Airline Passenger Forecasting — original collective dashboard](https://safdar404.github.io/assets/ml-dashboards/airline-forecast.png)](https://safdar404.github.io/applied-ml-analysis/#airline-forecast)
 
-[![Airline Passenger Forecasting recorded notebook analysis](https://safdar404.github.io/applied-ml-analysis/assets/airline-forecast.svg)](https://safdar404.github.io/applied-ml-analysis/#airline-forecast)
+**Log-SARIMAX RMSE 18.83 · Seasonal-naive RMSE 50.71 · ARIMA RMSE 86.81**
 
-**ARIMA · SARIMAX · Time series**
+Historical passenger series, chronological validation, residuals and 1961 forecasts.
 
-**Log-SARIMAX RMSE: 16.65** · **Log-SARIMAX MAE: 11.99** · **Test horizon: 12 months**
+[View analysis](https://safdar404.github.io/applied-ml-analysis/#airline-forecast) · [Open original image](https://safdar404.github.io/assets/ml-dashboards/airline-forecast.png)
 
-Recorded notebook results: 144 monthly observations, 1949–1960; last 12 months held out. ARIMA (5,1,0), log-SARIMAX (1,1,1) × (1,1,1,12). Exponentiated log forecasts are median forecasts. Any extension beyond this history concerns 1961, not current demand.
+**Shared frontend:** prepared Streamlit tools support sample inputs, batch predictions and evaluation views. Online Streamlit deployment is pending.
 
-[**View collective analysis**](https://safdar404.github.io/applied-ml-analysis/#airline-forecast)
-
-> These views show recorded notebook outputs, not independently validated deployments. The earlier three ML projects remain available. Streamlit hosting is pending.
+> Displayed figures come from the supplied dashboard screenshots. Educational evaluations are not clinical validation or evidence of operational fraud-detection reliability. Earlier comparison assets remain in the repository.
 
 ---
 
