@@ -20,7 +20,7 @@ I transform spatial, engineering and business data into validated analysis, prod
 ---
 
 <p align="center">
-<img src="./profile-metrics.svg" alt="Portfolio snapshot: 21 projects, 3 applied ML studies, 3 BI dashboards, 5 resilience workflows and 3 site selection apps" width="100%" />
+<img src="./profile-metrics.svg" alt="Portfolio snapshot: 26 projects, 8 applied ML studies, 3 BI dashboards, 5 resilience workflows and 3 site selection apps" width="100%" />
 </p>
 
 ## What I deliver
@@ -554,6 +554,87 @@ Rare-event classification with tree-based model comparisons and a balanced rando
 **Shared frontend:** a prepared Streamlit dashboard brings these three projects together with editable sample inputs, CSV batch predictions, evaluation charts and downloadable results. Online Streamlit deployment is pending; no live URL is claimed.
 
 > Case-study descriptions are grounded in the reviewed notebooks. Dataset results are educational evaluations, not clinical validation or evidence of operational fraud-detection reliability.
+
+---
+
+
+## Applied ML analysis — 14 October 2026
+
+Five completed teaching projects, with collective dashboard previews and recorded notebook results.
+
+[**Open the five-project analysis collection**](https://safdar404.github.io/applied-ml-analysis/)
+
+### House Price Prediction
+
+California block-level median house-value regression with preprocessing, cross-validation, tuned gradient boosting and geographic error analysis.
+
+[![House Price Prediction recorded notebook analysis](https://safdar404.github.io/applied-ml-analysis/assets/house-price.svg)](https://safdar404.github.io/applied-ml-analysis/#house-price)
+
+**Python · HistGradientBoosting · Geographic error analysis**
+
+**Test RMSE: $46,504** · **Test MAE: $30,846** · **Test R²: 0.835**
+
+Recorded outputs from the uploaded notebook (not a new benchmark). 20,640 rows; 80/20 random split, seed 42. Median value target capped at $500,001. Ratio features are exploratory and are not used by the saved model.
+
+[**View collective analysis**](https://safdar404.github.io/applied-ml-analysis/#house-price)
+
+### Medical Insurance Cost Prediction
+
+Insurance-charges regression comparing linear models and tree ensembles, with log-target prediction and subgroup error analysis.
+
+[![Medical Insurance Cost Prediction recorded notebook analysis](https://safdar404.github.io/applied-ml-analysis/assets/insurance-cost.svg)](https://safdar404.github.io/applied-ml-analysis/#insurance-cost)
+
+**Random Forest · Log-target regression · Error analysis**
+
+**Log-RF test MAE: 1,960.704** · **Log-RF RMSE: 4,283.830** · **Test R²: 0.900**
+
+Recorded results from the supplied teacher notebook: 1,337 rows after duplicate removal. Log-target and ordinary forests have different hyperparameters, so their comparison does not isolate the log transform. Later local retraining outputs were not supplied. Educational estimates, not insurance quotes.
+
+[**View collective analysis**](https://safdar404.github.io/applied-ml-analysis/#insurance-cost)
+
+### Customer Segmentation
+
+Income-and-spending customer segmentation with scaling, elbow and silhouette analysis, centroids and business profiles.
+
+[![Customer Segmentation recorded notebook analysis](https://safdar404.github.io/applied-ml-analysis/assets/customer-segmentation.svg)](https://safdar404.github.io/applied-ml-analysis/#customer-segmentation)
+
+**K-Means · Silhouette analysis · Customer profiling**
+
+**Customers: 200** · **K-Means clusters: 5** · **Silhouette: 0.555**
+
+Recorded notebook evaluation on 200 mall customers. K-Means uses scaled income and spending only; age is descriptive. Cluster IDs are arbitrary and can change after refitting. Silhouette is an internal clustering score, not predictive accuracy.
+
+[**View collective analysis**](https://safdar404.github.io/applied-ml-analysis/#customer-segmentation)
+
+### Fake News Text Classification
+
+Article classification using cleaned title and body text, TF-IDF unigrams/bigrams and logistic regression, with error and term-weight analysis.
+
+[![Fake News Text Classification recorded notebook analysis](https://safdar404.github.io/applied-ml-analysis/assets/fake-news.svg)](https://safdar404.github.io/applied-ml-analysis/#fake-news)
+
+**TF-IDF · Logistic Regression · NLP**
+
+**Recorded test accuracy: 93.53%** · **Test articles: 3,972** · **Incorrect predictions: 257**
+
+Recorded baseline outputs: 19,856 cleaned sampled articles; 15,884 train / 3,972 test. Numeric classes retained because label semantics require verification for this CSV. No executed outputs from the later model-selection/tuning cells were supplied. Duplicate-content leakage must be audited; classification does not verify factual truth.
+
+[**View collective analysis**](https://safdar404.github.io/applied-ml-analysis/#fake-news)
+
+### Airline Passenger Forecasting
+
+Monthly passenger forecasting comparing ARIMA with log-scale seasonal SARIMAX, chronological evaluation and forecast uncertainty.
+
+[![Airline Passenger Forecasting recorded notebook analysis](https://safdar404.github.io/applied-ml-analysis/assets/airline-forecast.svg)](https://safdar404.github.io/applied-ml-analysis/#airline-forecast)
+
+**ARIMA · SARIMAX · Time series**
+
+**Log-SARIMAX RMSE: 16.65** · **Log-SARIMAX MAE: 11.99** · **Test horizon: 12 months**
+
+Recorded notebook results: 144 monthly observations, 1949–1960; last 12 months held out. ARIMA (5,1,0), log-SARIMAX (1,1,1) × (1,1,1,12). Exponentiated log forecasts are median forecasts. Any extension beyond this history concerns 1961, not current demand.
+
+[**View collective analysis**](https://safdar404.github.io/applied-ml-analysis/#airline-forecast)
+
+> These views show recorded notebook outputs, not independently validated deployments. The earlier three ML projects remain available. Streamlit hosting is pending.
 
 ---
 
