@@ -156,7 +156,7 @@ PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 <td width="66%" valign="top">
 <strong>Islamabad Feature Intelligence</strong><br />
 <sub>Sentinel-2 false-colour, NDVI and land-cover map</sub><br /><br />
-Building references, roads and land-use filters; the preview shows spectral analysis, not verified cadastral boundaries.<br /><br />
+245,909 footprint references with an expanded map, controls outside the canvas and docked feature details. Optional 3D heights by building type: 3 / 6 / 9 m assumed scenarios, not measured heights. The image previews Sentinel-2 analysis.<br /><br />
 <sub>ArcGIS · Python · GeoAI</sub><br />
 <a href="https://islamabad-feature-intelligence.safdarwatto7714.chatgpt.site"><strong>Open live dashboard</strong></a>
 </td>
@@ -626,9 +626,11 @@ Historical passenger series, chronological validation, residuals and 1961 foreca
 ## 🗂️ Additional projects from my portfolio
 
 ### 🏙️ Islamabad Feature Intelligence
-Combined OSM and Microsoft ML building references, mapped roads and land use, dated Sentinel-2 screening, category filters and interactive analytical charts.
+Explore 245,909 OSM, Microsoft ML and supplied-reference footprint features in an expanded map with on-demand controls and docked feature details. Switch between 2D and 3D, with independent single-, double- or triple-storey height scenarios by building type.
 
-**ArcGIS · Python · GeoAI · Sentinel-2**
+Residential 6,152; Commercial 272; Industrial 23; Other tagged use 366; Use unknown 239,096. Heights of 3, 6 and 9 m are user-selected assumptions, not measurements. Building references are not legal parcels; roof alignment and source completeness remain unverified.
+
+**ArcGIS · Python · GeoAI · 3D GIS · Sentinel-2**
 
 [Open dashboard](https://islamabad-feature-intelligence.safdarwatto7714.chatgpt.site/) · [Portfolio details](https://safdar404.github.io/)
 
