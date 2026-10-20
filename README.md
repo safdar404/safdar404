@@ -754,3 +754,14 @@ Open to **Data Science, Data Engineering, AI/ML Engineering, Python, GIS, GeoAI 
 
 ### ▶ Interactive RAG & GeoAI Labs
 [Launch the browser demos](https://safdar404.github.io/rag-geoai-labs/) — working lexical evidence search, land-cover class explorer and CSV dataset audit. These are browser-side demos, not hosted versions of the full Python applications.
+
+
+### Three standalone interactive applications
+
+| Project | Live browser application | Implemented browser capabilities |
+|---|---|---|
+| **Lexora Legal Research** | [Open Lexora](https://safdar404.github.io/lexora-legal-rag/) | Local text file loading, passage search, cited excerpt export |
+| **GeoDistill Studio** | [Open GeoDistill](https://safdar404.github.io/geodistill-studio/) | Image pixel/resolution inspection, class distribution |
+| **Land Cover Dataset Preparation** | [Open Dataset QA](https://safdar404.github.io/land-cover-data-preparation/) | Manifest audit, split leakage, SHA-256 file duplication, cleaned CSV |
+
+> These are separate GitHub Pages browser demonstrations, not the complete original Python/Streamlit deployments. Full OCR, vector RAG, training and inference still require a backend service.
