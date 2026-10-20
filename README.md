@@ -20,7 +20,7 @@ I transform spatial, engineering and business data into validated analysis, prod
 ---
 
 <p align="center">
-<img src="./profile-metrics.svg" alt="Portfolio snapshot: 26 projects, 8 applied ML studies, 3 BI dashboards, 5 resilience workflows and 3 site selection apps" width="100%" />
+<img src="./profile-metrics.svg" alt="Portfolio snapshot: 27 projects, 8 applied ML studies, 3 BI dashboards, 5 resilience workflows and 3 site selection apps" width="100%" />
 </p>
 
 ## What I deliver
@@ -149,6 +149,14 @@ PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 ### 🛰️ GeoAI & GIS
 
 <table>
+<tr>
+<td width="34%" valign="middle"><strong>GeoSentinel Drain FloodOps</strong><br /><br /><sub>Drainage · Flood operations · GIS</sub></td>
+<td width="66%" valign="top"><strong>GeoSentinel Drain FloodOps</strong><br /><br />
+A GeoSentinel project focused on drainage and flood operations.<br /><br />
+<a href="https://geosentinel-drain-floodops.neat-grove-8624.chatgpt.site/"><strong>Open application</strong></a><br /><sub>ChatGPT sign-in is required to access the application.</sub>
+</td>
+</tr>
+
 <tr>
 <td width="34%" valign="middle">
 <a href="https://islamabad-feature-intelligence.safdarwatto7714.chatgpt.site"><img src="https://safdar404.github.io/assets/islamabad-feature-intelligence/sentinel2-analysis-map.png" alt="Islamabad Feature Intelligence — Original interface / analysis" width="260" /></a><br /><sub>Original interface / analysis</sub>
