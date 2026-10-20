@@ -183,13 +183,13 @@ Five spatial planning workflows with a linked Python research toolkit.<br /><br 
 </tr>
 <tr>
 <td width="34%" valign="middle">
-<a href="https://safdar404.github.io/geosentinel-floodops/"><img src="https://safdar404.github.io/assets/selected-projects/floodops.jpg" alt="GeoSentinel FloodOps — Original interface / analysis" width="260" /></a><br /><sub>Original interface / analysis</sub>
+<a href="https://safdar404.github.io/geosentinel-floodops/"><img src="https://safdar404.github.io/geosentinel-floodops/assets/agrisentinel-logo-v1.webp" alt="AgriSentinel Pakistan logo" width="260" /></a><br /><sub>Project logo</sub>
 </td>
 <td width="66%" valign="top">
-<strong>GeoSentinel FloodOps</strong><br />
-<sub>Operational map · Evidence · Missions · Human review</sub><br /><br />
-Flood and water-intelligence demonstration; displayed scenario values are illustrative.<br /><br />
-<sub>Leaflet · Flood intelligence · Human review</sub><br />
+<strong>AgriSentinel Pakistan</strong><br />
+<sub>Crop health · Satellites · QA · RAG · ML</sub><br /><br />
+Monitor crop fields, review satellite indices, track pesticide follow-up and explore source-cited guidance and harvest models.<br /><br />
+<sub>GeoAI · Sentinel-2 · Agriculture · ML</sub><br />
 <a href="https://safdar404.github.io/geosentinel-floodops/"><strong>View project</strong></a> · <a href="https://github.com/safdar404/safdar404.github.io/tree/main/geosentinel-floodops"><strong>Source</strong></a>
 </td>
 </tr>
@@ -446,12 +446,12 @@ AI-powered healthcare decision-support application designed to provide structure
 
 > **Safety:** AI-HealthAssist is an educational/decision-support application and is not a substitute for qualified medical diagnosis, treatment or professional clinical advice.
 
-### 🛰️ GeoSentinel FloodOps — Global Temporal GeoAI
-Agentic flood and water intelligence combining temporal Sentinel-1/2 analysis, Leaflet operational maps, exposure/damage assessment, human approval and downloadable operational map products.
+### 🌱 AgriSentinel Pakistan — Crop & Farmer Intelligence
+Monitor crop fields, review satellite indices, track pesticide follow-up and explore source-cited guidance and harvest models.
 
-**Leaflet · Sentinel-1/2 · Google Earth Engine · Python GeoAI · PostGIS · Agentic AI**
+**GeoAI · Sentinel-2 · Crop health · Local QA · Extractive RAG · ML yield models**
 
-[Open GeoSentinel FloodOps](https://safdar404.github.io/geosentinel-floodops/)
+[Open AgriSentinel Pakistan](https://safdar404.github.io/geosentinel-floodops/)
 
 ### 🗺️ Pakistan Infrastructure GIS Command Centre
 Infrastructure and transportation GIS dashboard for spatial decision support, project monitoring and public-development workflows.
@@ -715,3 +715,4 @@ Open to **Data Science, Data Engineering, AI/ML Engineering, Python, GIS, GeoAI 
 [Portfolio](https://safdar404.github.io/) · [LinkedIn](https://www.linkedin.com/in/muhammad-safdar-88b27730) · [Facebook](https://www.facebook.com/muhammad.safdar.615557) · [Email](mailto:safdar404@gmail.com) · [WhatsApp](https://wa.me/923228792404) · [Resume](https://smhisresume.com/)
 
 </div>
+
