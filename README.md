@@ -716,3 +716,37 @@ Open to **Data Science, Data Engineering, AI/ML Engineering, Python, GIS, GeoAI 
 
 </div>
 
+
+
+<!-- SPECIALIZED-RAG-GEOAI-2026 -->
+## 🧠 RAG & Intelligent Document AI
+
+### Lexora | Law Firm Document Research Workspace
+**Specialization:** legal-document intelligence, OCR, matter-scoped evidence retrieval, optional LLM answers and source-aware reporting.
+
+**Workflow:** upload PDF/DOCX/images → extract text (optional Tesseract OCR) → index by legal matter → search source passages → optionally generate AI answers with citation IDs → review evidence → export PDF, Word, CSV, JSON or print-ready reports.
+
+**Stack:** Python · Streamlit · PyMuPDF · python-docx · Tesseract · scikit-learn · OpenAI API (optional).
+
+**Boundary:** lexical evidence search works without an LLM; AI answers require user-provided API access. This is a research workspace, not a verified case-law database or legal-advice substitute. Source package supplied for repository publication; public source URL pending.
+
+## 🛰️ GeoAI & Data-Centric Machine Learning
+
+### GeoDistill Studio | Land-Cover Research Workbench
+**Specialization:** data-centric land-cover image classification, reduced training-set synthesis, experiment management and submission preparation.
+
+**Workflow:** import PNG image dataset → audit classes and splits → synthesize reduced datasets → train local research models → inspect evaluation/predictions → export traceable experiments and submission candidates.
+
+**Stack:** Python · Streamlit · NumPy · Pandas · scikit-learn · Plotly · optional PyTorch.
+
+**Boundary:** bundled research models are not certified as the competition's required fixed ViT evaluator. Official baseline integration and rule confirmation remain necessary. Source package supplied for repository publication; public source URL pending.
+
+### Land Cover Competition Preparation | Dataset QA Pipeline
+**Specialization:** land-cover dataset auditing, exact-pixel duplicate detection, class-distribution analysis and reduced-data preparation.
+
+**Workflow:** validate train/validation/test manifests → decode/check images → detect duplicates → analyze class balance → produce reduced/synthetic subsets → prepare explicit-schema submission files.
+
+**Stack:** Python · Pandas · NumPy · Pillow · Matplotlib.
+
+**Boundary:** data-preparation project, not a trained model or measured competition submission. Source package supplied for repository publication; public source URL pending.
+<!-- END SPECIALIZED-RAG-GEOAI-2026 -->
