@@ -139,6 +139,24 @@ PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 
 ---
 
+
+<!-- STEADY-GROWTH-START -->
+## 🌱 Steady · Growth Companion
+
+[![Steady — planning, learning and wellbeing overview](https://safdar404.github.io/assets/steady/steady-overview.svg)](https://safdar-mindful-growth.safdarwatto7714.chatgpt.site/)
+
+**A little stronger, every day.** A personal growth companion that brings daily planning, learning, reflection and everyday wellbeing into one calm workspace.
+
+- **Plan:** organize daily activities and small next steps.
+- **Learn:** explore lessons, guided practice and learning/recall tools.
+- **Reflect:** use a thought journal, wellbeing resources and progress pages.
+- **Local by default:** browser-based entries with English and partial Urdu support.
+
+[**Open Steady ↗**](https://safdar-mindful-growth.safdarwatto7714.chatgpt.site/) · [**Project documentation**](https://github.com/safdar404/safdar404.github.io/tree/main/projects/steady) · [**Portfolio**](https://safdar404.github.io/)
+
+<sub>Branded overview graphic, not an app screenshot. Educational wellbeing support; not diagnosis or a replacement for professional care. This repository entry documents the hosted app; application source is not included.</sub>
+<!-- STEADY-GROWTH-END -->
+
 <!-- PROJECT-GALLERY-START -->
 ## Project portfolio
 
