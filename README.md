@@ -158,6 +158,29 @@ PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 <!-- STEADY-GROWTH-END -->
 
 <!-- PROJECT-GALLERY-START -->
+<!-- STREAMLIT-SUITE:START -->
+## ✨ Applied AI · Streamlit Collection
+
+Six Python applications spanning conversation, personal finance, document research, educational health guidance, business research and customer support. Open an app to explore its workflow, or inspect the implementation on GitHub. AI features require your own API key and may incur provider charges.
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://suleman-ai.streamlit.app/"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/assets/streamlit-suite/sulemanai.svg" alt="Suleman AI branded project overview, not an application screenshot" width="440" /></a><h3>Suleman AI</h3><p>Chat with saved conversation history and explore data, charts and creative tools.</p><p><strong>Chat history · Data exploration · OpenAI API</strong></p><p><a href="https://suleman-ai.streamlit.app/">Open application ↗</a> · <a href="https://github.com/safdar404/sulemanai">Source code ↗</a></p></td>
+<td width="50%" valign="top"><a href="https://finwis-ai.streamlit.app/"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/assets/streamlit-suite/finwisai.svg" alt="FinWise AI branded project overview, not an application screenshot" width="440" /></a><h3>FinWise AI</h3><p>Explore monthly spending, savings ratios and educational budgeting insights.</p><p><strong>Python calculations · Budgeting · LangChain</strong></p><p><a href="https://finwis-ai.streamlit.app/">Open application ↗</a> · <a href="https://github.com/safdar404/finwisai">Source code ↗</a></p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://ragstudios.streamlit.app/"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/assets/streamlit-suite/ragstudio.svg" alt="RAG Studio branded project overview, not an application screenshot" width="440" /></a><h3>RAG Studio</h3><p>Ask questions across PDFs, Word documents and images with source-aware retrieval.</p><p><strong>Hybrid search · Document Q&amp;A · Citations</strong></p><p><a href="https://ragstudios.streamlit.app/">Open application ↗</a> · <a href="https://github.com/safdar404/ragstudio">Source code ↗</a></p></td>
+<td width="50%" valign="top"><a href="https://medical-ai-assistants.streamlit.app/"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/assets/streamlit-suite/medical-ai-assistant.svg" alt="MediGuide AI branded project overview, not an application screenshot" width="440" /></a><h3>MediGuide AI</h3><p>Explore structured symptom guidance, warning signs and questions for a healthcare professional.</p><p><strong>Symptom inputs · Safety rules · Patient guidance</strong></p><p><a href="https://medical-ai-assistants.streamlit.app/">Open application ↗</a> · <a href="https://github.com/safdar404/medical-ai-assistant">Source code ↗</a></p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://markeetmind.streamlit.app/"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/assets/streamlit-suite/marketmind.svg" alt="MarketMind AI branded project overview, not an application screenshot" width="440" /></a><h3>MarketMind AI</h3><p>Turn a business brief into an evidence-linked research draft with human approval.</p><p><strong>Bounded agent loop · Evidence review · Human approval</strong></p><p><a href="https://markeetmind.streamlit.app/">Open application ↗</a> · <a href="https://github.com/safdar404/marketmind">Source code ↗</a></p></td>
+<td width="50%" valign="top"><a href="https://supportpearlzai.streamlit.app/"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/assets/streamlit-suite/supportpearlz.svg" alt="SupportPearlz branded project overview, not an application screenshot" width="440" /></a><h3>SupportPearlz</h3><p>Answer support questions from a document knowledge base with citations and retrieval controls.</p><p><strong>FAISS retrieval · Cited answers · Conversation memory</strong></p><p><a href="https://supportpearlzai.streamlit.app/">Open application ↗</a> · <a href="https://github.com/safdar404/supportpearlz">Source code ↗</a></p></td>
+</tr>
+</table>
+
+<sub>Graphics are branded project overviews. MediGuide and FinWise are educational prototypes. MarketMind and SupportPearlz include fictional demonstration documents. Review AI outputs before relying on them.</sub>
+<!-- STREAMLIT-SUITE:END -->
+
 ## Project portfolio
 
 **Original interfaces, measured analyses and source-backed implementation details.**
@@ -783,3 +806,4 @@ Open to **Data Science, Data Engineering, AI/ML Engineering, Python, GIS, GeoAI 
 | **Land Cover Dataset Preparation** | [Open Dataset QA](https://safdar404.github.io/land-cover-data-preparation/) | Manifest audit, split leakage, SHA-256 file duplication, cleaned CSV |
 
 > These are separate GitHub Pages browser demonstrations, not the complete original Python/Streamlit deployments. Full OCR, vector RAG, training and inference still require a backend service.
+
