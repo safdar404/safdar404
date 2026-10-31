@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Muhammad Safdar — AI, GeoAI and data intelligence</title><desc id="desc">Generative AI and agentic applications, spatial intelligence, data science and engineering.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10172e"/><stop offset="1" stop-color="#23143d"/></linearGradient><linearGradient id="rainbow"><stop stop-color="#22d3ee"/><stop offset=".35" stop-color="#818cf8"/><stop offset=".7" stop-color="#e879f9"/><stop offset="1" stop-color="#fb923c"/></linearGradient></defs>
+<rect width="1200" height="320" rx="24" fill="url(#bg)"/><rect x="0" y="306" width="1200" height="14" fill="url(#rainbow)"/>
+<g fill="none" stroke="#6674b8" opacity=".25"><circle cx="1055" cy="144" r="113"/><circle cx="1055" cy="144" r="85"/><path d="M900 60L1110 247M929 243L1150 65M940 45L970 260"/></g>
+<g stroke="url(#rainbow)" stroke-width="3" fill="#182340"><path d="M966 111L1055 66L1142 116L1103 220L998 215Z"/><circle cx="966" cy="111" r="9"/><circle cx="1055" cy="66" r="9"/><circle cx="1142" cy="116" r="9"/><circle cx="1103" cy="220" r="9"/><circle cx="998" cy="215" r="9"/></g>
+<rect x="997" y="112" width="110" height="76" rx="23" fill="#17243f" stroke="#67e8f9" stroke-width="3"/><circle cx="1030" cy="143" r="7" fill="#67e8f9"/><circle cx="1076" cy="143" r="7" fill="#e879f9"/><path d="M1030 166Q1053 179 1077 166" fill="none" stroke="#c4b5fd" stroke-width="3"/>
+<g font-family="Arial, Helvetica, sans-serif"><text x="52" y="56" fill="#67e8f9" font-size="15" letter-spacing="3">PYTHON • INTELLIGENCE • USEFUL TOOLS</text>
+<text x="50" y="119" fill="#ffffff" font-size="48" font-weight="700">Muhammad Safdar</text>
+<text x="52" y="166" fill="#e9d5ff" font-size="26">Generative AI &amp; Agentic Applications</text>
+<text x="52" y="203" fill="#b9c9e7" font-size="21">GeoAI · Enterprise GIS · Data Science · Engineering</text>
+<rect x="52" y="239" width="650" height="38" rx="19" fill="#27314f"/><text x="75" y="264" fill="#dbeafe" font-size="16">Explore projects by role, workflow and real implementation</text></g></svg>
