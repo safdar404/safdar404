@@ -23,6 +23,22 @@ I transform spatial, engineering and business data into validated analysis, prod
 <img src="./profile-metrics.svg" alt="Portfolio snapshot: 27 projects, 8 applied ML studies, 3 BI dashboards, 5 resilience workflows and 3 site selection apps" width="100%" />
 </p>
 
+<!-- VOICEAGENT-FEATURE-START -->
+## 🎙️ Featured launch · Voice Agent AI
+
+[![Voice Agent AI — rainbow conversational voice studio overview](./assets/voiceagent-ai/voiceagent-overview.svg)](https://voiceagent-ai.streamlit.app/)
+
+**Speak your question. Review your words. Hear AI respond.** A Python voice application combining speech recognition, contextual conversation and AI-generated speech in one Streamlit workspace.
+
+🎤 **Record or upload** audio · ✍️ **Review editable transcripts** · 💬 **Type or speak** your questions · 🔊 **Choose a voice** and download MP3 replies.
+
+🌍 English, Urdu, Portuguese and Arabic reply options · 🧠 Travel advisor, GeoAI/GIS tutor, interview coach and general assistant · 📥 Conversation export · 🔑 Your own OpenAI API key.
+
+[**🚀 Try Voice Agent AI**](https://voiceagent-ai.streamlit.app/) · [**💻 Explore the source**](https://github.com/safdar404/voiceagent-ai) · [**🌐 Browse my portfolio**](https://safdar404.github.io/)
+
+<sub>Branded project overview, not an app screenshot. Turn-based record-and-send conversation; API access and usage charges apply.</sub>
+<!-- VOICEAGENT-FEATURE-END -->
+
 ## What I deliver
 
 | Capability | Applied work |
@@ -159,9 +175,9 @@ PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 
 <!-- PROJECT-GALLERY-START -->
 <!-- STREAMLIT-SUITE:START -->
-## 🌈 Applied AI · Seven Live Python Applications
+## 🌈 Applied AI · Eight Live Python Applications
 
-Seven distinct apps with their **actual rainbow interfaces**, custom agent identities and working application/source links. Click a screenshot to inspect the full interface, or open the app to use its workflow.
+Eight distinct apps with rainbow branding, including seven captured interfaces and the featured Voice Agent overview, custom agent identities and working application/source links. Click a screenshot to inspect the full interface, or open the app to use its workflow.
 
 ### 🌈 CareerRainbow AI — Agentic Resume Copilot
 
@@ -819,5 +835,6 @@ Open to **Data Science, Data Engineering, AI/ML Engineering, Python, GIS, GeoAI 
 | **Land Cover Dataset Preparation** | [Open Dataset QA](https://safdar404.github.io/land-cover-data-preparation/) | Manifest audit, split leakage, SHA-256 file duplication, cleaned CSV |
 
 > These are separate GitHub Pages browser demonstrations, not the complete original Python/Streamlit deployments. Full OCR, vector RAG, training and inference still require a backend service.
+
 
 
