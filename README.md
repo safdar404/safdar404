@@ -21,7 +21,7 @@ I build Python applications that connect **language models, useful tools, spatia
 <a id="generative-ai"></a>
 ## 🤖 01 · Generative AI & Agentic Applications
 
-**From conversation to reviewed action.** Numbered visual rows show each app’s interface or agent identity, interaction mode, implemented functions and launch/setup links.
+**From conversation to reviewed action.** Each app below lists its interaction modes, implemented features, tech stack and links to the live app and source.
 
 <a id="agent-showcase"></a>
 ### 🖼️ Agent display · interfaces, modes & functions
@@ -34,17 +34,13 @@ I build Python applications that connect **language models, useful tools, spatia
 <tr><td width="30%" valign="top" align="center"><a href="https://suleman-ai.streamlit.app/"><img src="https://safdar404.github.io/assets/streamlit-suite/sulemanai-actual-20261028.jpg" alt="💬 Suleman AI — 📸 Actual interface · captured 28 October 2026" width="250" /></a><br /><sub>📸 Actual interface · captured 28 October 2026</sub></td><td width="70%" valign="top"><h3>05 · 💬 Suleman AI</h3><strong>Multimodal creative assistant</strong><p>💬 Persona chat · 🎨 Media studio · 📊 Data studio</p><ul><li>Streaming chat with personas, vision and saved conversations.</li><li>Media studio for image/video creation, plus summarization, translation and quizzes.</li><li>Data studio for charts and AI-assisted insights.</li></ul><p><sub>🛠️ Python · Streamlit · Smart chat · Media studio · Data exploration</sub></p><p><a href="https://suleman-ai.streamlit.app/">🚀 Open app</a> · <a href="https://github.com/safdar404/sulemanai">💻 Source & setup</a></p></td></tr>
 <tr><td width="30%" valign="top" align="center"><a href="https://ragstudios.streamlit.app/"><img src="https://safdar404.github.io/assets/streamlit-suite/ragstudio-actual-20261028.jpg" alt="📚 RAG Studio — 📸 Actual interface · captured 28 October 2026" width="250" /></a><br /><sub>📸 Actual interface · captured 28 October 2026</sub></td><td width="70%" valign="top"><h3>06 · 📚 RAG Studio</h3><strong>Document research & retrieval</strong><p>📚 Document Q&A · 🔎 Hybrid retrieval · 🗒️ Notebook</p><ul><li>PDFs and scans, Word, images, CSV, TXT and Markdown ingestion.</li><li>Semantic + BM25 hybrid search, query rewriting, optional re-ranking and citation checks.</li><li>Agent personas, multilingual answers, pinned notes, offline library insights and exports.</li></ul><p><sub>🛠️ Python · Streamlit · Hybrid retrieval · Citations · Pinned notebook</sub></p><p><a href="https://ragstudios.streamlit.app/">🚀 Open app</a> · <a href="https://github.com/safdar404/ragstudio">💻 Source & setup</a></p></td></tr>
 <tr><td width="30%" valign="top" align="center"><a href="https://supportpearlzai.streamlit.app/"><img src="https://safdar404.github.io/assets/streamlit-suite/supportpearlz-actual-20261028.jpg" alt="🤖 SupportPearlz — 📸 Actual interface · captured 28 October 2026" width="250" /></a><br /><sub>📸 Actual interface · captured 28 October 2026</sub></td><td width="70%" valign="top"><h3>07 · 🤖 SupportPearlz</h3><strong>Customer support knowledge assistant</strong><p>💬 Support chat · 📖 Knowledge viewer · 🧪 Retrieval lab</p><ul><li>Multi-turn FAISS retrieval, follow-up rewriting and validated source citations.</li><li>Offline extractive demo over 12 fictional company documents; no API key required for the demo.</li><li>Knowledge viewer, document search, retrieval lab, feedback, session stats and Markdown export.</li></ul><p><sub>🛠️ Python · Streamlit · Cited answers · Offline demo · Retrieval lab</sub></p><p><a href="https://supportpearlzai.streamlit.app/">🚀 Open app</a> · <a href="https://github.com/safdar404/supportpearlz">💻 Source & setup</a></p></td></tr>
-<tr><td width="30%" valign="top" align="center"><a href="https://ai-healthassist.ai.studio/"><img src="https://raw.githubusercontent.com/safdar404/healthai/main/assets/healthassist-clinician.webp" alt="🏥 HealthAssist v2 — Branded clinician artwork · not a screenshot" width="250" /></a><br /><sub>Branded clinician artwork · not a screenshot</sub></td><td width="70%" valign="top"><h3>08 · 🏥 HealthAssist v2</h3><strong>Tool-calling health workspace</strong><p>🧑‍⚕️ Doctor/patient styles · 🛠️ Tool-calling agent · 📋 Workspace</p><ul><li>Intake, patient registry, recorded vitals/labs, charts, care tasks and user-maintained facility directory.</li><li>Seven bounded tools for selected-context review, recorded vital comparisons, document search, BMI and handoff/note/checklist drafts.</li><li>OpenAI/Gemini, English/Urdu, opt-in encounter/document sharing, visible tool results and report/backup exports.</li></ul><p><sub>🛠️ Python · Streamlit · OpenAI/Gemini · Document retrieval</sub></p><p><a href="https://ai-healthassist.ai.studio/">▶️ Open App</a> · <a href="https://github.com/safdar404/healthai/blob/main/README.md#1-run-in-vs-code--windows-powershell">▶️ Run locally</a> · <a href="https://github.com/safdar404/healthai">💻 Source</a></p></td></tr>
+<tr><td width="30%" valign="top" align="center"><a href="https://ai-healthassist.ai.studio/"><img src="https://raw.githubusercontent.com/safdar404/healthai/main/assets/healthassist-clinician.webp" alt="🏥 HealthAssist v2 — Branded clinician artwork · not a screenshot" width="250" /></a><br /><sub>Branded clinician artwork · not a screenshot</sub></td><td width="70%" valign="top"><h3>08 · 🏥 HealthAssist v2</h3><strong>Tool-calling health workspace</strong><p>🧑‍⚕️ Doctor/patient styles · 🛠️ Tool-calling agent · 📋 Workspace</p><ul><li>Intake, patient registry, recorded vitals/labs, charts, care tasks and user-maintained facility directory.</li><li>Seven bounded tools for selected-context review, recorded vital comparisons, document search, BMI and handoff/note/checklist drafts.</li><li>OpenAI/Gemini, English/Urdu, opt-in encounter/document sharing, visible tool results and report/backup exports.</li></ul><p><sub>🛠️ Python · Streamlit · OpenAI/Gemini · Document retrieval</sub></p><p><a href="https://ai-healthassist.ai.studio/">🚀 Open app</a> · <a href="https://github.com/safdar404/healthai/blob/main/README.md#1-run-in-vs-code--windows-powershell">▶️ Run locally</a> · <a href="https://github.com/safdar404/healthai">💻 Source</a></p></td></tr>
 <tr><td width="30%" valign="top" align="center"><a href="https://medical-ai-assistants.streamlit.app/"><img src="https://safdar404.github.io/assets/streamlit-suite/medical-ai-assistant-actual-20261028.jpg" alt="🩺 MediGuide AI — 📸 Actual interface · captured 28 October 2026" width="250" /></a><br /><sub>📸 Actual interface · captured 28 October 2026</sub></td><td width="70%" valign="top"><h3>09 · 🩺 MediGuide AI</h3><strong>Structured symptom guidance</strong><p>🩺 Structured intake · 🚩 Rule checks · 💬 Optional AI guidance</p><ul><li>Structured age, symptoms, duration, severity, vital signs and background inputs.</li><li>Deterministic red-flag checks run before AI guidance; optional language and voice controls.</li><li>Guidance organizes warning signs, next steps and questions for a healthcare professional, with PDF export.</li></ul><p><sub>🛠️ Python · Streamlit · Structured intake · Rule checks · PDF reports</sub></p><p><a href="https://medical-ai-assistants.streamlit.app/">🚀 Open app</a> · <a href="https://github.com/safdar404/medical-ai-assistant">💻 Source & setup</a></p></td></tr>
 <tr><td width="30%" valign="top" align="center"><a href="https://finwis-ai.streamlit.app/"><img src="https://safdar404.github.io/assets/streamlit-suite/finwisai-actual-20261028.jpg" alt="💰 FinWise AI — 📸 Actual interface · captured 28 October 2026" width="250" /></a><br /><sub>📸 Actual interface · captured 28 October 2026</sub></td><td width="70%" valign="top"><h3>10 · 💰 FinWise AI</h3><strong>Budgeting & financial scenarios</strong><p>💰 Budget planner · 📊 What-if scenarios · 💬 Insights</p><ul><li>Editable income, ten expense categories, savings goals and quick-start presets.</li><li>Interactive spending charts, transparent rule score and 50/30/20 comparisons.</li><li>What-if controls, growth assumptions, offline chat and PDF/JSON/CSV export.</li></ul><p><sub>🛠️ Python · Streamlit · Budget charts · What-if tools · Offline insights</sub></p><p><a href="https://finwis-ai.streamlit.app/">🚀 Open app</a> · <a href="https://github.com/safdar404/finwisai">💻 Source & setup</a></p></td></tr>
-<tr><td width="30%" valign="top" align="center"><a href="https://house-build-cad.streamlit.app/"><img src="https://raw.githubusercontent.com/safdar404/house-build-cad/main/assets/agent-mark.svg" alt="🏗️ GharBuilder AI — GharBuilder agent identity · not a screenshot" width="250" /></a><br /><sub>GharBuilder agent identity · not a screenshot</sub></td><td width="70%" valign="top"><h3>11 · 🏗️ GharBuilder AI</h3><strong>House design & estimation agent</strong><p>💬 Requirements chat · 🤖 Agent Studio · 👁️ Reviewed tools</p><ul><li>Capture project requirements, review concept floor plans and generate CAD/3D geometry alternatives.</li><li>Inspect BIM/IFC, 4D schedule, itemized BOQ, rates, labour and user-entered progress.</li><li>Agent tools use reviewed inputs and staged approval; available exports include geometry, PDF and Excel.</li></ul><p><sub>🛠️ Python · Streamlit · OpenAI · CAD · BIM/IFC</sub></p><p><a href="https://house-build-cad.streamlit.app/">▶️ Open App</a> · <a href="https://github.com/safdar404/house-build-cad/blob/main/README.md#run-on-windows">▶️ Run locally</a> · <a href="https://github.com/safdar404/house-build-cad">💻 Source</a></p></td></tr>
+<tr><td width="30%" valign="top" align="center"><a href="https://house-build-cad.streamlit.app/"><img src="https://raw.githubusercontent.com/safdar404/house-build-cad/main/assets/agent-mark.svg" alt="🏗️ GharBuilder AI — GharBuilder agent identity · not a screenshot" width="250" /></a><br /><sub>GharBuilder agent identity · not a screenshot</sub></td><td width="70%" valign="top"><h3>11 · 🏗️ GharBuilder AI</h3><strong>House design & estimation agent</strong><p>💬 Requirements chat · 🤖 Agent Studio · 👁️ Reviewed tools</p><ul><li>Capture project requirements, review concept floor plans and generate CAD/3D geometry alternatives.</li><li>Inspect BIM/IFC, 4D schedule, itemized BOQ, rates, labour and user-entered progress.</li><li>Agent tools use reviewed inputs and staged approval; available exports include geometry, PDF and Excel.</li></ul><p><sub>🛠️ Python · Streamlit · OpenAI · CAD · BIM/IFC</sub></p><p><a href="https://house-build-cad.streamlit.app/">🚀 Open app</a> · <a href="https://github.com/safdar404/house-build-cad/blob/main/README.md#run-on-windows">▶️ Run locally</a> · <a href="https://github.com/safdar404/house-build-cad">💻 Source</a></p></td></tr>
 </table>
 
-<sub>Agent avatars and branded artwork are labeled separately from screenshots. Health tools support education and reviewed drafts; GharBuilder outputs are concepts requiring professional review. Provider-dependent features require API access.</sub>
-
-
-
-<sub>These projects combine different levels of automation: tool-calling agents, retrieval assistants and rule-based analytics. API features require configured provider access. TravelTalk is available through its live app link. GharBuilder is available through its live app link. HealthAssist v2 is available through its app link.</sub>
+<sub>These projects range from tool-calling agents to retrieval assistants and rule-based analytics; provider-dependent features require API access. Agent avatars and branded artwork are labeled separately from screenshots. Health tools support education and reviewed drafts; GharBuilder outputs are concepts requiring professional review.</sub>
 
 ### Document intelligence & specialist research
 
@@ -53,19 +49,20 @@ I build Python applications that connect **language models, useful tools, spatia
 | **Lexora Legal Research** | Browser passage search and cited excerpts from local text; full Python OCR/LLM package is a separate implementation. | [Browser demo](https://safdar404.github.io/lexora-legal-rag/) |
 | **LangChain RAG Assistant** | OpenAI embeddings, SingleStore vector retrieval and source snippets. | [🚀 Open demo · sign-in may be required](https://langchain-rag-document-assistant.neat-grove-8624.chatgpt.site/) · [💻 Source](https://github.com/safdar404/LangChain-RAG-Application) |
 | **HIS AI Agentic Solutions** | Specialist-agent showcase with tools, validation and human review. | [Showcase](https://his-ai-agentic-solutions.lovable.app/) |
-| **AI HealthAssist · earlier interface** | Educational intake, vitals and health GIS prototype; distinct from HealthAssist v2 above. | [Interface](https://ai-healthassist.ai.studio/) · [Source](https://github.com/safdar404/HIS-AI-HealthAssist) |
+| **AI HealthAssist · earlier version** | Educational intake, vitals and health GIS prototype; predecessor of HealthAssist v2 above. | [💻 Source](https://github.com/safdar404/HIS-AI-HealthAssist) |
 
 <a id="geoai"></a>
 ## 🛰️ 02 · GeoAI, GIS & Spatial Decision Support
 
 
-
 <table>
 <tr>
-<td width="34%" valign="middle"><strong>GeoSentinel Drain FloodOps</strong><br /><br /><sub>Drainage · Flood operations · GIS</sub></td>
-<td width="66%" valign="top"><strong>GeoSentinel Drain FloodOps</strong><br /><br />
-A GeoSentinel project focused on drainage and flood operations.<br /><br />
-<a href="https://geosentinel-drain-floodops.neat-grove-8624.chatgpt.site/"><strong>Open application</strong></a><br /><sub>ChatGPT sign-in is required to access the application.</sub>
+<td width="34%" valign="middle"><strong>Drainage operations app</strong><br /><br /><sub>Drainage · Flood operations · GIS</sub></td>
+<td width="66%" valign="top"><strong>GeoSentinel Drain FloodOps</strong><br />
+<sub>Drainage network · Flood operations</sub><br /><br />
+Drainage and flood-operations workspace in the GeoSentinel family.<br /><br />
+<sub>Web GIS · Flood intelligence</sub><br />
+<a href="https://geosentinel-drain-floodops.neat-grove-8624.chatgpt.site/"><strong>Open live app</strong></a> · <sub>ChatGPT sign-in required</sub>
 </td>
 </tr>
 
@@ -112,7 +109,7 @@ Monitor crop fields, review satellite indices, track pesticide follow-up and exp
 <td width="66%" valign="top">
 <strong>Pakistan National Flood Intelligence</strong><br />
 <sub>35 priority districts · 5 scenarios · 4 response phases</sub><br /><br />
-Repository-documented national screening. River observations are dated 5 August 2026; scenario scores are qualitative.<br /><br />
+National flood screening with district markers and scenario views. River observations are dated 5 August 2026; scenario scores are qualitative.<br /><br />
 <sub>React · TypeScript · GeoJSON</sub><br />
 <a href="https://pakistan-flood-intelligence-2026.neat-grove-8624.chatgpt.site/"><strong>View project</strong></a> · <a href="https://github.com/safdar404/Pakistan-National-Flood-Intelligence"><strong>Source</strong></a>
 </td>
@@ -202,8 +199,6 @@ Client-side calculations with labeled samples, row validation and analyzed-recor
 
 ### 📈 Eight applied ML studies · charts, metrics & evaluation notes
 
-## Applied AI/ML — eight collective dashboards
-
 Classification, regression, customer segmentation and time-series forecasting with original charts from my completed project notebooks.
 
 [**Explore all eight dashboards at full size**](https://safdar404.github.io/applied-ml-analysis/)
@@ -214,7 +209,7 @@ Classification, regression, customer segmentation and time-series forecasting wi
 
 **Accuracy 81.0% · ROC AUC 0.939 · Average precision 0.950**
 
-Supplied tuned SVC dashboard; 42 test samples. This run differs from the earlier baseline evaluation.
+Tuned SVC evaluated on 42 held-out test samples.
 
 [View analysis](https://safdar404.github.io/applied-ml-analysis/#sonar) · [Open original image](https://safdar404.github.io/assets/ml-dashboards/sonar.png)
 
@@ -234,7 +229,7 @@ Educational dataset evaluation; 3 missed malignant cases and 1 false positive in
 
 **Fraud recall 83.7% · Precision 88.2% · Average precision 0.861**
 
-Supplied notebook run at threshold 0.25: 82 detected frauds, 16 missed frauds and 11 false alarms. This differs from the earlier duplicate-removed experiment.
+Decision threshold 0.25: 82 detected frauds, 16 missed frauds and 11 false alarms on the test set.
 
 [View analysis](https://safdar404.github.io/applied-ml-analysis/#fraud) · [Open original image](https://safdar404.github.io/assets/ml-dashboards/fraud.png)
 
@@ -290,18 +285,15 @@ Historical passenger series, chronological validation, residuals and 1961 foreca
 
 **Shared frontend:** prepared Streamlit tools support sample inputs, batch predictions and evaluation views. Online Streamlit deployment is pending.
 
-> Displayed figures come from the supplied dashboard screenshots. Educational evaluations are not clinical validation or evidence of operational fraud-detection reliability. Earlier comparison assets remain in the repository.
+> Figures are taken from the project dashboards. These are educational evaluations, not clinical validation or evidence of production fraud-detection reliability.
 
 ---
-
-
 
 
 <a id="bi"></a>
 ## 📊 04 · Business Intelligence & Operational Analytics
 
 **Power BI · DAX · Power Query · Data QA** — dashboards grouped around retail, customer behavior and sales performance.
-
 
 
 <table>
@@ -344,12 +336,10 @@ Actual dashboard, all filters selected. The unmatched Returns sheet is excluded 
 </table>
 
 
-
 <a id="engineering"></a>
 ## 🏗️ 05 · Engineering, BIM & Document Automation
 
 **GharBuilder AI** connects reviewed concept design, CAD/3D, IFC, scheduling and cost workflows. [Open App](https://house-build-cad.streamlit.app/) · [Explore source & setup](https://github.com/safdar404/house-build-cad)
-
 
 
 <table>
@@ -360,7 +350,7 @@ Actual dashboard, all filters selected. The unmatched Returns sheet is excluded 
 <td width="66%" valign="top">
 <strong>Zarwa Bill Scanner / HIS Bill Scanner</strong><br />
 <sub>Camera / upload · OCR review · Structured CSV</sub><br /><br />
-Repository documents browser-based Tesseract.js and PDF.js; vendor, invoice, currency, tax, totals and line items.<br /><br />
+Browser-based OCR with Tesseract.js and PDF.js that extracts vendor, invoice, currency, tax, totals and line items for review and CSV export.<br /><br />
 <sub>Tesseract.js · React · TypeScript</sub><br />
 <a href="https://his-bill-scanner.neat-grove-8624.chatgpt.site/"><strong>View project</strong></a> · <a href="https://github.com/safdar404/HIS-Bill-Scanner"><strong>Source</strong></a>
 </td>
@@ -372,19 +362,19 @@ Repository documents browser-based Tesseract.js and PDF.js; vendor, invoice, cur
 <td width="66%" valign="top">
 <strong>Planora AI — CAD, BIM &amp; GIS Flow</strong><br />
 <sub>Project brief · CAD/BIM · MEP · GIS · Costing</sub><br /><br />
-Original application screenshot. Source is private; engineering outputs require professional review.<br /><br />
+Concept-to-costing flow across CAD/BIM, MEP and GIS. Source is private; engineering outputs require professional review.<br /><br />
 <sub>CAD · BIM–GIS · 3D</sub><br />
 <a href="https://ai-cad-bim-flow.lovable.app/"><strong>View project</strong></a> · <sub>🔒 Private source</sub>
 </td>
 </tr>
 <tr>
 <td width="34%" valign="middle">
-<strong>Verified extraction schema</strong><br /><br /><sub><code>ScanRecord</code><br />component · tag · duct_size_mm<br />airflow · airflow_unit<br />confidence_pct · source_line</sub>
+<strong>Extraction schema</strong><br /><br /><sub><code>ScanRecord</code><br />component · tag · duct_size_mm<br />airflow · airflow_unit<br />confidence_pct · source_line</sub>
 </td>
 <td width="66%" valign="top">
 <strong>MEP Scanner System</strong><br />
 <sub>Drawing pages · Component tags · Duct sizes · Airflow</sub><br /><br />
-Verified app.py extracts MEP components, dimensions and airflow, retaining OCR confidence and source lines.<br /><br />
+Extracts MEP components, duct dimensions and airflow from drawings, keeping OCR confidence and source lines for review.<br /><br />
 <sub>Python · EasyOCR · OpenCV</sub><br />
 <a href="https://mep-scanner-system.neat-grove-8624.chatgpt.site/"><strong>View project</strong></a> · <a href="https://github.com/safdar404/HIS-MEP-Scanner-System."><strong>Source</strong></a>
 </td>
@@ -392,7 +382,7 @@ Verified app.py extracts MEP components, dimensions and airflow, retaining OCR c
 </table>
 
 
-<sub>Related earlier OCR implementations: MEP Drawing Analyzer, Alfanar MEP OCR and Zarwa/HIS Bill Scanner. See the <a href="./projects/profile-project-history.md">project history and implementation notes</a>.</sub>
+<sub>Related earlier OCR implementations: MEP Drawing Analyzer and Alfanar MEP OCR. See the <a href="./projects/profile-project-history.md">project history and implementation notes</a>.</sub>
 
 <a id="learning"></a>
 ## 🌱 06 · Learning & Personal Growth
@@ -413,6 +403,7 @@ Verified app.py extracts MEP components, dimensions and airflow, retaining OCR c
 
 <sub>Branded overview graphic, not an app screenshot. Educational wellbeing support; not diagnosis or a replacement for professional care. This repository entry documents the hosted app; application source is not included.</sub>
 
+### 🎓 Coursework repositories
 
 | Repository | Focus |
 |---|---|
@@ -456,9 +447,6 @@ PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 
 **Microsoft Power BI** · DAX · Power Query · Dashboard design
 
-<p><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge" alt="Power BI" title="Power BI" />
-<img src="https://img.shields.io/badge/DAX-E8B923?style=for-the-badge" alt="DAX" title="DAX" />
-<img src="https://img.shields.io/badge/Power%20Query-14B8A6?style=for-the-badge" alt="Power Query" title="Power Query" /></p>
 
 ### 🛰️ GIS & Remote Sensing
 
@@ -505,8 +493,7 @@ PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 **Data & APIs:** SQL, PostgreSQL/PostGIS, SQLite, ETL, FastAPI, Flask, REST, Streamlit, Docker  
 **GIS & Remote Sensing:** ArcGIS Pro/Enterprise, QGIS, Google Earth Engine, FME, Agisoft Metashape  
 **Geospatial Python:** ArcPy, GeoPandas, GDAL, Rasterio, Shapely, Fiona, PyProj, Folium, Leaflet  
-**Engineering & Cloud:** AutoCAD, Civil 3D, BIM/IFC, CAD-to-GIS, Power BI, AWS, Azure, Google Cloud
-
+**Engineering & Cloud:** AutoCAD, Civil 3D, BIM/IFC, CAD-to-GIS, AWS, Azure, Google Cloud
 
 
 ### 🧠 Generative AI & Agent Techniques
@@ -514,7 +501,7 @@ PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 <p>
 <img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge" alt="OpenAI" />
 <img src="https://img.shields.io/badge/LangChain-14532D?style=for-the-badge" alt="LangChain" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="Retrieval augmented generation" />
 <img src="https://img.shields.io/badge/Tool_Calling-DB2777?style=for-the-badge" alt="Tool calling" />
 <img src="https://img.shields.io/badge/Voice_AI-0891B2?style=for-the-badge" alt="Voice AI" />
