@@ -4,6 +4,8 @@
 
 ### Generative AI & Agentic Applications · GeoAI · Data Science · Enterprise GIS
 
+**GIS Specialist · PMU-PDP MC Vehari** · 14+ years in GIS, remote sensing & spatial data · now building GeoAI and agentic AI
+
 I build Python applications that connect **language models, useful tools, spatial data and evidence** to support real decisions.
 
 [![Portfolio](https://img.shields.io/badge/Explore_Portfolio-06B6D4?style=for-the-badge&logo=githubpages&logoColor=white)](https://safdar404.github.io/)
@@ -23,7 +25,7 @@ I build Python applications that connect **language models, useful tools, spatia
 </div>
 
 <p align="center">
-<a href="#live">📡 Live Dashboard</a> · <a href="#generative-ai">🤖 Generative AI</a> · <a href="#geoai">🛰️ GeoAI & GIS</a> · <a href="#ml">🧠 Machine Learning</a> · <a href="#bi">📊 Business Intelligence</a> · <a href="#engineering">🏗️ Engineering</a> · <a href="#learning">🌱 Learning</a> · <a href="#tools">🛠️ Tools & Libraries</a> · <a href="#stats">📈 Stats & Community</a>
+<a href="#live">📡 Live Dashboard</a> · <a href="#generative-ai">🤖 Generative AI</a> · <a href="#geoai">🛰️ GeoAI & GIS</a> · <a href="#ml">🧠 Machine Learning</a> · <a href="#bi">📊 Business Intelligence</a> · <a href="#engineering">🏗️ Engineering</a> · <a href="#learning">🌱 Learning</a> · <a href="#experience">💼 Experience</a> · <a href="#tools">🛠️ Tools & Libraries</a> · <a href="#stats">📈 Stats & Community</a>
 </p>
 
 <a id="live"></a>
@@ -96,14 +98,43 @@ I build Python applications that connect **language models, useful tools, spatia
 <a id="generative-ai"></a>
 ## 🤖 01 · Generative AI & Agentic Applications
 
-**From conversation to reviewed action.** Each app below lists its interaction modes, implemented features, tech stack and links to the live app and source.
+**From conversation to reviewed action.** Eleven live AI applications — browse the gallery, then expand the full specifications for interaction modes, features and tech stack.
 
 <p align="center">
 <img src="./assets/generated/agent-capabilities.svg" alt="Agent capability matrix: voice, tool calling, RAG, human review, multilingual, charts, exports and offline mode across 11 AI apps" width="100%" />
 </p>
 
+### 🖼️ Agent gallery · live apps at a glance
+
+<sub>Screenshots captured 28 October 2026 · avatars and branded artwork are labelled in the full specifications below · status badges check each app when this page loads.</sub>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top"><a href="https://traveltalk-realtime.streamlit.app/"><img src="https://raw.githubusercontent.com/safdar404/traveladvisor-realtime/main/assets/agent.png" height="150" alt="🎙️ TravelTalk AI preview" /></a><br /><sub>01</sub> <strong>🎙️ TravelTalk AI</strong><br /><sub>Realtime travel voice advisor</sub><br /><img src="https://img.shields.io/website?url=https%3A%2F%2Ftraveltalk-realtime.streamlit.app%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="live status" /><br /><sub><a href="https://traveltalk-realtime.streamlit.app/">🚀 Open app</a> · <a href="https://github.com/safdar404/traveladvisor-realtime">💻 Source</a></sub></td>
+<td width="33%" align="center" valign="top"><a href="https://voiceagent-ai.streamlit.app/"><img src="https://safdar404.github.io/assets/voiceagent-ai/voiceagent-overview.svg" height="150" alt="🔊 Voice Agent AI preview" /></a><br /><sub>02</sub> <strong>🔊 Voice Agent AI</strong><br /><sub>Conversational voice studio</sub><br /><img src="https://img.shields.io/website?url=https%3A%2F%2Fvoiceagent-ai.streamlit.app%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="live status" /><br /><sub><a href="https://voiceagent-ai.streamlit.app/">🚀 Open app</a> · <a href="https://github.com/safdar404/voiceagent-ai">💻 Source</a></sub></td>
+<td width="33%" align="center" valign="top"><a href="https://resumecvai.streamlit.app/"><img src="https://safdar404.github.io/assets/streamlit-suite/resumeai-actual-20261028.jpg" height="150" alt="🌈 CareerRainbow AI preview" /></a><br /><sub>03</sub> <strong>🌈 CareerRainbow AI</strong><br /><sub>Resume & career copilot</sub><br /><img src="https://img.shields.io/website?url=https%3A%2F%2Fresumecvai.streamlit.app%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="live status" /><br /><sub><a href="https://resumecvai.streamlit.app/">🚀 Open app</a> · <a href="https://github.com/safdar404/resumeai">💻 Source</a></sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="https://markeetmind.streamlit.app/"><img src="https://safdar404.github.io/assets/streamlit-suite/marketmind-actual-20261028.jpg" height="150" alt="🧠 MarketMind AI preview" /></a><br /><sub>04</sub> <strong>🧠 MarketMind AI</strong><br /><sub>Business research agent</sub><br /><img src="https://img.shields.io/website?url=https%3A%2F%2Fmarkeetmind.streamlit.app%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="live status" /><br /><sub><a href="https://markeetmind.streamlit.app/">🚀 Open app</a> · <a href="https://github.com/safdar404/marketmind">💻 Source</a></sub></td>
+<td width="33%" align="center" valign="top"><a href="https://suleman-ai.streamlit.app/"><img src="https://safdar404.github.io/assets/streamlit-suite/sulemanai-actual-20261028.jpg" height="150" alt="💬 Suleman AI preview" /></a><br /><sub>05</sub> <strong>💬 Suleman AI</strong><br /><sub>Multimodal creative assistant</sub><br /><img src="https://img.shields.io/website?url=https%3A%2F%2Fsuleman-ai.streamlit.app%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="live status" /><br /><sub><a href="https://suleman-ai.streamlit.app/">🚀 Open app</a> · <a href="https://github.com/safdar404/sulemanai">💻 Source</a></sub></td>
+<td width="33%" align="center" valign="top"><a href="https://ragstudios.streamlit.app/"><img src="https://safdar404.github.io/assets/streamlit-suite/ragstudio-actual-20261028.jpg" height="150" alt="📚 RAG Studio preview" /></a><br /><sub>06</sub> <strong>📚 RAG Studio</strong><br /><sub>Document research & retrieval</sub><br /><img src="https://img.shields.io/website?url=https%3A%2F%2Fragstudios.streamlit.app%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="live status" /><br /><sub><a href="https://ragstudios.streamlit.app/">🚀 Open app</a> · <a href="https://github.com/safdar404/ragstudio">💻 Source</a></sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="https://supportpearlzai.streamlit.app/"><img src="https://safdar404.github.io/assets/streamlit-suite/supportpearlz-actual-20261028.jpg" height="150" alt="🤖 SupportPearlz preview" /></a><br /><sub>07</sub> <strong>🤖 SupportPearlz</strong><br /><sub>Customer support knowledge assistant</sub><br /><img src="https://img.shields.io/website?url=https%3A%2F%2Fsupportpearlzai.streamlit.app%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="live status" /><br /><sub><a href="https://supportpearlzai.streamlit.app/">🚀 Open app</a> · <a href="https://github.com/safdar404/supportpearlz">💻 Source</a></sub></td>
+<td width="33%" align="center" valign="top"><a href="https://ai-healthassist.ai.studio/"><img src="https://raw.githubusercontent.com/safdar404/healthai/main/assets/healthassist-clinician.webp" height="150" alt="🏥 HealthAssist v2 preview" /></a><br /><sub>08</sub> <strong>🏥 HealthAssist v2</strong><br /><sub>Tool-calling health workspace</sub><br /><img src="https://img.shields.io/website?url=https%3A%2F%2Fai-healthassist.ai.studio%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="live status" /><br /><sub><a href="https://ai-healthassist.ai.studio/">🚀 Open app</a> · <a href="https://github.com/safdar404/healthai">💻 Source</a></sub></td>
+<td width="33%" align="center" valign="top"><a href="https://medical-ai-assistants.streamlit.app/"><img src="https://safdar404.github.io/assets/streamlit-suite/medical-ai-assistant-actual-20261028.jpg" height="150" alt="🩺 MediGuide AI preview" /></a><br /><sub>09</sub> <strong>🩺 MediGuide AI</strong><br /><sub>Structured symptom guidance</sub><br /><img src="https://img.shields.io/website?url=https%3A%2F%2Fmedical-ai-assistants.streamlit.app%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="live status" /><br /><sub><a href="https://medical-ai-assistants.streamlit.app/">🚀 Open app</a> · <a href="https://github.com/safdar404/medical-ai-assistant">💻 Source</a></sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="https://finwis-ai.streamlit.app/"><img src="https://safdar404.github.io/assets/streamlit-suite/finwisai-actual-20261028.jpg" height="150" alt="💰 FinWise AI preview" /></a><br /><sub>10</sub> <strong>💰 FinWise AI</strong><br /><sub>Budgeting & financial scenarios</sub><br /><img src="https://img.shields.io/website?url=https%3A%2F%2Ffinwis-ai.streamlit.app%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="live status" /><br /><sub><a href="https://finwis-ai.streamlit.app/">🚀 Open app</a> · <a href="https://github.com/safdar404/finwisai">💻 Source</a></sub></td>
+<td width="33%" align="center" valign="top"><a href="https://house-build-cad.streamlit.app/"><img src="https://raw.githubusercontent.com/safdar404/house-build-cad/main/assets/agent-mark.svg" height="150" alt="🏗️ GharBuilder AI preview" /></a><br /><sub>11</sub> <strong>🏗️ GharBuilder AI</strong><br /><sub>House design & estimation agent</sub><br /><img src="https://img.shields.io/website?url=https%3A%2F%2Fhouse-build-cad.streamlit.app%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="live status" /><br /><sub><a href="https://house-build-cad.streamlit.app/">🚀 Open app</a> · <a href="https://github.com/safdar404/house-build-cad">💻 Source</a></sub></td>
+<td width="33%" align="center" valign="top"><a href="https://github.com/safdar404/ai-career-mentor"><img src="./assets/cards/career-mentor.svg" height="150" alt="🎓 AI Career Mentor preview" /></a><br /><sub>12</sub> <strong>🎓 AI Career Mentor</strong><br /><sub>Multi-agent interview coach</sub><br /><img src="https://img.shields.io/badge/status-in_development-c98500?style=flat-square" alt="in development" /><br /><sub><a href="https://github.com/safdar404/ai-career-mentor">💻 Source</a></sub></td>
+</tr>
+</table>
+
 <a id="agent-showcase"></a>
-### 🖼️ Agent display · interfaces, modes & functions
+<details>
+<summary><strong>🔎 Full specifications · interaction modes, features & tech stack for all 11 agents</strong></summary>
+<br />
 
 <table>
 <tr><td width="30%" valign="top" align="center"><a href="https://github.com/safdar404/traveladvisor-realtime"><img src="https://raw.githubusercontent.com/safdar404/traveladvisor-realtime/main/assets/agent.png" alt="🎙️ TravelTalk AI — Agent avatar · realtime voice mode" width="250" /></a><br /><sub>Agent avatar · realtime voice mode</sub></td><td width="70%" valign="top"><h3>01 · 🎙️ TravelTalk AI</h3><strong>Realtime travel voice advisor</strong><p>🎙️ Realtime voice · ⌨️ Typed prompts · 🌍 Travel preferences</p><ul><li>Browser WebRTC microphone/speaker connection with semantic turn detection and interruptions.</li><li>Language, voice, reply length, origin/destination, budget, dates and interests.</li><li>Mute, interrupt, captions, session controls, reconnect and JSON transcript export.</li></ul><p><sub>🛠️ Python · Streamlit · OpenAI Realtime · WebRTC</sub></p><p><a href="https://traveltalk-realtime.streamlit.app/">🚀 Open TravelTalk</a> · <a href="https://github.com/safdar404/traveladvisor-realtime/blob/main/README.md#run-on-windows--vs-code">▶️ Run locally</a> · <a href="https://github.com/safdar404/traveladvisor-realtime">💻 Source</a></p></td></tr>
@@ -119,6 +150,8 @@ I build Python applications that connect **language models, useful tools, spatia
 <tr><td width="30%" valign="top" align="center"><a href="https://house-build-cad.streamlit.app/"><img src="https://raw.githubusercontent.com/safdar404/house-build-cad/main/assets/agent-mark.svg" alt="🏗️ GharBuilder AI — GharBuilder agent identity · not a screenshot" width="250" /></a><br /><sub>GharBuilder agent identity · not a screenshot</sub></td><td width="70%" valign="top"><h3>11 · 🏗️ GharBuilder AI</h3><strong>House design & estimation agent</strong><p>💬 Requirements chat · 🤖 Agent Studio · 👁️ Reviewed tools</p><ul><li>Capture project requirements, review concept floor plans and generate CAD/3D geometry alternatives.</li><li>Inspect BIM/IFC, 4D schedule, itemized BOQ, rates, labour and user-entered progress.</li><li>Agent tools use reviewed inputs and staged approval; available exports include geometry, PDF and Excel.</li></ul><p><sub>🛠️ Python · Streamlit · OpenAI · CAD · BIM/IFC</sub></p><p><a href="https://house-build-cad.streamlit.app/">🚀 Open app</a> · <a href="https://github.com/safdar404/house-build-cad/blob/main/README.md#run-on-windows">▶️ Run locally</a> · <a href="https://github.com/safdar404/house-build-cad">💻 Source</a></p></td></tr>
 </table>
 
+</details>
+
 <sub>These projects range from tool-calling agents to retrieval assistants and rule-based analytics; provider-dependent features require API access. Agent avatars and branded artwork are labeled separately from screenshots. Health tools support education and reviewed drafts; GharBuilder outputs are concepts requiring professional review.</sub>
 
 ### Document intelligence & specialist research
@@ -128,6 +161,7 @@ I build Python applications that connect **language models, useful tools, spatia
 | **Lexora Legal Research** | Browser passage search and cited excerpts from local text; full Python OCR/LLM package is a separate implementation. | [Browser demo](https://safdar404.github.io/lexora-legal-rag/) |
 | **LangChain RAG Assistant** | OpenAI embeddings, SingleStore vector retrieval and source snippets. | [🚀 Open demo · sign-in may be required](https://langchain-rag-document-assistant.neat-grove-8624.chatgpt.site/) · [💻 Source](https://github.com/safdar404/LangChain-RAG-Application) |
 | **HIS AI Agentic Solutions** | Specialist-agent showcase with tools, validation and human review. | [Showcase](https://his-ai-agentic-solutions.lovable.app/) |
+| **AI Career Mentor** | Six specialised agents run mock AI-engineering interviews, coach English, teach gaps and track progress; in development. | [💻 Source](https://github.com/safdar404/ai-career-mentor) |
 | **AI HealthAssist · earlier version** | Educational intake, vitals and health GIS prototype; predecessor of HealthAssist v2 above. | [💻 Source](https://github.com/safdar404/HIS-AI-HealthAssist) |
 
 <a id="geoai"></a>
@@ -136,7 +170,9 @@ I build Python applications that connect **language models, useful tools, spatia
 
 <table>
 <tr>
-<td width="34%" valign="middle"><strong>Drainage operations app</strong><br /><br /><sub>Drainage · Flood operations · GIS</sub></td>
+<td width="34%" valign="middle">
+<a href="https://geosentinel-drain-floodops.neat-grove-8624.chatgpt.site/"><img src="./assets/cards/drain-floodops.svg" alt="GeoSentinel Drain FloodOps" width="260" /></a><br /><sub>Branded artwork · not a screenshot</sub>
+</td>
 <td width="66%" valign="top"><strong>GeoSentinel Drain FloodOps</strong><br />
 <sub>Drainage network · Flood operations</sub><br /><br />
 Drainage and flood-operations workspace in the GeoSentinel family.<br /><br />
@@ -183,7 +219,7 @@ Monitor crop fields, review satellite indices, track pesticide follow-up and exp
 </tr>
 <tr>
 <td width="34%" valign="middle">
-<strong>Documented implementation</strong><br /><br /><sub><code>public/pakistan-boundary.geojson</code><br />React / TypeScript<br />District markers + scenario views</sub>
+<a href="https://pakistan-flood-intelligence-2026.neat-grove-8624.chatgpt.site/"><img src="./assets/cards/pakistan-flood.svg" alt="Pakistan National Flood Intelligence" width="260" /></a><br /><sub>Branded artwork · not a screenshot</sub>
 </td>
 <td width="66%" valign="top">
 <strong>Pakistan National Flood Intelligence</strong><br />
@@ -238,6 +274,7 @@ Punjab infrastructure prototype; map overlays and operational metrics are illust
 |---|---|---|
 | **GeoDistill Studio** | Browser image pixel/resolution inspection and class distribution; full Python model training requires a backend. | [Open workbench](https://safdar404.github.io/geodistill-studio/) |
 | **Land Cover Dataset Preparation** | Manifest QA, split leakage, file duplication and cleaned CSV export. | [Open dataset QA](https://safdar404.github.io/land-cover-data-preparation/) |
+| **LULC · MOLUSCE · SWAT+ Research Agent** | Land-cover classification, Olofsson area-adjusted accuracy, change analysis and SWAT+ hydrology inputs with an AI agent over the same audited tools. | [💻 Source](https://github.com/safdar404/lulc-molusce-swat-agent) |
 | **Interactive RAG & GeoAI Labs** | Lexical evidence search, land-cover class exploration and CSV audit demos. | [Open labs](https://safdar404.github.io/rag-geoai-labs/) |
 
 <sub>Spatial prototypes need authoritative data and field validation. Simulated heights, modeled suitability overlays and scenario scores are labeled assumptions.</sub>
@@ -282,85 +319,24 @@ Classification, regression, customer segmentation and time-series forecasting wi
 
 [**Explore all eight dashboards at full size**](https://safdar404.github.io/applied-ml-analysis/)
 
-### Sonar Signal Classification
-
-[![Sonar Signal Classification — original collective dashboard](https://safdar404.github.io/assets/ml-dashboards/sonar.png)](https://safdar404.github.io/applied-ml-analysis/#sonar)
-
-**Accuracy 81.0% · ROC AUC 0.939 · Average precision 0.950**
-
-Tuned SVC evaluated on 42 held-out test samples.
-
-[View analysis](https://safdar404.github.io/applied-ml-analysis/#sonar) · [Open original image](https://safdar404.github.io/assets/ml-dashboards/sonar.png)
-
-### Breast Cancer Classification
-
-[![Breast Cancer Classification — original collective dashboard](https://safdar404.github.io/assets/ml-dashboards/cancer.png)](https://safdar404.github.io/applied-ml-analysis/#cancer)
-
-**Accuracy 96.5% · Malignant recall 92.9% · ROC AUC 0.990**
-
-Educational dataset evaluation; 3 missed malignant cases and 1 false positive in the displayed test set.
-
-[View analysis](https://safdar404.github.io/applied-ml-analysis/#cancer) · [Open original image](https://safdar404.github.io/assets/ml-dashboards/cancer.png)
-
-### Credit Card Fraud Detection
-
-[![Credit Card Fraud Detection — original collective dashboard](https://safdar404.github.io/assets/ml-dashboards/fraud.png)](https://safdar404.github.io/applied-ml-analysis/#fraud)
-
-**Fraud recall 83.7% · Precision 88.2% · Average precision 0.861**
-
-Decision threshold 0.25: 82 detected frauds, 16 missed frauds and 11 false alarms on the test set.
-
-[View analysis](https://safdar404.github.io/applied-ml-analysis/#fraud) · [Open original image](https://safdar404.github.io/assets/ml-dashboards/fraud.png)
-
-### House Price Prediction
-
-[![House Price Prediction — original collective dashboard](https://safdar404.github.io/assets/ml-dashboards/house-price.png)](https://safdar404.github.io/applied-ml-analysis/#house-price)
-
-**MAE $30,846 · RMSE $46,504 · R² 0.835**
-
-California housing evaluation with geographic and price-range error analysis.
-
-[View analysis](https://safdar404.github.io/applied-ml-analysis/#house-price) · [Open original image](https://safdar404.github.io/assets/ml-dashboards/house-price.png)
-
-### Medical Insurance Cost Prediction
-
-[![Medical Insurance Cost Prediction — original collective dashboard](https://safdar404.github.io/assets/ml-dashboards/insurance-cost.png)](https://safdar404.github.io/applied-ml-analysis/#insurance-cost)
-
-**MAE 1,959.91 · RMSE 4,284.29 · R² 0.900**
-
-Log-target random-forest evaluation with subgroup errors and feature importance; educational estimates.
-
-[View analysis](https://safdar404.github.io/applied-ml-analysis/#insurance-cost) · [Open original image](https://safdar404.github.io/assets/ml-dashboards/insurance-cost.png)
-
-### Customer Segmentation
-
-[![Customer Segmentation — original collective dashboard](https://safdar404.github.io/assets/ml-dashboards/customer-segmentation.png)](https://safdar404.github.io/applied-ml-analysis/#customer-segmentation)
-
-**200 customers · 5 clusters · Silhouette 0.555**
-
-Customer profiles, cluster sizes, elbow and silhouette analysis; cluster IDs are arbitrary.
-
-[View analysis](https://safdar404.github.io/applied-ml-analysis/#customer-segmentation) · [Open original image](https://safdar404.github.io/assets/ml-dashboards/customer-segmentation.png)
-
-### Fake News Text Classification
-
-[![Fake News Text Classification — original collective dashboard](https://safdar404.github.io/assets/ml-dashboards/fake-news.png)](https://safdar404.github.io/applied-ml-analysis/#fake-news)
-
-**Accuracy 95.4% · Macro F1 0.954 · ROC AUC 0.991**
-
-TF-IDF and LinearSVC evaluation, term weights and text-length errors. Numeric class labels are retained; this model does not verify factual truth.
-
-[View analysis](https://safdar404.github.io/applied-ml-analysis/#fake-news) · [Open original image](https://safdar404.github.io/assets/ml-dashboards/fake-news.png)
-
-### Airline Passenger Forecasting
-
-[![Airline Passenger Forecasting — original collective dashboard](https://safdar404.github.io/assets/ml-dashboards/airline-forecast.png)](https://safdar404.github.io/applied-ml-analysis/#airline-forecast)
-
-**Log-SARIMAX RMSE 18.83 · Seasonal-naive RMSE 50.71 · ARIMA RMSE 86.81**
-
-Historical passenger series, chronological validation, residuals and 1961 forecasts.
-
-[View analysis](https://safdar404.github.io/applied-ml-analysis/#airline-forecast) · [Open original image](https://safdar404.github.io/assets/ml-dashboards/airline-forecast.png)
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://safdar404.github.io/applied-ml-analysis/#sonar"><img src="https://safdar404.github.io/assets/ml-dashboards/sonar.png" alt="Sonar Signal Classification — original collective dashboard" width="100%" /></a><br /><strong>Sonar Signal Classification</strong><br /><sub><strong>Accuracy 81.0% · ROC AUC 0.939 · Average precision 0.950</strong></sub><br /><sub>Tuned SVC evaluated on 42 held-out test samples.</sub><br /><sub><a href="https://safdar404.github.io/applied-ml-analysis/#sonar">View analysis →</a></sub></td>
+<td width="50%" valign="top"><a href="https://safdar404.github.io/applied-ml-analysis/#cancer"><img src="https://safdar404.github.io/assets/ml-dashboards/cancer.png" alt="Breast Cancer Classification — original collective dashboard" width="100%" /></a><br /><strong>Breast Cancer Classification</strong><br /><sub><strong>Accuracy 96.5% · Malignant recall 92.9% · ROC AUC 0.990</strong></sub><br /><sub>Educational dataset evaluation; 3 missed malignant cases and 1 false positive in the displayed test set.</sub><br /><sub><a href="https://safdar404.github.io/applied-ml-analysis/#cancer">View analysis →</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://safdar404.github.io/applied-ml-analysis/#fraud"><img src="https://safdar404.github.io/assets/ml-dashboards/fraud.png" alt="Credit Card Fraud Detection — original collective dashboard" width="100%" /></a><br /><strong>Credit Card Fraud Detection</strong><br /><sub><strong>Fraud recall 83.7% · Precision 88.2% · Average precision 0.861</strong></sub><br /><sub>Decision threshold 0.25: 82 detected frauds, 16 missed frauds and 11 false alarms on the test set.</sub><br /><sub><a href="https://safdar404.github.io/applied-ml-analysis/#fraud">View analysis →</a></sub></td>
+<td width="50%" valign="top"><a href="https://safdar404.github.io/applied-ml-analysis/#house-price"><img src="https://safdar404.github.io/assets/ml-dashboards/house-price.png" alt="House Price Prediction — original collective dashboard" width="100%" /></a><br /><strong>House Price Prediction</strong><br /><sub><strong>MAE $30,846 · RMSE $46,504 · R² 0.835</strong></sub><br /><sub>California housing evaluation with geographic and price-range error analysis.</sub><br /><sub><a href="https://safdar404.github.io/applied-ml-analysis/#house-price">View analysis →</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://safdar404.github.io/applied-ml-analysis/#insurance-cost"><img src="https://safdar404.github.io/assets/ml-dashboards/insurance-cost.png" alt="Medical Insurance Cost Prediction — original collective dashboard" width="100%" /></a><br /><strong>Medical Insurance Cost Prediction</strong><br /><sub><strong>MAE 1,959.91 · RMSE 4,284.29 · R² 0.900</strong></sub><br /><sub>Log-target random-forest evaluation with subgroup errors and feature importance; educational estimates.</sub><br /><sub><a href="https://safdar404.github.io/applied-ml-analysis/#insurance-cost">View analysis →</a></sub></td>
+<td width="50%" valign="top"><a href="https://safdar404.github.io/applied-ml-analysis/#customer-segmentation"><img src="https://safdar404.github.io/assets/ml-dashboards/customer-segmentation.png" alt="Customer Segmentation — original collective dashboard" width="100%" /></a><br /><strong>Customer Segmentation</strong><br /><sub><strong>200 customers · 5 clusters · Silhouette 0.555</strong></sub><br /><sub>Customer profiles, cluster sizes, elbow and silhouette analysis; cluster IDs are arbitrary.</sub><br /><sub><a href="https://safdar404.github.io/applied-ml-analysis/#customer-segmentation">View analysis →</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://safdar404.github.io/applied-ml-analysis/#fake-news"><img src="https://safdar404.github.io/assets/ml-dashboards/fake-news.png" alt="Fake News Text Classification — original collective dashboard" width="100%" /></a><br /><strong>Fake News Text Classification</strong><br /><sub><strong>Accuracy 95.4% · Macro F1 0.954 · ROC AUC 0.991</strong></sub><br /><sub>TF-IDF and LinearSVC evaluation, term weights and text-length errors. Numeric class labels are retained; this model does not verify factual truth.</sub><br /><sub><a href="https://safdar404.github.io/applied-ml-analysis/#fake-news">View analysis →</a></sub></td>
+<td width="50%" valign="top"><a href="https://safdar404.github.io/applied-ml-analysis/#airline-forecast"><img src="https://safdar404.github.io/assets/ml-dashboards/airline-forecast.png" alt="Airline Passenger Forecasting — original collective dashboard" width="100%" /></a><br /><strong>Airline Passenger Forecasting</strong><br /><sub><strong>Log-SARIMAX RMSE 18.83 · Seasonal-naive RMSE 50.71 · ARIMA RMSE 86.81</strong></sub><br /><sub>Historical passenger series, chronological validation, residuals and 1961 forecasts.</sub><br /><sub><a href="https://safdar404.github.io/applied-ml-analysis/#airline-forecast">View analysis →</a></sub></td>
+</tr>
+</table>
 
 **Shared frontend:** prepared Streamlit tools support sample inputs, batch predictions and evaluation views. Online Streamlit deployment is pending.
 
@@ -424,7 +400,7 @@ Actual dashboard, all filters selected. The unmatched Returns sheet is excluded 
 <table>
 <tr>
 <td width="34%" valign="middle">
-<strong>Documented OCR fields</strong><br /><br /><sub>Vendor · Invoice number/date<br />PKR / SAR / AED / USD<br />Subtotal · Tax · Total<br />Line items → CSV</sub>
+<a href="https://his-bill-scanner.neat-grove-8624.chatgpt.site/"><img src="./assets/cards/bill-scanner.svg" alt="Zarwa / HIS Bill Scanner" width="260" /></a><br /><sub>Branded artwork · not a screenshot</sub>
 </td>
 <td width="66%" valign="top">
 <strong>Zarwa Bill Scanner / HIS Bill Scanner</strong><br />
@@ -448,7 +424,7 @@ Concept-to-costing flow across CAD/BIM, MEP and GIS. Source is private; engineer
 </tr>
 <tr>
 <td width="34%" valign="middle">
-<strong>Extraction schema</strong><br /><br /><sub><code>ScanRecord</code><br />component · tag · duct_size_mm<br />airflow · airflow_unit<br />confidence_pct · source_line</sub>
+<a href="https://mep-scanner-system.neat-grove-8624.chatgpt.site/"><img src="./assets/cards/mep-scanner.svg" alt="MEP Scanner System" width="260" /></a><br /><sub>Branded artwork · not a screenshot</sub>
 </td>
 <td width="66%" valign="top">
 <strong>MEP Scanner System</strong><br />
@@ -489,6 +465,32 @@ Extracts MEP components, duct dimensions and airflow from drawings, keeping OCR 
 | [FULLSTACK-AI-B-9](https://github.com/safdar404/FULLSTACK-AI-B-9) | Python, AI/ML coursework and practical experiments |
 | [Fullstack-AI-BOOTCAMP-B-10](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10) | Python, AI/ML coursework and practical experiments |
 | [huwaeiai](https://github.com/safdar404/huwaeiai) | Python, AI/ML coursework and practical experiments |
+
+<a id="experience"></a>
+## 💼 Experience & Credentials
+
+**14+ years** delivering GIS for government, infrastructure, disaster management and agriculture across Pakistan and the GCC — now combining that domain depth with Python, GeoAI and agentic AI.
+
+### 🧭 Professional delivery
+
+| Period | Role & organization | Selected contribution |
+|---|---|---|
+| **2026—Present** | **GIS Specialist · PMU-PDP, Municipal Committee Vehari** | GIS support for municipal development projects, spatial data management and project monitoring |
+| **2025—2026** | **GIS & GeoAI Specialist · Professional Geo Tech Services FZC LLC** | NWC Riyadh wastewater mapping, infrastructure/GNSS delivery and environmental spatial analysis |
+| **2023—2025** | **GIS Expert · TerraSense Consulting** | GeoAI land-cover workflows, satellite crop intelligence, wheat estimation and predictive analysis |
+| **2021—2023** | **GIS Specialist · FGEHA, Islamabad** | Enterprise geodatabases, CAD-to-GIS, topology QA and training of 20+ personnel |
+| **2019—2021** | **GIS Manager · Kernel Seeds Corporation** | Agricultural GIS, crop analysis, spatial repositories and data governance |
+| **2017—2019** | **GIS Manager · PDMA Punjab** | Chenab/Sutlej flood intelligence, exposure analysis and emergency situation mapping |
+| **2012—2017** | **GIS Professional · The Urban Unit & Loyal Consultants** | Urban, land, infrastructure, survey GIS, spatial databases and cartographic production |
+
+### 🎓 Education & credentials
+
+- **MSc Geographic Information Systems** — University of the Punjab, Lahore
+- **BSc Computer Science, Economics & Statistics** — The Islamia University of Bahawalpur
+- **Python with Full Stack AI** — NexSkills, 2026
+- **Artificial Intelligence Using Python** and **Data Analytics & Business Intelligence** — DigiSkills, 2026
+- **AWS Cloud Practitioner Essentials** · **Cisco Python Essentials 1**
+- **GACA Remote Pilot Certificate** · **Esri Spatial Data Science, Imagery and Cartography training**
 
 <a id="tools"></a>
 <!-- TOOL-LOGOS-START -->
@@ -606,31 +608,7 @@ PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 
 <!-- TOOL-LOGOS-END -->
 
-<details>
-<summary><strong>💼 Professional delivery & education</strong></summary>
 
-## Professional delivery
-
-| Period | Role & organization | Selected contribution |
-|---|---|---|
-| **2025—Present** | **GIS & GeoAI Specialist · Professional Geo Tech Services FZC LLC** | NWC Riyadh wastewater mapping, infrastructure/GNSS delivery and environmental spatial analysis |
-| **2023—2025** | **GIS Expert · TerraSense Consulting** | GeoAI land-cover workflows, satellite crop intelligence, wheat estimation and predictive analysis |
-| **2021—2023** | **GIS Specialist · FGEHA, Islamabad** | Enterprise geodatabases, CAD-to-GIS, topology QA and training of 20+ personnel |
-| **2019—2021** | **GIS Manager · Kernel Seeds Corporation** | Agricultural GIS, crop analysis, spatial repositories and data governance |
-| **2017—2019** | **GIS Manager · PDMA Punjab** | Chenab/Sutlej flood intelligence, exposure analysis and emergency situation mapping |
-| **2012—2017** | **GIS Professional · The Urban Unit & Loyal Consultants** | Urban, land, infrastructure, survey GIS, spatial databases and cartographic production |
-
-## Education & credentials
-
-- **MSc Geographic Information Systems** — University of the Punjab, Lahore
-- **BSc Computer Science, Economics & Statistics** — The Islamia University of Bahawalpur
-- **Python with Full Stack AI** — NexSkills, 2026
-- **Artificial Intelligence Using Python** and **Data Analytics & Business Intelligence** — DigiSkills, 2026
-- **AWS Cloud Practitioner Essentials** · **Cisco Python Essentials 1**
-- **GACA Remote Pilot Certificate** · **Esri Spatial Data Science, Imagery and Cartography training**
-
-
-</details>
 
 
 <a id="stats"></a>
