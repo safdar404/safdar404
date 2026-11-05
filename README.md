@@ -7,8 +7,10 @@
 I build Python applications that connect **language models, useful tools, spatial data and evidence** to support real decisions.
 
 [![Portfolio](https://img.shields.io/badge/Explore_Portfolio-06B6D4?style=for-the-badge&logo=githubpages&logoColor=white)](https://safdar404.github.io/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-7C3AED?style=for-the-badge)](https://www.linkedin.com/in/muhammad-safdar-88b27730)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-7C3AED?style=for-the-badge)](https://www.linkedin.com/in/safdar-geoai/)
 [![Email](https://img.shields.io/badge/Discuss_a_Project-DB2777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safdar404@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/safdarwattu)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/MuhammadSafdar786/)
 
 [![Live apps](https://img.shields.io/badge/live_apps-35-22c55e?style=flat-square&logo=streamlit&logoColor=white)](#live)
 [![Profile visuals](https://img.shields.io/github/actions/workflow/status/safdar404/safdar404/profile-visuals.yml?label=live%20dashboard&style=flat-square&logo=githubactions&logoColor=white)](#live)
@@ -682,6 +684,6 @@ Python · RAG & citations · tool-calling agents · Streamlit apps · ArcGIS / Q
 
 **Generative AI · Python · GeoAI · GIS · Data Engineering · Business Intelligence**
 
-[Portfolio](https://safdar404.github.io/) · [LinkedIn](https://www.linkedin.com/in/muhammad-safdar-88b27730) · [Email](mailto:safdar404@gmail.com) · [WhatsApp](https://wa.me/923228792404) · [Resume](https://smhisresume.com/)
+[Portfolio](https://safdar404.github.io/) · [LinkedIn](https://www.linkedin.com/in/safdar-geoai/) · [Hugging Face](https://huggingface.co/safdarwattu) · [Reddit](https://www.reddit.com/user/MuhammadSafdar786/) · [Email](mailto:safdar404@gmail.com) · [WhatsApp](https://wa.me/923228792404) · [Resume](https://smhisresume.com/)
 
 </div>
