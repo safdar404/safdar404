@@ -89,9 +89,33 @@ def mentor():
     return frame("AI Career Mentor", "AI interviewer, English & confidence coach", a, ["Multi-agent", "Claude / OpenAI", "65 tests"], bubbles + agents + txt)
 
 
+def langchain():
+    a = "#199e70"
+    docs = "".join(f'<g transform="translate({300 + i * 18} {104 + i * 12})"><rect width="70" height="88" rx="6" fill="#f8fafc" fill-opacity="{.95 - i * .2}"/>'
+                   + "".join(f'<rect x="10" y="{14 + j * 12}" width="{50 - (j % 2) * 14}" height="5" rx="2.5" fill="#94a3b8"/>' for j in range(5)) + '</g>' for i in range(3))
+    flow = ('<path d="M410 150 h22" stroke="#199e70" stroke-width="2.5" marker-end="url(#ah)"/>'
+            '<g transform="translate(436 118)"><rect width="56" height="64" rx="8" fill="#199e70" fill-opacity=".18" stroke="#199e70"/>'
+            + "".join(f'<rect x="10" y="{12 + j * 13}" width="36" height="7" rx="3.5" fill="#199e70" fill-opacity="{.9 - j * .2}"/>' for j in range(4))
+            + '<text x="28" y="80" fill="#a7b4c8" font-size="10" text-anchor="middle">vectors</text></g>'
+            '<defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10z" fill="#199e70"/></marker></defs>')
+    steps = "".join(f'<text x="28" y="{122 + i * 24}" fill="#a7b4c8" font-size="13.5"><tspan fill="{a}" font-weight="800">{i + 1}</tspan>  {t}</text>' for i, t in enumerate(
+        ["Load &amp; chunk documents", "Embed with OpenAI", "Store in SingleStore", "Retrieve + cite sources"]))
+    return frame("LangChain RAG Assistant", "Document Q&A with vector retrieval", a, ["LangChain", "OpenAI", "SingleStore"], docs + flow + steps)
+
+
+def healthassist_v1():
+    a = "#14b8a6"
+    heart = ('<g transform="translate(330 96) scale(2.4)"><rect width="64" height="64" rx="19" fill="#087f83"/>'
+             '<path d="M32 49C10 36 14 17 25 19c4 0 7 4 7 4s3-4 7-4c11-2 15 17-7 30Z" fill="#e4faf3"/>'
+             '<path d="M15 32h11l3-7 6 15 4-8h10" fill="none" stroke="#087f83" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/></g>')
+    items = "".join(f'<text x="28" y="{124 + i * 24}" fill="#a7b4c8" font-size="13.5">› <tspan fill="#f1f5f9" font-weight="700">{k}</tspan> {v}</text>' for i, (k, v) in enumerate(
+        [("Intake", "guided symptom form"), ("Vitals", "recorded readings"), ("Health GIS", "facility map prototype"), ("v2", "→ HealthAssist agentic platform")]))
+    return frame("AI HealthAssist · v1", "Educational health intake prototype", a, ["TypeScript", "Health GIS", "Predecessor of v2"], heart + items)
+
+
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
-    for name, fn in [("drain-floodops", drain), ("pakistan-flood", flood), ("bill-scanner", bill), ("mep-scanner", mep), ("career-mentor", mentor)]:
+    for name, fn in [("drain-floodops", drain), ("pakistan-flood", flood), ("bill-scanner", bill), ("mep-scanner", mep), ("career-mentor", mentor), ("langchain-rag", langchain), ("healthassist-v1", healthassist_v1)]:
         (OUT / f"{name}.svg").write_text(fn(), encoding="utf-8")
         print("wrote", name)
 
