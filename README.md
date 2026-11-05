@@ -156,14 +156,60 @@ I build Python applications that connect **language models, useful tools, spatia
 
 <sub>These projects range from tool-calling agents to retrieval assistants and rule-based analytics; provider-dependent features require API access. Agent avatars and branded artwork are labeled separately from screenshots. Health tools support education and reviewed drafts; GharBuilder outputs are concepts requiring professional review.</sub>
 
-### Document intelligence & specialist research
+### 📑 Document intelligence & specialist research
 
-| Project | Role & function | Explore |
-|---|---|---|
-| **Lexora Legal Research** | Browser passage search and cited excerpts from local text; full Python OCR/LLM package is a separate implementation. | [Browser demo](https://safdar404.github.io/lexora-legal-rag/) |
-| **LangChain RAG Assistant** | OpenAI embeddings, SingleStore vector retrieval and source snippets. | [🚀 Open demo · sign-in may be required](https://langchain-rag-document-assistant.neat-grove-8624.chatgpt.site/) · [💻 Source](https://github.com/safdar404/LangChain-RAG-Application) |
-| **HIS AI Agentic Solutions** | Specialist-agent showcase with tools, validation and human review. | [Showcase](https://his-ai-agentic-solutions.lovable.app/) |
-| **AI HealthAssist · earlier version** | Educational intake, vitals and health GIS prototype; predecessor of HealthAssist v2 above. | [💻 Source](https://github.com/safdar404/HIS-AI-HealthAssist) |
+<table>
+<tr>
+<td width="34%" valign="middle">
+<a href="https://safdar404.github.io/lexora-legal-rag/"><img src="./assets/screens/lexora-actual-20261105.jpg" alt="⚖️ Lexora Legal Research — 📸 Actual interface · captured 5 November 2026" width="260" /></a><br /><sub>📸 Actual interface · captured 5 November 2026</sub>
+</td>
+<td width="66%" valign="top">
+<strong>⚖️ Lexora Legal Research</strong><br />
+<sub>PDF &amp; Word documents · Source-linked evidence · Local processing</sub><br /><br />
+Browser passage search and cited excerpts from local text, with every answer traced back to the source clause. The full Python OCR/LLM package is a separate implementation.<br /><br />
+<sub>JavaScript · Retrieval · Citations</sub><br />
+<a href="https://safdar404.github.io/lexora-legal-rag/"><strong>Open browser demo</strong></a>
+</td>
+</tr>
+<tr>
+<td width="34%" valign="middle">
+<a href="https://langchain-rag-document-assistant.neat-grove-8624.chatgpt.site/"><img src="./assets/cards/langchain-rag.svg" alt="🔗 LangChain RAG Assistant — Branded artwork · not a screenshot" width="260" /></a><br /><sub>Branded artwork · not a screenshot</sub>
+</td>
+<td width="66%" valign="top">
+<strong>🔗 LangChain RAG Assistant</strong><br />
+<sub>Load · embed · store · retrieve with citations</sub><br /><br />
+Document assistant using OpenAI embeddings and SingleStore vector retrieval, returning answers with source snippets.<br /><br />
+<sub>Python · LangChain · OpenAI · SingleStore</sub><br />
+<a href="https://langchain-rag-document-assistant.neat-grove-8624.chatgpt.site/"><strong>Open demo</strong></a> · <a href="https://github.com/safdar404/LangChain-RAG-Application"><strong>Source</strong></a>
+</td>
+</tr>
+<tr>
+<td width="34%" valign="middle">
+<a href="https://his-ai-agentic-solutions.lovable.app/"><img src="./assets/screens/his-ai-actual-20261105.jpg" alt="🧩 HIS AI Agentic Solutions — 📸 Actual interface · captured 5 November 2026" width="260" /></a><br /><sub>📸 Actual interface · captured 5 November 2026</sub>
+</td>
+<td width="66%" valign="top">
+<strong>🧩 HIS AI Agentic Solutions</strong><br />
+<sub>AI engineering · Agentic automation · GeoAI</sub><br /><br />
+Specialist-agent showcase for reports, inspections and spatial checks, with tools, validation and human approval built in.<br /><br />
+<sub>Agentic AI · GeoAI · Data engineering</sub><br />
+<a href="https://his-ai-agentic-solutions.lovable.app/"><strong>Open showcase</strong></a>
+</td>
+</tr>
+<tr>
+<td width="34%" valign="middle">
+<a href="https://github.com/safdar404/HIS-AI-HealthAssist"><img src="./assets/cards/healthassist-v1.svg" alt="🩺 AI HealthAssist · earlier version — Branded artwork · not a screenshot" width="260" /></a><br /><sub>Branded artwork · not a screenshot</sub>
+</td>
+<td width="66%" valign="top">
+<strong>🩺 AI HealthAssist · earlier version</strong><br />
+<sub>Intake · Vitals · Health GIS prototype</sub><br /><br />
+Educational health intake, vitals and health-GIS prototype; the predecessor of HealthAssist v2 above.<br /><br />
+<sub>TypeScript · Health GIS · Prototype</sub><br />
+<a href="https://github.com/safdar404/HIS-AI-HealthAssist"><strong>Source</strong></a>
+</td>
+</tr>
+</table>
+
+<sub>The LangChain demo asks visitors to sign in with ChatGPT before it opens.</sub>
 
 <a id="geoai"></a>
 ## 🛰️ 02 · GeoAI, GIS & Spatial Decision Support
