@@ -146,6 +146,18 @@ def github_stats(owner: str, token: str | None) -> dict:
         flat = [d for w in weeks for d in w["contributionDays"]]
         start = flat[0]["date"]
         days = [d["contributionCount"] for d in flat]
+    if sum(days) == 0:  # private profile hides activity from the Actions token -> try public calendar page
+        try:
+            import re
+            _, body = http_get(f"https://github.com/users/{owner}/contributions")
+            page = body.decode("utf-8", "ignore")
+            cells = dict(re.findall(r'data-date="(\d{4}-\d\d-\d\d)" id="([^"]+)"', page))
+            tips = dict(re.findall(r'<tool-tip[^>]*for="([^"]+)"[^>]*>(\d+|No) contribution', page))
+            pairs = sorted((d, 0 if tips.get(i, "No") == "No" else int(tips[i])) for d, i in cells.items())
+            if pairs and sum(c for _, c in pairs):
+                start, days = pairs[0][0], [c for _, c in pairs]
+        except Exception as e:  # noqa: BLE001
+            print("calendar page fallback failed:", e)
     return {
         "public_repos": user.get("public_repos", len(repos)),
         "followers": user.get("followers", 0),
@@ -423,6 +435,14 @@ def main():
         stats = json.loads(Path(a.seed).read_text())
     else:
         stats = github_stats(cat["owner"], token)
+    cache = OUT / "stats-cache.json"
+    if sum(stats.get("days") or []) > 0:
+        OUT.mkdir(parents=True, exist_ok=True)
+        cache.write_text(json.dumps({"start": stats["start"], "days": stats["days"]}), encoding="utf-8")
+    elif cache.exists():  # keep last known calendar rather than publishing zeros
+        prev = json.loads(cache.read_text(encoding="utf-8"))
+        stats["start"], stats["days"] = prev["start"], prev["days"]
+        print("contribution data unavailable (private profile?) - using cached calendar from", prev["start"])
     status = None if a.no_check else check_all(cat["projects"])
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT / "portfolio-infographic.svg").write_text(build_infographic(cat, stats, status), encoding="utf-8")
