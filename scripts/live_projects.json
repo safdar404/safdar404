@@ -249,6 +249,12 @@
       "url": "https://safdar404.github.io/land-cover-data-preparation/"
     },
     {
+      "name": "LULC · MOLUSCE · SWAT+ Agent",
+      "domain": "geoai",
+      "url": "https://lulc-molusce-swat-agent.streamlit.app/",
+      "repo": "lulc-molusce-swat-agent"
+    },
+    {
       "name": "RAG & GeoAI Labs",
       "domain": "geoai",
       "url": "https://safdar404.github.io/rag-geoai-labs/"
