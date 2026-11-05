@@ -84,9 +84,9 @@ def mentor():
                '<text x="344" y="179" fill="#e2e8f0" font-size="12">Good — add a trade-off.</text>'
                '<rect x="300" y="204" width="120" height="30" rx="12" fill="#22c55e" fill-opacity=".18" stroke="#22c55e" stroke-opacity=".6"/>'
                '<text x="314" y="224" fill="#e2e8f0" font-size="12">Score 8.5 / 10</text>')
-    agents = "".join(f'<circle cx="{40 + i * 34}" cy="128" r="13" fill="{c}" fill-opacity=".85"/>' for i, c in enumerate(["#3987e5", "#199e70", "#c98500", "#d55181", "#9085e9", "#e66767"]))
-    txt = '<text x="28" y="172" fill="#f8fafc" font-size="15" font-weight="700">6 specialised agents</text><text x="28" y="194" fill="#a7b4c8" font-size="12.5">Interviewer · English coach · Tutor</text><text x="28" y="212" fill="#a7b4c8" font-size="12.5">Weakness tracker · Progress reports</text>'
-    return frame("AI Career Mentor", "Multi-agent interview & communication coach", a, ["Multi-agent", "Streamlit", "In development"], bubbles + agents + txt)
+    agents = "".join(f'<circle cx="{40 + i * 30}" cy="128" r="11.5" fill="{c}" fill-opacity=".85"/>' for i, c in enumerate(["#3987e5", "#199e70", "#c98500", "#d55181", "#9085e9", "#e66767", "#f59e0b"]))
+    txt = '<text x="28" y="172" fill="#f8fafc" font-size="15" font-weight="700">6 agents + confidence coach</text><text x="28" y="194" fill="#a7b4c8" font-size="12.5">Chat · voice · video calls · 3D interviewer</text><text x="28" y="212" fill="#a7b4c8" font-size="12.5">10-category scorecard · 90-day roadmap</text>'
+    return frame("AI Career Mentor", "AI interviewer, English & confidence coach", a, ["Multi-agent", "Claude / OpenAI", "65 tests"], bubbles + agents + txt)
 
 
 def main():
