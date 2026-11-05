@@ -10,18 +10,95 @@ I build Python applications that connect **language models, useful tools, spatia
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-7C3AED?style=for-the-badge)](https://www.linkedin.com/in/muhammad-safdar-88b27730)
 [![Email](https://img.shields.io/badge/Discuss_a_Project-DB2777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safdar404@gmail.com)
 
+[![Live apps](https://img.shields.io/badge/live_apps-35-22c55e?style=flat-square&logo=streamlit&logoColor=white)](#live)
+[![Profile visuals](https://img.shields.io/github/actions/workflow/status/safdar404/safdar404/profile-visuals.yml?label=live%20dashboard&style=flat-square&logo=githubactions&logoColor=white)](#live)
+[![Followers](https://img.shields.io/github/followers/safdar404?label=followers&style=flat-square&logo=github&color=7C3AED)](https://github.com/safdar404?tab=followers)
+[![Stars](https://img.shields.io/github/stars/safdar404?affiliations=OWNER&label=stars&style=flat-square&logo=github&color=eda100)](https://github.com/safdar404?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=safdar404&label=profile%20views&color=06b6d4&style=flat-square)](https://github.com/safdar404)
+
 **Pakistan & GCC project experience · Open to global opportunities**
 
 </div>
 
 <p align="center">
-<a href="#generative-ai">🤖 Generative AI</a> · <a href="#geoai">🛰️ GeoAI & GIS</a> · <a href="#ml">🧠 Machine Learning</a> · <a href="#bi">📊 Business Intelligence</a> · <a href="#engineering">🏗️ Engineering</a> · <a href="#learning">🌱 Learning</a> · <a href="#tools">🛠️ Tools & Libraries</a>
+<a href="#live">📡 Live Dashboard</a> · <a href="#generative-ai">🤖 Generative AI</a> · <a href="#geoai">🛰️ GeoAI & GIS</a> · <a href="#ml">🧠 Machine Learning</a> · <a href="#bi">📊 Business Intelligence</a> · <a href="#engineering">🏗️ Engineering</a> · <a href="#learning">🌱 Learning</a> · <a href="#tools">🛠️ Tools & Libraries</a> · <a href="#stats">📈 Stats & Community</a>
 </p>
+
+<a id="live"></a>
+## 📡 Live Portfolio Dashboard
+
+**35 deployed apps, checked automatically.** The visuals below are rebuilt every 6 hours by a [GitHub Action](./.github/workflows/profile-visuals.yml) that pings each deployment and reads this account's activity — nothing here is typed by hand.
+
+<p align="center">
+<img src="./assets/generated/portfolio-infographic.svg" alt="Live portfolio at a glance: 35 deployments by domain, hosting platforms and agent capability coverage" width="100%" />
+</p>
+
+<p align="center">
+<img src="./assets/generated/live-status.svg" alt="Live deployment status board for all 35 apps" width="100%" />
+</p>
+
+<details>
+<summary><strong>🚦 Quick launch · all 35 apps with real-time status badges</strong></summary>
+<br />
+
+<table>
+<tr><th align="left">App</th><th align="left">Live check (on page load)</th><th align="left">Source activity</th></tr>
+<tr><td colspan="3"><strong>Generative & Agentic AI</strong> · 11</td></tr>
+<tr><td><a href="https://traveltalk-realtime.streamlit.app/">🚀 TravelTalk AI</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Ftraveltalk-realtime.streamlit.app%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td><a href="https://github.com/safdar404/traveladvisor-realtime"><img src="https://img.shields.io/github/last-commit/safdar404/traveladvisor-realtime?label=updated&style=flat-square&color=3987e5" alt="last commit" /></a></td></tr>
+<tr><td><a href="https://voiceagent-ai.streamlit.app/">🚀 Voice Agent AI</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fvoiceagent-ai.streamlit.app%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td><a href="https://github.com/safdar404/voiceagent-ai"><img src="https://img.shields.io/github/last-commit/safdar404/voiceagent-ai?label=updated&style=flat-square&color=3987e5" alt="last commit" /></a></td></tr>
+<tr><td><a href="https://resumecvai.streamlit.app/">🚀 CareerRainbow AI</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fresumecvai.streamlit.app%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td><a href="https://github.com/safdar404/resumeai"><img src="https://img.shields.io/github/last-commit/safdar404/resumeai?label=updated&style=flat-square&color=3987e5" alt="last commit" /></a></td></tr>
+<tr><td><a href="https://markeetmind.streamlit.app/">🚀 MarketMind AI</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fmarkeetmind.streamlit.app%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td><a href="https://github.com/safdar404/marketmind"><img src="https://img.shields.io/github/last-commit/safdar404/marketmind?label=updated&style=flat-square&color=3987e5" alt="last commit" /></a></td></tr>
+<tr><td><a href="https://suleman-ai.streamlit.app/">🚀 Suleman AI</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fsuleman-ai.streamlit.app%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td><a href="https://github.com/safdar404/sulemanai"><img src="https://img.shields.io/github/last-commit/safdar404/sulemanai?label=updated&style=flat-square&color=3987e5" alt="last commit" /></a></td></tr>
+<tr><td><a href="https://ragstudios.streamlit.app/">🚀 RAG Studio</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fragstudios.streamlit.app%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td><a href="https://github.com/safdar404/ragstudio"><img src="https://img.shields.io/github/last-commit/safdar404/ragstudio?label=updated&style=flat-square&color=3987e5" alt="last commit" /></a></td></tr>
+<tr><td><a href="https://supportpearlzai.streamlit.app/">🚀 SupportPearlz</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fsupportpearlzai.streamlit.app%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td><a href="https://github.com/safdar404/supportpearlz"><img src="https://img.shields.io/github/last-commit/safdar404/supportpearlz?label=updated&style=flat-square&color=3987e5" alt="last commit" /></a></td></tr>
+<tr><td><a href="https://ai-healthassist.ai.studio/">🚀 HealthAssist v2</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fai-healthassist.ai.studio%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td><a href="https://github.com/safdar404/healthai"><img src="https://img.shields.io/github/last-commit/safdar404/healthai?label=updated&style=flat-square&color=3987e5" alt="last commit" /></a></td></tr>
+<tr><td><a href="https://medical-ai-assistants.streamlit.app/">🚀 MediGuide AI</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fmedical-ai-assistants.streamlit.app%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td><a href="https://github.com/safdar404/medical-ai-assistant"><img src="https://img.shields.io/github/last-commit/safdar404/medical-ai-assistant?label=updated&style=flat-square&color=3987e5" alt="last commit" /></a></td></tr>
+<tr><td><a href="https://finwis-ai.streamlit.app/">🚀 FinWise AI</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Ffinwis-ai.streamlit.app%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td><a href="https://github.com/safdar404/finwisai"><img src="https://img.shields.io/github/last-commit/safdar404/finwisai?label=updated&style=flat-square&color=3987e5" alt="last commit" /></a></td></tr>
+<tr><td><a href="https://house-build-cad.streamlit.app/">🚀 GharBuilder AI</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fhouse-build-cad.streamlit.app%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td><a href="https://github.com/safdar404/house-build-cad"><img src="https://img.shields.io/github/last-commit/safdar404/house-build-cad?label=updated&style=flat-square&color=3987e5" alt="last commit" /></a></td></tr>
+<tr><td colspan="3"><strong>Document Intelligence</strong> · 3</td></tr>
+<tr><td><a href="https://safdar404.github.io/lexora-legal-rag/">🚀 Lexora Legal Research</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fsafdar404.github.io%2Flexora-legal-rag%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+<tr><td><a href="https://langchain-rag-document-assistant.neat-grove-8624.chatgpt.site/">🚀 LangChain RAG Assistant</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Flangchain-rag-document-assistant.neat-grove-8624.chatgpt.site%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+<tr><td><a href="https://his-ai-agentic-solutions.lovable.app/">🚀 HIS AI Agentic Solutions</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fhis-ai-agentic-solutions.lovable.app%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+<tr><td colspan="3"><strong>GeoAI & GIS</strong> · 11</td></tr>
+<tr><td><a href="https://geosentinel-drain-floodops.neat-grove-8624.chatgpt.site/">🚀 GeoSentinel Drain FloodOps</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fgeosentinel-drain-floodops.neat-grove-8624.chatgpt.site%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+<tr><td><a href="https://islamabad-feature-intelligence.safdarwatto7714.chatgpt.site">🚀 Islamabad Feature Intelligence</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fislamabad-feature-intelligence.safdarwatto7714.chatgpt.site&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+<tr><td><a href="https://geoai-resilience-intelligence-suite.neat-grove-8624.chatgpt.site/">🚀 GeoAI Resilience Suite</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fgeoai-resilience-intelligence-suite.neat-grove-8624.chatgpt.site%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+<tr><td><a href="https://safdar404.github.io/geosentinel-floodops/">🚀 AgriSentinel Pakistan</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fsafdar404.github.io%2Fgeosentinel-floodops%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+<tr><td><a href="https://pakistan-flood-intelligence-2026.neat-grove-8624.chatgpt.site/">🚀 Pakistan Flood Intelligence</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fpakistan-flood-intelligence-2026.neat-grove-8624.chatgpt.site%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+<tr><td><a href="https://geosentinel-ai-1.ai.studio/">🚀 GeoSentinel AI</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fgeosentinel-ai-1.ai.studio%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+<tr><td><a href="https://safdar404.github.io/geoai-site-intelligence/">🚀 GeoAI Site Intelligence</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fsafdar404.github.io%2Fgeoai-site-intelligence%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+<tr><td><a href="https://pmu-pdp-infrastructure-gis.neat-grove-8624.chatgpt.site/">🚀 Infrastructure GIS Command</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fpmu-pdp-infrastructure-gis.neat-grove-8624.chatgpt.site%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+<tr><td><a href="https://safdar404.github.io/geodistill-studio/">🚀 GeoDistill Studio</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fsafdar404.github.io%2Fgeodistill-studio%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+<tr><td><a href="https://safdar404.github.io/land-cover-data-preparation/">🚀 Land Cover Dataset QA</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fsafdar404.github.io%2Fland-cover-data-preparation%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+<tr><td><a href="https://safdar404.github.io/rag-geoai-labs/">🚀 RAG & GeoAI Labs</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fsafdar404.github.io%2Frag-geoai-labs%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+<tr><td colspan="3"><strong>Machine Learning</strong> · 3</td></tr>
+<tr><td><a href="https://safdar404.github.io/python-ai-lab/">🚀 Python & AI Analytics Lab</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fsafdar404.github.io%2Fpython-ai-lab%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+<tr><td><a href="https://safdar404.github.io/prediction-studio/">🚀 Prediction Studio</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fsafdar404.github.io%2Fprediction-studio%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+<tr><td><a href="https://safdar404.github.io/applied-ml-analysis/">🚀 Applied ML Analysis</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fsafdar404.github.io%2Fapplied-ml-analysis%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+<tr><td colspan="3"><strong>Business Intelligence</strong> · 3</td></tr>
+<tr><td><a href="https://safdar404.github.io/laptop-intelligence/">🚀 Laptop Sales Intelligence</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fsafdar404.github.io%2Flaptop-intelligence%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+<tr><td><a href="https://safdar404.github.io/customer-purchase-intelligence/">🚀 Customer Purchase Intelligence</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fsafdar404.github.io%2Fcustomer-purchase-intelligence%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+<tr><td><a href="https://safdar404.github.io/superstore-bi/">🚀 Superstore Sales Intelligence</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fsafdar404.github.io%2Fsuperstore-bi%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+<tr><td colspan="3"><strong>Engineering & OCR</strong> · 3</td></tr>
+<tr><td><a href="https://his-bill-scanner.neat-grove-8624.chatgpt.site/">🚀 Zarwa / HIS Bill Scanner</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fhis-bill-scanner.neat-grove-8624.chatgpt.site%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+<tr><td><a href="https://ai-cad-bim-flow.lovable.app/">🚀 Planora AI CAD-BIM-GIS</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fai-cad-bim-flow.lovable.app%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+<tr><td><a href="https://mep-scanner-system.neat-grove-8624.chatgpt.site/">🚀 MEP Scanner System</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fmep-scanner-system.neat-grove-8624.chatgpt.site%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+<tr><td colspan="3"><strong>Learning & Growth</strong> · 1</td></tr>
+<tr><td><a href="https://safdar-mindful-growth.safdarwatto7714.chatgpt.site/">🚀 Steady Growth Companion</a></td><td><img src="https://img.shields.io/website?url=https%3A%2F%2Fsafdar-mindful-growth.safdarwatto7714.chatgpt.site%2F&label=status&up_message=live&down_message=offline&up_color=22c55e&down_color=ef4444&style=flat-square" alt="status" /></td><td></td></tr>
+</table>
+
+<sub>Status badges are checked by shields.io each time this page loads. Streamlit Community Cloud apps sleep after inactivity and can take ~30 seconds to wake on the first visit.</sub>
+
+</details>
 
 <a id="generative-ai"></a>
 ## 🤖 01 · Generative AI & Agentic Applications
 
 **From conversation to reviewed action.** Each app below lists its interaction modes, implemented features, tech stack and links to the live app and source.
+
+<p align="center">
+<img src="./assets/generated/agent-capabilities.svg" alt="Agent capability matrix: voice, tool calling, RAG, human review, multilingual, charts, exports and offline mode across 11 AI apps" width="100%" />
+</p>
 
 <a id="agent-showcase"></a>
 ### 🖼️ Agent display · interfaces, modes & functions
@@ -552,6 +629,50 @@ PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 
 
 </details>
+
+
+<a id="stats"></a>
+## 📈 GitHub Stats & Community
+
+<p align="center">
+<img src="./assets/generated/github-stats.svg" alt="GitHub activity: contributions, streaks, repositories and language mix for the last 12 months" width="100%" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/safdar404/safdar404/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/safdar404/safdar404/output/github-snake.svg" />
+  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/safdar404/safdar404/output/github-snake.svg" width="100%" />
+</picture>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔭 Building now
+- **Agentic workflows with human review** — bounded tool loops, approvals and audit trails
+- **GeoAI for flood & crop intelligence** — Sentinel-2, drainage operations and field QA
+- **Voice-first assistants** — realtime WebRTC conversation and multilingual voice replies
+
+### 💬 Ask me about
+Python · RAG & citations · tool-calling agents · Streamlit apps · ArcGIS / QGIS / GEE · Power BI · CAD-to-GIS
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Join in
+- ⭐ **Star** a repo you find useful — it helps others discover it
+- 🐛 **Open an issue** with feedback, bugs or feature ideas on any app
+- 🍴 **Fork** a Streamlit app — most run locally with a single `pip install`
+- 👋 **Follow** to see new agents, GeoAI tools and studies as they ship
+
+<p>
+<a href="https://github.com/safdar404?tab=followers"><img src="https://img.shields.io/github/followers/safdar404?label=Follow%20%40safdar404&style=for-the-badge&logo=github&color=111827" alt="Follow safdar404 on GitHub" /></a>
+<a href="https://github.com/safdar404?tab=repositories"><img src="https://img.shields.io/badge/Browse-repositories-3987e5?style=for-the-badge&logo=github" alt="Browse repositories" /></a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
