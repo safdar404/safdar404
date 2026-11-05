@@ -14,7 +14,7 @@ I build Python applications that connect **language models, useful tools, spatia
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/safdarwattu)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/MuhammadSafdar786/)
 
-[![Live apps](https://img.shields.io/badge/live_apps-36-22c55e?style=flat-square&logo=streamlit&logoColor=white)](#live)
+[![Live apps](https://img.shields.io/badge/live_apps-37-22c55e?style=flat-square&logo=streamlit&logoColor=white)](#live)
 [![Profile visuals](https://img.shields.io/github/actions/workflow/status/safdar404/safdar404/profile-visuals.yml?label=live%20dashboard&style=flat-square&logo=githubactions&logoColor=white)](#live)
 [![Followers](https://img.shields.io/github/followers/safdar404?label=followers&style=flat-square&logo=github&color=7C3AED)](https://github.com/safdar404?tab=followers)
 [![Stars](https://img.shields.io/github/stars/safdar404?affiliations=OWNER&label=stars&style=flat-square&logo=github&color=eda100)](https://github.com/safdar404?tab=repositories)
@@ -31,18 +31,18 @@ I build Python applications that connect **language models, useful tools, spatia
 <a id="live"></a>
 ## 📡 Live Portfolio Dashboard
 
-**36 deployed apps, checked automatically.** The visuals below are rebuilt every 6 hours by a [GitHub Action](./.github/workflows/profile-visuals.yml) that pings each deployment and reads this account's activity — nothing here is typed by hand.
+**37 deployed apps, checked automatically.** The visuals below are rebuilt every 6 hours by a [GitHub Action](./.github/workflows/profile-visuals.yml) that pings each deployment and reads this account's activity — nothing here is typed by hand.
 
 <p align="center">
-<img src="./assets/generated/portfolio-infographic.svg" alt="Live portfolio at a glance: 36 deployments by domain, hosting platforms and agent capability coverage" width="100%" />
+<img src="./assets/generated/portfolio-infographic.svg" alt="Live portfolio at a glance: 37 deployments by domain, hosting platforms and agent capability coverage" width="100%" />
 </p>
 
 <p align="center">
-<img src="./assets/generated/live-status.svg" alt="Live deployment status board for all 36 apps" width="100%" />
+<img src="./assets/generated/live-status.svg" alt="Live deployment status board for all 37 apps" width="100%" />
 </p>
 
 <details>
-<summary><strong>🚦 Quick launch · all 36 apps with real-time status badges</strong></summary>
+<summary><strong>🚦 Quick launch · all 37 apps with real-time status badges</strong></summary>
 <br />
 
 <table>
@@ -64,7 +64,7 @@ I build Python applications that connect **language models, useful tools, spatia
 <tr><td><a href="https://safdar404.github.io/lexora-legal-rag/">🚀 Lexora Legal Research</a></td><td><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsafdar404%2Fsafdar404%2Fmain%2Fassets%2Fgenerated%2Fbadges%2Fsafdar404-github-io-lexora-legal-rag.json&style=flat-square" alt="live status" /></td><td></td></tr>
 <tr><td><a href="https://langchain-rag-document-assistant.neat-grove-8624.chatgpt.site/">🚀 LangChain RAG Assistant</a></td><td><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsafdar404%2Fsafdar404%2Fmain%2Fassets%2Fgenerated%2Fbadges%2Flangchain-rag-document-assistant-neat-grove-8624-chatgpt-site.json&style=flat-square" alt="live status" /></td><td></td></tr>
 <tr><td><a href="https://his-ai-agentic-solutions.lovable.app/">🚀 HIS AI Agentic Solutions</a></td><td><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsafdar404%2Fsafdar404%2Fmain%2Fassets%2Fgenerated%2Fbadges%2Fhis-ai-agentic-solutions-lovable-app.json&style=flat-square" alt="live status" /></td><td></td></tr>
-<tr><td colspan="3"><strong>GeoAI & GIS</strong> · 11</td></tr>
+<tr><td colspan="3"><strong>GeoAI & GIS</strong> · 12</td></tr>
 <tr><td><a href="https://geosentinel-drain-floodops.neat-grove-8624.chatgpt.site/">🚀 GeoSentinel Drain FloodOps</a></td><td><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsafdar404%2Fsafdar404%2Fmain%2Fassets%2Fgenerated%2Fbadges%2Fgeosentinel-drain-floodops-neat-grove-8624-chatgpt-site.json&style=flat-square" alt="live status" /></td><td></td></tr>
 <tr><td><a href="https://islamabad-feature-intelligence.safdarwatto7714.chatgpt.site">🚀 Islamabad Feature Intelligence</a></td><td><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsafdar404%2Fsafdar404%2Fmain%2Fassets%2Fgenerated%2Fbadges%2Fislamabad-feature-intelligence-safdarwatto7714-chatgpt-site.json&style=flat-square" alt="live status" /></td><td></td></tr>
 <tr><td><a href="https://geoai-resilience-intelligence-suite.neat-grove-8624.chatgpt.site/">🚀 GeoAI Resilience Suite</a></td><td><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsafdar404%2Fsafdar404%2Fmain%2Fassets%2Fgenerated%2Fbadges%2Fgeoai-resilience-intelligence-suite-neat-grove-8624-chatgpt-site.json&style=flat-square" alt="live status" /></td><td></td></tr>
@@ -75,6 +75,7 @@ I build Python applications that connect **language models, useful tools, spatia
 <tr><td><a href="https://pmu-pdp-infrastructure-gis.neat-grove-8624.chatgpt.site/">🚀 Infrastructure GIS Command</a></td><td><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsafdar404%2Fsafdar404%2Fmain%2Fassets%2Fgenerated%2Fbadges%2Fpmu-pdp-infrastructure-gis-neat-grove-8624-chatgpt-site.json&style=flat-square" alt="live status" /></td><td></td></tr>
 <tr><td><a href="https://safdar404.github.io/geodistill-studio/">🚀 GeoDistill Studio</a></td><td><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsafdar404%2Fsafdar404%2Fmain%2Fassets%2Fgenerated%2Fbadges%2Fsafdar404-github-io-geodistill-studio.json&style=flat-square" alt="live status" /></td><td></td></tr>
 <tr><td><a href="https://safdar404.github.io/land-cover-data-preparation/">🚀 Land Cover Dataset QA</a></td><td><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsafdar404%2Fsafdar404%2Fmain%2Fassets%2Fgenerated%2Fbadges%2Fsafdar404-github-io-land-cover-data-preparation.json&style=flat-square" alt="live status" /></td><td></td></tr>
+<tr><td><a href="https://lulc-molusce-swat-agent.streamlit.app/">🚀 LULC · MOLUSCE · SWAT+ Agent</a></td><td><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsafdar404%2Fsafdar404%2Fmain%2Fassets%2Fgenerated%2Fbadges%2Flulc-molusce-swat-agent-streamlit-app.json&style=flat-square" alt="live status" /></td><td><a href="https://github.com/safdar404/lulc-molusce-swat-agent"><img src="https://img.shields.io/github/last-commit/safdar404/lulc-molusce-swat-agent?label=updated&style=flat-square&color=3987e5" alt="last commit" /></a></td></tr>
 <tr><td><a href="https://safdar404.github.io/rag-geoai-labs/">🚀 RAG & GeoAI Labs</a></td><td><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsafdar404%2Fsafdar404%2Fmain%2Fassets%2Fgenerated%2Fbadges%2Fsafdar404-github-io-rag-geoai-labs.json&style=flat-square" alt="live status" /></td><td></td></tr>
 <tr><td colspan="3"><strong>Machine Learning</strong> · 3</td></tr>
 <tr><td><a href="https://safdar404.github.io/python-ai-lab/">🚀 Python & AI Analytics Lab</a></td><td><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsafdar404%2Fsafdar404%2Fmain%2Fassets%2Fgenerated%2Fbadges%2Fsafdar404-github-io-python-ai-lab.json&style=flat-square" alt="live status" /></td><td></td></tr>
@@ -315,14 +316,58 @@ Punjab infrastructure prototype; map overlays and operational metrics are illust
 </table>
 
 
-### Land-cover research & dataset preparation
+### 🗺️ Land-cover research & dataset preparation
 
-| Project | Role & function | Explore |
-|---|---|---|
-| **GeoDistill Studio** | Browser image pixel/resolution inspection and class distribution; full Python model training requires a backend. | [Open workbench](https://safdar404.github.io/geodistill-studio/) |
-| **Land Cover Dataset Preparation** | Manifest QA, split leakage, file duplication and cleaned CSV export. | [Open dataset QA](https://safdar404.github.io/land-cover-data-preparation/) |
-| **LULC · MOLUSCE · SWAT+ Research Agent** | Land-cover classification, Olofsson area-adjusted accuracy, change analysis and SWAT+ hydrology inputs with an AI agent over the same audited tools. | [💻 Source](https://github.com/safdar404/lulc-molusce-swat-agent) |
-| **Interactive RAG & GeoAI Labs** | Lexical evidence search, land-cover class exploration and CSV audit demos. | [Open labs](https://safdar404.github.io/rag-geoai-labs/) |
+<table>
+<tr>
+<td width="34%" valign="middle">
+<a href="https://lulc-molusce-swat-agent.streamlit.app/"><img src="./assets/screens/lulc-agent-actual-20261105.jpg" alt="🌍 LULC · MOLUSCE · SWAT+ Research Agent — 📸 Actual interface · captured 5 November 2026" width="260" /></a><br /><sub>📸 Actual interface · captured 5 November 2026</sub>
+</td>
+<td width="66%" valign="top">
+<strong>🌍 LULC · MOLUSCE · SWAT+ Research Agent</strong> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsafdar404%2Fsafdar404%2Fmain%2Fassets%2Fgenerated%2Fbadges%2Flulc-molusce-swat-agent-streamlit-app.json&style=flat-square" alt="live status" /><br />
+<sub>Classification · Accuracy · Change · Scenarios · Hydrology</sub><br /><br />
+Classify, validate, explain, simulate and link land-cover change to SWAT+ hydrology: RF/SVM classification, Olofsson area-adjusted accuracy, intensity analysis, landscape metrics, Gi* hotspots, Markov-CA scenarios and SWAT+ CN/RUSLE inputs, with an AI agent that uses the same audited tools.<br /><br />
+<sub>Python · Streamlit · Rasterio · scikit-learn · AI agent</sub><br />
+<a href="https://lulc-molusce-swat-agent.streamlit.app/"><strong>Open live app</strong></a> · <a href="https://github.com/safdar404/lulc-molusce-swat-agent"><strong>Source</strong></a>
+</td>
+</tr>
+<tr>
+<td width="34%" valign="middle">
+<a href="https://safdar404.github.io/geodistill-studio/"><img src="./assets/screens/geodistill-actual-20261105.jpg" alt="🛰️ GeoDistill Studio — 📸 Actual interface · captured 5 November 2026" width="260" /></a><br /><sub>📸 Actual interface · captured 5 November 2026</sub>
+</td>
+<td width="66%" valign="top">
+<strong>🛰️ GeoDistill Studio</strong><br />
+<sub>Image dataset intelligence · Resolution · Class balance</sub><br /><br />
+Browser image pixel and resolution inspection, image-derived colour features and class distribution from uploaded labels. Full Python model training requires a separate backend.<br /><br />
+<sub>JavaScript · Image analysis · Dataset QA</sub><br />
+<a href="https://safdar404.github.io/geodistill-studio/"><strong>Open workbench</strong></a>
+</td>
+</tr>
+<tr>
+<td width="34%" valign="middle">
+<a href="https://safdar404.github.io/land-cover-data-preparation/"><img src="./assets/screens/terraprep-actual-20261105.jpg" alt="🌾 Land Cover Dataset Preparation · TerraPrep — 📸 Actual interface · captured 5 November 2026" width="260" /></a><br /><sub>📸 Actual interface · captured 5 November 2026</sub>
+</td>
+<td width="66%" valign="top">
+<strong>🌾 Land Cover Dataset Preparation · TerraPrep</strong><br />
+<sub>Manifest validation · Split leakage checks · SHA-256 matching</sub><br /><br />
+Manifest QA, split leakage, file duplication and cleaned CSV export, so land-cover datasets are audited before the next training experiment.<br /><br />
+<sub>JavaScript · Data QA · Local processing</sub><br />
+<a href="https://safdar404.github.io/land-cover-data-preparation/"><strong>Open dataset QA</strong></a>
+</td>
+</tr>
+<tr>
+<td width="34%" valign="middle">
+<a href="https://safdar404.github.io/rag-geoai-labs/"><img src="./assets/screens/rag-geoai-labs-actual-20261105.jpg" alt="🧪 Interactive RAG & GeoAI Labs — 📸 Actual interface · captured 5 November 2026" width="260" /></a><br /><sub>📸 Actual interface · captured 5 November 2026</sub>
+</td>
+<td width="66%" valign="top">
+<strong>🧪 Interactive RAG & GeoAI Labs</strong><br />
+<sub>Evidence search · Class explorer · Dataset auditor</sub><br /><br />
+Three browser-side demos: lexical evidence search with cited excerpts, land-cover class exploration and CSV audit. Nothing uploaded leaves the browser.<br /><br />
+<sub>JavaScript · Retrieval · GeoAI data QA</sub><br />
+<a href="https://safdar404.github.io/rag-geoai-labs/"><strong>Open labs</strong></a>
+</td>
+</tr>
+</table>
 
 <sub>Spatial prototypes need authoritative data and field validation. Simulated heights, modeled suitability overlays and scenario scores are labeled assumptions.</sub>
 
