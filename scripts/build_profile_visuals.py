@@ -24,6 +24,7 @@ import datetime as dt
 import html
 import json
 import os
+import re
 import time
 import urllib.error
 import urllib.parse
@@ -121,6 +122,23 @@ def check_url(url: str) -> dict:
             best = {"state": "down", "ms": None, "code": None}
         time.sleep(3)
     return best
+
+
+def slug(url: str) -> str:
+    u = urllib.parse.urlparse(url)
+    return re.sub(r"[^a-z0-9]+", "-", (u.netloc + u.path).lower()).strip("-")
+
+
+def write_badges(projects: list[dict], status: dict) -> None:
+    """shields.io endpoint JSON per app, so README badges use this workflow's own checks."""
+    out = OUT / "badges"
+    out.mkdir(parents=True, exist_ok=True)
+    for p in projects:
+        st = status.get(p["url"], {}).get("state", "unchecked")
+        msg, col = {"online": ("live", "22c55e"), "sleeping": ("waking", "f59e0b"),
+                    "down": ("check", "ef4444")}.get(st, ("pending", "64748b"))
+        (out / f"{slug(p['url'])}.json").write_text(json.dumps(
+            {"schemaVersion": 1, "label": "status", "message": msg, "color": col, "cacheSeconds": 3600}), encoding="utf-8")
 
 
 def check_all(projects: list[dict]) -> dict[str, dict]:
@@ -450,6 +468,7 @@ def main():
     (OUT / "live-status.svg").write_text(build_status(cat, status), encoding="utf-8")
     (OUT / "github-stats.svg").write_text(build_stats(cat["owner"], stats), encoding="utf-8")
     if status:
+        write_badges(cat["projects"], status)
         up = sum(1 for v in status.values() if v["state"] != "down")
         print(f"{up}/{len(status)} deployments responding")
         for p in cat["projects"]:
