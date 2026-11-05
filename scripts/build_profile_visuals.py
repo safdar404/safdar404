@@ -19,6 +19,7 @@ from __future__ import annotations
 
 import argparse
 import concurrent.futures as cf
+import http.cookiejar
 import datetime as dt
 import html
 import json
@@ -93,7 +94,9 @@ def http_get(url: str, token: str | None = None, timeout: int = 25, data: bytes 
     if token:
         headers["Authorization"] = f"Bearer {token}"
     req = urllib.request.Request(url, headers=headers, data=data)
-    with urllib.request.urlopen(req, timeout=timeout) as r:
+    # Cookie jar lets Streamlit Cloud's auth redirect handshake complete instead of looping.
+    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
+    with opener.open(req, timeout=timeout) as r:
         return r.status, r.read(400_000)
 
 
@@ -110,8 +113,8 @@ def check_url(url: str) -> dict:
             return {"state": "sleeping" if asleep else "online", "ms": ms, "code": code}
         except urllib.error.HTTPError as e:
             ms = int((time.monotonic() - t0) * 1000)
-            # 401/403 = deployed but sign-in / bot protection in front of it
-            if e.code in (401, 403, 429):
+            # 3xx loop / 401 / 403 = deployed, with an auth handshake or bot protection in front
+            if 300 <= e.code < 400 or e.code in (401, 403, 429):
                 return {"state": "online", "ms": ms, "code": e.code}
             best = {"state": "down", "ms": ms, "code": e.code}
         except Exception:  # timeout, DNS, TLS
@@ -430,7 +433,8 @@ def main():
         up = sum(1 for v in status.values() if v["state"] != "down")
         print(f"{up}/{len(status)} deployments responding")
         for p in cat["projects"]:
-            print(f'  {status[p["url"]]["state"]:9} {p["name"]}')
+            st = status[p["url"]]
+            print(f'  {st["state"]:9} {st.get("code")} {st.get("ms")}ms  {p["name"]}')
 
 
 if __name__ == "__main__":
