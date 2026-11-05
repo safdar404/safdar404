@@ -25,7 +25,7 @@ I build Python applications that connect **language models, useful tools, spatia
 </div>
 
 <p align="center">
-<a href="#live">📡 Live Dashboard</a> · <a href="#generative-ai">🤖 Generative AI</a> · <a href="#geoai">🛰️ GeoAI & GIS</a> · <a href="#ml">🧠 Machine Learning</a> · <a href="#bi">📊 Business Intelligence</a> · <a href="#engineering">🏗️ Engineering</a> · <a href="#learning">🌱 Learning</a> · <a href="#experience">💼 Experience</a> · <a href="#tools">🛠️ Tools & Libraries</a> · <a href="#stats">📈 Stats & Community</a>
+<a href="#live">📡 Live Dashboard</a> · <a href="#generative-ai">🤖 Generative AI</a> · <a href="#geoai">🛰️ GeoAI & GIS</a> · <a href="#ml">🧠 Machine Learning</a> · <a href="#bi">📊 Business Intelligence</a> · <a href="#engineering">🏗️ Engineering</a> · <a href="#learning">🌱 Steady</a> · <a href="#experience">💼 Experience</a> · <a href="#tools">🛠️ Tools & Libraries</a> · <a href="#stats">📈 Stats & Community</a>
 </p>
 
 <a id="live"></a>
@@ -532,23 +532,51 @@ Extracts MEP components, duct dimensions and airflow from drawings, keeping OCR 
 <sub>Related earlier OCR implementations: MEP Drawing Analyzer and Alfanar MEP OCR. See the <a href="./projects/profile-project-history.md">project history and implementation notes</a>.</sub>
 
 <a id="learning"></a>
-## 🌱 06 · Learning & Personal Growth
+## 🌱 06 · Steady · Learning & Personal Growth
 
 
-### Steady · Growth Companion
+### ✦ Steady · Growth Companion
 
-[![Steady — planning, learning and wellbeing overview](https://safdar404.github.io/assets/steady/steady-overview.svg)](https://safdar-mindful-growth.safdarwatto7714.chatgpt.site/)
+<p align="center">
+<a href="https://safdar-mindful-growth.safdarwatto7714.chatgpt.site/"><img src="https://safdar404.github.io/assets/steady/steady-overview.svg" alt="Steady — plan, learn and reflect in one calm workspace" width="100%" /></a>
+</p>
 
-**A little stronger, every day.** A personal growth companion that brings daily planning, learning, reflection and everyday wellbeing into one calm workspace.
+<p align="center">
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsafdar404%2Fsafdar404%2Fmain%2Fassets%2Fgenerated%2Fbadges%2Fsafdar-mindful-growth-safdarwatto7714-chatgpt-site.json&style=flat-square" alt="live status" />
+<img src="https://img.shields.io/badge/17_daily_tools-8B5CF6?style=flat-square" alt="17 daily tools" />
+<img src="https://img.shields.io/badge/English_·_اردو-0F766E?style=flat-square" alt="English and Urdu" />
+<img src="https://img.shields.io/badge/private_·_stored_in_browser-475569?style=flat-square" alt="Private, stored in your browser" />
+</p>
 
-- **Plan:** organize daily activities and small next steps.
-- **Learn:** explore lessons, guided practice and learning/recall tools.
-- **Reflect:** use a thought journal, wellbeing resources and progress pages.
-- **Local by default:** browser-based entries with English and partial Urdu support.
+<p align="center">
+<a href="https://safdar-mindful-growth.safdarwatto7714.chatgpt.site/"><img src="https://img.shields.io/badge/Open_Steady-7C3AED?style=for-the-badge&logoColor=white" alt="Open Steady" /></a>
+<a href="https://github.com/safdar404/safdar404.github.io/tree/main/projects/steady"><img src="https://img.shields.io/badge/Project_documentation-334155?style=for-the-badge&logo=github&logoColor=white" alt="Project documentation" /></a>
+</p>
 
-[**Open Steady ↗**](https://safdar-mindful-growth.safdarwatto7714.chatgpt.site/) · [**Project documentation**](https://github.com/safdar404/safdar404.github.io/tree/main/projects/steady) · [**Portfolio**](https://safdar404.github.io/)
+**A little stronger, every day.** Steady brings daily planning, learning, reflection and everyday wellbeing into one calm workspace — built around small steps, flexible routines and kindness rather than scores.
 
-<sub>Branded overview graphic, not an app screenshot. Educational wellbeing support; not diagnosis or a replacement for professional care. This repository entry documents the hosted app; application source is not included.</sub>
+<table>
+<tr>
+<td width="33%" align="center" valign="top"><a href="https://safdar-mindful-growth.safdarwatto7714.chatgpt.site/"><img src="./assets/screens/steady-home-20261105.jpg" alt="Steady — Today dashboard" width="100%" /></a><br /><strong>🌈 Today</strong><br /><sub>Daily tools, rotating wellbeing tips and quick routes into records and appointments</sub></td>
+<td width="33%" align="center" valign="top"><a href="https://safdar-mindful-growth.safdarwatto7714.chatgpt.site/"><img src="./assets/screens/steady-planner-20261105.jpg" alt="Steady — Daily planner" width="100%" /></a><br /><strong>🗓️ Daily planner</strong><br /><sub>Flexible plan around sleep, work, prayer and energy · export to calendar (.ics) or print</sub></td>
+<td width="33%" align="center" valign="top"><a href="https://safdar-mindful-growth.safdarwatto7714.chatgpt.site/"><img src="./assets/screens/steady-brain-20261105.jpg" alt="Steady — Brain explorer" width="100%" /></a><br /><strong>🧠 Brain explorer</strong><br /><sub>Picture guides to how learning works, each with one small activity to try</sub></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th width="33%" align="left">📅 Plan &amp; organise</th>
+<th width="33%" align="left">📚 Learn &amp; grow</th>
+<th width="33%" align="left">💚 Reflect &amp; care</th>
+</tr>
+<tr>
+<td valign="top">Today dashboard<br />Daily planner · .ics export · print<br />Appointment notes<br />Patient records</td>
+<td valign="top">Guided studio · Lesson library<br />Practice studio · Brainstorm lab<br />Learn &amp; remember · Brain explorer<br />Guidance hub · Speaking courage</td>
+<td valign="top">Thought journal · Calm &amp; reset<br />Life &amp; wellbeing · Health &amp; support<br />Progress &amp; settings<br />Urgent-help link on every page</td>
+</tr>
+</table>
+
+<sub>📸 Screens captured 5 November 2026; the banner is a branded overview graphic. Voice &amp; audio and a reduce-animation switch are built in; Urdu translation is partial. Steady offers educational wellbeing support — not diagnosis or a replacement for professional care. Application source is not published; the linked documentation describes the hosted app.</sub>
 
 ### 🎓 Coursework repositories
 
@@ -724,6 +752,7 @@ PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 - **Agentic workflows with human review** — bounded tool loops, approvals and audit trails
 - **GeoAI for flood & crop intelligence** — Sentinel-2, drainage operations and field QA
 - **Voice-first assistants** — realtime WebRTC conversation and multilingual voice replies
+- **[Steady](https://safdar-mindful-growth.safdarwatto7714.chatgpt.site/)** — a calm planning, learning &amp; wellbeing companion in English and Urdu
 
 ### 💬 Ask me about
 Python · RAG & citations · tool-calling agents · Streamlit apps · ArcGIS / QGIS / GEE · Power BI · CAD-to-GIS
