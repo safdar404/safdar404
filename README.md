@@ -667,6 +667,12 @@ PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 | [Motivational Quote Generator](https://safdar404.github.io/n8n-automations/#motivational-quote-generator) | 7 AM schedule → Basic LLM Chain → Google Sheets → Gmail | Daily AI-written quote emailed to every recipient in a sheet; live schedule run verified |
 | [New Client Requests](https://safdar404.github.io/n8n-automations/#new-client-requests) | Sheets trigger → Gmail → Google Contacts → Gmail | Instant thank-you email, contact creation and internal alert for each new client row |
 
+<p>
+  <a href="https://safdar404.github.io/n8n-automations/#ai-agent-email-assistant"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/n8n-automations/canvas-02-ai-agent-email-assistant.png" alt="AI Agent Email Assistant n8n workflow" title="AI Agent Email Assistant" width="32%" /></a>
+  <a href="https://safdar404.github.io/n8n-automations/#motivational-quote-generator"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/n8n-automations/canvas-03-motivational-quote-generator.png" alt="Motivational Quote Generator n8n workflow" title="Motivational Quote Generator" width="32%" /></a>
+  <a href="https://safdar404.github.io/n8n-automations/#new-client-requests"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/n8n-automations/canvas-01-new-client-requests.png" alt="New Client Requests n8n workflow" title="New Client Requests" width="32%" /></a>
+</p>
+
 ### 📚 Libraries & Frameworks
 
 **AI & Data Science:** Python, Pandas, NumPy, scikit-learn, TensorFlow/Keras, OpenCV, Hugging Face, LangChain, RAG  
