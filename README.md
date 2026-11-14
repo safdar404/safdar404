@@ -659,6 +659,14 @@ PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 
 **n8n · Make.com** · Visual workflows · API integrations · Automation
 
+**Tested n8n workflows** — run end-to-end on n8n Cloud and published · [view all](https://safdar404.github.io/n8n-automations/)
+
+| Workflow | Flow | Highlights |
+|---|---|---|
+| [AI Agent Email Assistant](https://safdar404.github.io/n8n-automations/#ai-agent-email-assistant) | Chat → AI Agent → Google Sheets tool + Gmail tool | OpenAI tool-calling agent with memory; looks up customers by name and sends personalised emails |
+| [Motivational Quote Generator](https://safdar404.github.io/n8n-automations/#motivational-quote-generator) | 7 AM schedule → Basic LLM Chain → Google Sheets → Gmail | Daily AI-written quote emailed to every recipient in a sheet; live schedule run verified |
+| [New Client Requests](https://safdar404.github.io/n8n-automations/#new-client-requests) | Sheets trigger → Gmail → Google Contacts → Gmail | Instant thank-you email, contact creation and internal alert for each new client row |
+
 ### 📚 Libraries & Frameworks
 
 **AI & Data Science:** Python, Pandas, NumPy, scikit-learn, TensorFlow/Keras, OpenCV, Hugging Face, LangChain, RAG  
