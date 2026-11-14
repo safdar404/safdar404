@@ -24,7 +24,7 @@ I build Python applications that connect **language models, useful tools, spatia
 
 </div>
 
-<p align="center">
+<p>
 <a href="#live">📡 Live Dashboard</a> · <a href="#generative-ai">🤖 Generative AI</a> · <a href="#geoai">🛰️ GeoAI & GIS</a> · <a href="#ml">🧠 Machine Learning</a> · <a href="#bi">📊 Business Intelligence</a> · <a href="#engineering">🏗️ Engineering</a> · <a href="#learning">🌱 Steady</a> · <a href="#experience">💼 Experience</a> · <a href="#tools">🛠️ Tools & Libraries</a> · <a href="#stats">📈 Stats & Community</a>
 </p>
 
@@ -33,11 +33,11 @@ I build Python applications that connect **language models, useful tools, spatia
 
 **37 deployed apps, checked automatically.** The visuals below are rebuilt every 6 hours by a [GitHub Action](./.github/workflows/profile-visuals.yml) that pings each deployment and reads this account's activity — nothing here is typed by hand.
 
-<p align="center">
+<p>
 <img src="./assets/generated/portfolio-infographic.svg" alt="Live portfolio at a glance: 37 deployments by domain, hosting platforms and agent capability coverage" width="100%" />
 </p>
 
-<p align="center">
+<p>
 <img src="./assets/generated/live-status.svg" alt="Live deployment status board for all 37 apps" width="100%" />
 </p>
 
@@ -102,7 +102,7 @@ I build Python applications that connect **language models, useful tools, spatia
 
 **From conversation to reviewed action.** Twelve live AI applications — browse the gallery, then expand the full specifications for interaction modes, features and tech stack.
 
-<p align="center">
+<p>
 <img src="./assets/generated/agent-capabilities.svg" alt="Agent capability matrix: voice, tool calling, RAG, human review, multilingual, charts, exports and offline mode across 12 AI apps" width="100%" />
 </p>
 
@@ -659,18 +659,34 @@ PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 
 **n8n · Make.com** · Visual workflows · API integrations · Automation
 
-**Tested n8n workflows** — run end-to-end on n8n Cloud and published · [view all](https://safdar404.github.io/n8n-automations/)
+**9 n8n workflows** — built on n8n Cloud; 8 published and running · [view all](https://safdar404.github.io/n8n-automations/)
 
 | Workflow | Flow | Highlights |
 |---|---|---|
 | [AI Agent Email Assistant](https://safdar404.github.io/n8n-automations/#ai-agent-email-assistant) | Chat → AI Agent → Google Sheets tool + Gmail tool | OpenAI tool-calling agent with memory; looks up customers by name and sends personalised emails |
 | [Motivational Quote Generator](https://safdar404.github.io/n8n-automations/#motivational-quote-generator) | 7 AM schedule → Basic LLM Chain → Google Sheets → Gmail | Daily AI-written quote emailed to every recipient in a sheet; live schedule run verified |
 | [New Client Requests](https://safdar404.github.io/n8n-automations/#new-client-requests) | Sheets trigger → Gmail → Google Contacts → Gmail | Instant thank-you email, contact creation and internal alert for each new client row |
+| [Patient Appointment Reminder & No-Show Recovery](https://safdar404.github.io/n8n-automations/#patient-appointment-reminder) | 9 AM schedule → Sheets → Code → IF/Switch → WhatsApp / Gmail → Sheets → Slack | Reminds tomorrow's patients on their consented channel, logs invalid records, idempotent write-back and a daily Slack summary |
+| [Resume AI Analyzer (Web Form)](https://safdar404.github.io/n8n-automations/#resume-ai-analyzer-web-form) | Form → Drive → Extract PDF → Information Extractor → AI Agent → Sheets → IF → Gmail | Scores uploaded CVs 1–5 with an AI agent; shortlist report or thank-you email |
+| [Resume AI Analyzer (Gmail)](https://safdar404.github.io/n8n-automations/#resume-ai-analyzer) | Gmail trigger → Drive → Extract PDF → Information Extractor → AI Agent → Sheets → IF → Gmail | Screens CVs emailed to the inbox and replies in the same thread |
+| [Document RAG Assistant](https://safdar404.github.io/n8n-automations/#document-rag-assistant) | Drive trigger → loader + splitter → OpenAI embeddings → vector store · Chat → RAG Agent | Q&A grounded only in the documents dropped into a Drive folder |
+| [Audio Transcriber & Summarizer](https://safdar404.github.io/n8n-automations/#audio-transcriber-summarizer) | Form → OpenAI Whisper → GPT-4o-mini | Upload audio, get a structured summary with key points and actions |
+| [AI Audio Transcriber (Telegram → Notion)](https://safdar404.github.io/n8n-automations/#ai-audio-transcriber-telegram-notion) | Telegram trigger → Whisper → GPT-4o-mini → Notion | Voice notes become titled, summarised Notion pages *(in progress)* |
 
 <p>
   <a href="https://safdar404.github.io/n8n-automations/#ai-agent-email-assistant"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/n8n-automations/canvas-02-ai-agent-email-assistant.png" alt="AI Agent Email Assistant n8n workflow" title="AI Agent Email Assistant" width="32%" /></a>
   <a href="https://safdar404.github.io/n8n-automations/#motivational-quote-generator"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/n8n-automations/canvas-03-motivational-quote-generator.png" alt="Motivational Quote Generator n8n workflow" title="Motivational Quote Generator" width="32%" /></a>
   <a href="https://safdar404.github.io/n8n-automations/#new-client-requests"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/n8n-automations/canvas-01-new-client-requests.png" alt="New Client Requests n8n workflow" title="New Client Requests" width="32%" /></a>
+</p>
+<p>
+  <a href="https://safdar404.github.io/n8n-automations/#patient-appointment-reminder"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/n8n-automations/canvas-07-patient-appointment-reminder.png" alt="Patient Appointment Reminder n8n workflow" title="Patient Appointment Reminder" width="32%" /></a>
+  <a href="https://safdar404.github.io/n8n-automations/#resume-ai-analyzer-web-form"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/n8n-automations/canvas-08-resume-ai-analyzer-web-form.png" alt="Resume AI Analyzer (Web Form) n8n workflow" title="Resume AI Analyzer (Web Form)" width="32%" /></a>
+  <a href="https://safdar404.github.io/n8n-automations/#document-rag-assistant"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/n8n-automations/canvas-05-document-rag-assistant.png" alt="Document RAG Assistant n8n workflow" title="Document RAG Assistant" width="32%" /></a>
+</p>
+<p>
+  <a href="https://safdar404.github.io/n8n-automations/#resume-ai-analyzer"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/n8n-automations/canvas-09-resume-ai-analyzer.png" alt="Resume AI Analyzer (Gmail) n8n workflow" title="Resume AI Analyzer (Gmail)" width="32%" /></a>
+  <a href="https://safdar404.github.io/n8n-automations/#audio-transcriber-summarizer"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/n8n-automations/canvas-06-audio-transcriber-summarizer.png" alt="Audio Transcriber & Summarizer n8n workflow" title="Audio Transcriber & Summarizer" width="32%" /></a>
+  <a href="https://safdar404.github.io/n8n-automations/#ai-audio-transcriber-telegram-notion"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/n8n-automations/canvas-04-ai-audio-transcriber-telegram-notion.png" alt="AI Audio Transcriber (Telegram → Notion) n8n workflow" title="AI Audio Transcriber (Telegram → Notion)" width="32%" /></a>
 </p>
 
 ### 📚 Libraries & Frameworks
@@ -720,7 +736,7 @@ PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 <a id="stats"></a>
 ## 📈 GitHub Stats & Community
 
-<p align="center">
+<p>
 <img src="./assets/generated/github-stats.svg" alt="GitHub activity: contributions, streaks, repositories and language mix for the last 12 months" width="100%" />
 </p>
 
