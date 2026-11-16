@@ -642,6 +642,32 @@ A little stronger, every day. Daily planning, learning, reflection and everyday 
 
 Python · NumPy · Pandas · scikit-learn · TensorFlow · Keras · OpenCV
 
+### 🧬 Generative AI, LLMs & Agent Frameworks
+
+<p><img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white" alt="Generative AI" title="Generative AI" />
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Large Language Models" title="Large Language Models" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" title="OpenAI" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" title="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" title="LangGraph" />
+<img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI" title="CrewAI" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" title="Hugging Face" />
+<img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge" alt="Retrieval-augmented generation" title="Retrieval-augmented generation" /></p>
+
+**Generative AI · LLMs · OpenAI · LangChain · LangGraph · CrewAI** · Hugging Face · RAG · tool-calling and multi-agent workflows
+
+### 🚀 Development, Deployment & CI/CD
+
+<p><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" title="Streamlit" />
+<img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" title="Gradio" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" title="Vercel" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" title="GitHub Actions" />
+<img src="https://img.shields.io/badge/CI%2FCD-22C55E?style=for-the-badge&logo=git&logoColor=white" alt="CI/CD" title="CI/CD" />
+<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" title="GitHub Pages" />
+<img src="https://img.shields.io/badge/Cloud%20AI-AWS%20%C2%B7%20Azure%20%C2%B7%20GCP-0EA5E9?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud AI on AWS, Azure and Google Cloud" title="Cloud AI on AWS, Azure and Google Cloud" /></p>
+
+**Streamlit · Gradio · Vercel** · Docker · GitHub Actions CI/CD · GitHub Pages · Cloud AI (AWS · Azure · Google Cloud) — from development to automated deployment and monitoring
+
 ### 🗄️ Data, APIs & Applications
 
 <p>
@@ -732,6 +758,8 @@ PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 ### 📚 Libraries & Frameworks
 
 **AI & Data Science:** Python, Pandas, NumPy, scikit-learn, TensorFlow/Keras, OpenCV, Hugging Face, LangChain, RAG  
+**Generative AI & Agents:** LLMs, OpenAI, LangChain, LangGraph, CrewAI, RAG, tool calling, multi-agent workflows  
+**Development & Deployment:** Streamlit, Gradio, Vercel, Docker, GitHub Actions CI/CD, GitHub Pages, Cloud AI (AWS, Azure, Google Cloud)  
 **Workflow Automation:** n8n, Make.com, visual workflows and API integrations  
 **Data & APIs:** SQL, PostgreSQL/PostGIS, SQLite, ETL, FastAPI, Flask, REST, Streamlit, Docker  
 **GIS & Remote Sensing:** ArcGIS Pro/Enterprise, QGIS, Google Earth Engine, FME, Agisoft Metashape  
