@@ -1,7 +1,7 @@
 <a id="top"></a>
 <div align="center">
 
-<img src="./assets/profile-hero-2026.svg" alt="Muhammad Safdar — Generative AI, Agentic Applications, GeoAI and Data Intelligence" width="100%" />
+<img src="./assets/profile-hero-2026.svg?v=2" alt="Muhammad Safdar — Generative AI, Agentic Applications, GeoAI and Data Intelligence" width="100%" />
 
 ### Generative AI & Agentic Applications · GeoAI · Data Science · Enterprise GIS
 
