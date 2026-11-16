@@ -743,20 +743,18 @@ PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 | [Audio Transcriber & Summarizer](https://safdar404.github.io/n8n-automations/#audio-transcriber-summarizer) | Form → OpenAI Whisper → GPT-4o-mini | Upload audio, get a structured summary with key points and actions |
 | [AI Audio Transcriber (Telegram → Notion)](https://safdar404.github.io/n8n-automations/#ai-audio-transcriber-telegram-notion) | Telegram trigger → Whisper → GPT-4o-mini → Notion | Voice notes become titled, summarised Notion pages *(in progress)* |
 
-<p>
-  <a href="https://safdar404.github.io/n8n-automations/#ai-agent-email-assistant"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/n8n-automations/canvas-02-ai-agent-email-assistant.png" alt="AI Agent Email Assistant n8n workflow" title="AI Agent Email Assistant" width="32%" /></a>
-  <a href="https://safdar404.github.io/n8n-automations/#motivational-quote-generator"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/n8n-automations/canvas-03-motivational-quote-generator.png" alt="Motivational Quote Generator n8n workflow" title="Motivational Quote Generator" width="32%" /></a>
-  <a href="https://safdar404.github.io/n8n-automations/#new-client-requests"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/n8n-automations/canvas-01-new-client-requests.png" alt="New Client Requests n8n workflow" title="New Client Requests" width="32%" /></a>
-</p>
-<p>
-  <a href="https://safdar404.github.io/n8n-automations/#patient-appointment-reminder"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/n8n-automations/canvas-07-patient-appointment-reminder.png" alt="Patient Appointment Reminder n8n workflow" title="Patient Appointment Reminder" width="32%" /></a>
-  <a href="https://safdar404.github.io/n8n-automations/#resume-ai-analyzer-web-form"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/n8n-automations/canvas-08-resume-ai-analyzer-web-form.png" alt="Resume AI Analyzer (Web Form) n8n workflow" title="Resume AI Analyzer (Web Form)" width="32%" /></a>
-  <a href="https://safdar404.github.io/n8n-automations/#document-rag-assistant"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/n8n-automations/canvas-05-document-rag-assistant.png" alt="Document RAG Assistant n8n workflow" title="Document RAG Assistant" width="32%" /></a>
-</p>
-<p>
-  <a href="https://safdar404.github.io/n8n-automations/#resume-ai-analyzer"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/n8n-automations/canvas-09-resume-ai-analyzer.png" alt="Resume AI Analyzer (Gmail) n8n workflow" title="Resume AI Analyzer (Gmail)" width="32%" /></a>
-  <a href="https://safdar404.github.io/n8n-automations/#audio-transcriber-summarizer"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/n8n-automations/canvas-06-audio-transcriber-summarizer.png" alt="Audio Transcriber & Summarizer n8n workflow" title="Audio Transcriber & Summarizer" width="32%" /></a>
-  <a href="https://safdar404.github.io/n8n-automations/#ai-audio-transcriber-telegram-notion"><img src="https://raw.githubusercontent.com/safdar404/safdar404.github.io/main/n8n-automations/canvas-04-ai-audio-transcriber-telegram-notion.png" alt="AI Audio Transcriber (Telegram → Notion) n8n workflow" title="AI Audio Transcriber (Telegram → Notion)" width="32%" /></a>
+<p align="center">
+  <a href="https://safdar404.github.io/n8n-automations/#ai-agent-email-assistant"><img src="assets/workflows/wf-01-ai-agent-email-assistant.png" alt="AI Agent Email Assistant n8n workflow" title="AI Agent Email Assistant" width="32%" /></a>
+  <a href="https://safdar404.github.io/n8n-automations/#motivational-quote-generator"><img src="assets/workflows/wf-02-motivational-quote-generator.png" alt="Motivational Quote Generator n8n workflow" title="Motivational Quote Generator" width="32%" /></a>
+  <a href="https://safdar404.github.io/n8n-automations/#new-client-requests"><img src="assets/workflows/wf-03-new-client-requests.png" alt="New Client Requests n8n workflow" title="New Client Requests" width="32%" /></a>
+  <br />
+  <a href="https://safdar404.github.io/n8n-automations/#patient-appointment-reminder"><img src="assets/workflows/wf-04-patient-appointment-reminder.png" alt="Patient Appointment Reminder & No-Show Recovery n8n workflow" title="Patient Appointment Reminder & No-Show Recovery" width="32%" /></a>
+  <a href="https://safdar404.github.io/n8n-automations/#resume-ai-analyzer-web-form"><img src="assets/workflows/wf-05-resume-ai-analyzer-web-form.png" alt="Resume AI Analyzer (Web Form) n8n workflow" title="Resume AI Analyzer (Web Form)" width="32%" /></a>
+  <a href="https://safdar404.github.io/n8n-automations/#resume-ai-analyzer"><img src="assets/workflows/wf-06-resume-ai-analyzer.png" alt="Resume AI Analyzer (Gmail) n8n workflow" title="Resume AI Analyzer (Gmail)" width="32%" /></a>
+  <br />
+  <a href="https://safdar404.github.io/n8n-automations/#document-rag-assistant"><img src="assets/workflows/wf-07-document-rag-assistant.png" alt="Document RAG Assistant n8n workflow" title="Document RAG Assistant" width="32%" /></a>
+  <a href="https://safdar404.github.io/n8n-automations/#audio-transcriber-summarizer"><img src="assets/workflows/wf-08-audio-transcriber-summarizer.png" alt="Audio Transcriber & Summarizer n8n workflow" title="Audio Transcriber & Summarizer" width="32%" /></a>
+  <a href="https://safdar404.github.io/n8n-automations/#ai-audio-transcriber-telegram-notion"><img src="assets/workflows/wf-09-ai-audio-transcriber-telegram-notion.png" alt="AI Audio Transcriber (Telegram → Notion) n8n workflow" title="AI Audio Transcriber (Telegram → Notion)" width="32%" /></a>
 </p>
 
 ### 📚 Libraries & Frameworks
