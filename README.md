@@ -1,3 +1,4 @@
+<a id="top"></a>
 <div align="center">
 
 <img src="./assets/profile-hero-2026.svg" alt="Muhammad Safdar — Generative AI, Agentic Applications, GeoAI and Data Intelligence" width="100%" />
@@ -24,9 +25,64 @@ I build Python applications that connect **language models, useful tools, spatia
 
 </div>
 
-<p>
-<a href="#live">📡 Live Dashboard</a> · <a href="#generative-ai">🤖 Generative AI</a> · <a href="#geoai">🛰️ GeoAI & GIS</a> · <a href="#ml">🧠 Machine Learning</a> · <a href="#bi">📊 Business Intelligence</a> · <a href="#engineering">🏗️ Engineering</a> · <a href="#learning">🌱 Steady</a> · <a href="#experience">💼 Experience</a> · <a href="#tools">🛠️ Tools & Libraries</a> · <a href="#stats">📈 Stats & Community</a>
+<p align="center">
+<a href="#about">👋 About</a> · <a href="#experience">💼 Experience</a> · <a href="#live">📡 Live Dashboard</a> · <a href="#generative-ai">🤖 Generative AI</a> · <a href="#geoai">🛰️ GeoAI & GIS</a> · <a href="#ml">🧠 Machine Learning</a> · <a href="#bi">📊 Business Intelligence</a> · <a href="#engineering">🏗️ Engineering</a> · <a href="#tools">🛠️ Tools & Libraries</a> · <a href="#learning">🌱 Steady</a> · <a href="#stats">📈 Stats & Community</a>
 </p>
+
+<a id="about"></a>
+## 👋 About Me
+
+I am a **GIS & GeoAI specialist with 14+ years of delivery** for government, infrastructure, disaster-management and agriculture programmes in **Pakistan and the GCC**. Today I combine that domain depth with **Python, generative AI and agentic workflows** — building applications where language models, tools and spatial data work together, with evidence and human review built in.
+
+<table>
+<tr>
+<td align="center" width="16%"><strong>14+</strong><br /><sub>years in GIS &amp; remote sensing</sub></td>
+<td align="center" width="16%"><strong>37</strong><br /><sub>deployed apps, auto-monitored</sub></td>
+<td align="center" width="16%"><strong>12</strong><br /><sub>generative &amp; agentic AI apps</sub></td>
+<td align="center" width="16%"><strong>8</strong><br /><sub>applied ML studies</sub></td>
+<td align="center" width="16%"><strong>9</strong><br /><sub>n8n automation workflows</sub></td>
+<td align="center" width="16%"><strong>2</strong><br /><sub>regions · Pakistan &amp; GCC</sub></td>
+</tr>
+</table>
+
+| Focus area | What I deliver |
+|---|---|
+| 🤖 **Generative & agentic AI** | Tool-calling agents, RAG with citations, voice assistants and reviewed automation |
+| 🛰️ **GeoAI & enterprise GIS** | Flood, crop and land-cover intelligence, Sentinel-2 analysis, geodatabases and CAD-to-GIS |
+| 📊 **Data science & BI** | Model evaluation, forecasting, Power BI dashboards and data-quality workflows |
+| 🏗️ **Engineering automation** | OCR for bills and MEP drawings, CAD/BIM–GIS flows and project monitoring |
+
+**Open to:** GeoAI, GIS and applied-AI roles, consulting and collaborations — remote or on-site worldwide.
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
+<a id="experience"></a>
+## 💼 Experience & Credentials
+
+**14+ years** delivering GIS for government, infrastructure, disaster management and agriculture across Pakistan and the GCC — now combining that domain depth with Python, GeoAI and agentic AI.
+
+### 🧭 Professional delivery
+
+| Period | Role & organization | Selected contribution |
+|---|---|---|
+| **2026—Present** | **GIS Specialist · PMU-PDP, Municipal Committee Vehari** | GIS support for municipal development projects, spatial data management and project monitoring |
+| **2025—2026** | **GIS & GeoAI Specialist · Professional Geo Tech Services FZC LLC** | NWC Riyadh wastewater mapping, infrastructure/GNSS delivery and environmental spatial analysis |
+| **2023—2025** | **GIS Expert · TerraSense Consulting** | GeoAI land-cover workflows, satellite crop intelligence, wheat estimation and predictive analysis |
+| **2021—2023** | **GIS Specialist · FGEHA, Islamabad** | Enterprise geodatabases, CAD-to-GIS, topology QA and training of 20+ personnel |
+| **2019—2021** | **GIS Manager · Kernel Seeds Corporation** | Agricultural GIS, crop analysis, spatial repositories and data governance |
+| **2017—2019** | **GIS Manager · PDMA Punjab** | Chenab/Sutlej flood intelligence, exposure analysis and emergency situation mapping |
+| **2012—2017** | **GIS Professional · The Urban Unit & Loyal Consultants** | Urban, land, infrastructure, survey GIS, spatial databases and cartographic production |
+
+### 🎓 Education & credentials
+
+- **MSc Geographic Information Systems** — University of the Punjab, Lahore
+- **BSc Computer Science, Economics & Statistics** — The Islamia University of Bahawalpur
+- **Python with Full Stack AI** — NexSkills, 2026
+- **Artificial Intelligence Using Python** and **Data Analytics & Business Intelligence** — DigiSkills, 2026
+- **AWS Cloud Practitioner Essentials** · **Cisco Python Essentials 1**
+- **GACA Remote Pilot Certificate** · **Esri Spatial Data Science, Imagery and Cartography training**
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
 
 <a id="live"></a>
 ## 📡 Live Portfolio Dashboard
@@ -96,6 +152,8 @@ I build Python applications that connect **language models, useful tools, spatia
 <sub>Status badges come from the same automated check as the board above (refreshed every 6 hours). Streamlit Community Cloud apps sleep after inactivity and can take ~30 seconds to wake on the first visit.</sub>
 
 </details>
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
 
 <a id="generative-ai"></a>
 ## 🤖 01 · Generative AI & Agentic Applications
@@ -211,6 +269,8 @@ Educational health intake, vitals and health-GIS prototype; the predecessor of H
 </table>
 
 <sub>The LangChain demo asks visitors to sign in with ChatGPT before it opens.</sub>
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
 
 <a id="geoai"></a>
 ## 🛰️ 02 · GeoAI, GIS & Spatial Decision Support
@@ -371,6 +431,8 @@ Three browser-side demos: lexical evidence search with cited excerpts, land-cove
 
 <sub>Spatial prototypes need authoritative data and field validation. Simulated heights, modeled suitability overlays and scenario scores are labeled assumptions.</sub>
 
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
 <a id="ml"></a>
 ## 🧠 03 · Machine Learning & Data Science
 
@@ -434,8 +496,7 @@ Classification, regression, customer segmentation and time-series forecasting wi
 
 > Figures are taken from the project dashboards. These are educational evaluations, not clinical validation or evidence of production fraud-detection reliability.
 
----
-
+<p align="right"><a href="#top">↑ Back to top</a></p>
 
 <a id="bi"></a>
 ## 📊 04 · Business Intelligence & Operational Analytics
@@ -482,6 +543,7 @@ Actual dashboard, all filters selected. The unmatched Returns sheet is excluded 
 </tr>
 </table>
 
+<p align="right"><a href="#top">↑ Back to top</a></p>
 
 <a id="engineering"></a>
 ## 🏗️ 05 · Engineering, BIM & Document Automation
@@ -531,6 +593,8 @@ Extracts MEP components, duct dimensions and airflow from drawings, keeping OCR 
 
 <sub>Related earlier OCR implementations: MEP Drawing Analyzer and Alfanar MEP OCR. See the <a href="./projects/profile-project-history.md">project history and implementation notes</a>.</sub>
 
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
 <a id="learning"></a>
 ## 🌱 06 · Steady · Learning & Personal Growth
 
@@ -558,31 +622,7 @@ A little stronger, every day. Daily planning, learning, reflection and everyday 
 | [Fullstack-AI-BOOTCAMP-B-10](https://github.com/safdar404/Fullstack-AI-BOOTCAMP-B-10) | Python, AI/ML coursework and practical experiments |
 | [huwaeiai](https://github.com/safdar404/huwaeiai) | Python, AI/ML coursework and practical experiments |
 
-<a id="experience"></a>
-## 💼 Experience & Credentials
-
-**14+ years** delivering GIS for government, infrastructure, disaster management and agriculture across Pakistan and the GCC — now combining that domain depth with Python, GeoAI and agentic AI.
-
-### 🧭 Professional delivery
-
-| Period | Role & organization | Selected contribution |
-|---|---|---|
-| **2026—Present** | **GIS Specialist · PMU-PDP, Municipal Committee Vehari** | GIS support for municipal development projects, spatial data management and project monitoring |
-| **2025—2026** | **GIS & GeoAI Specialist · Professional Geo Tech Services FZC LLC** | NWC Riyadh wastewater mapping, infrastructure/GNSS delivery and environmental spatial analysis |
-| **2023—2025** | **GIS Expert · TerraSense Consulting** | GeoAI land-cover workflows, satellite crop intelligence, wheat estimation and predictive analysis |
-| **2021—2023** | **GIS Specialist · FGEHA, Islamabad** | Enterprise geodatabases, CAD-to-GIS, topology QA and training of 20+ personnel |
-| **2019—2021** | **GIS Manager · Kernel Seeds Corporation** | Agricultural GIS, crop analysis, spatial repositories and data governance |
-| **2017—2019** | **GIS Manager · PDMA Punjab** | Chenab/Sutlej flood intelligence, exposure analysis and emergency situation mapping |
-| **2012—2017** | **GIS Professional · The Urban Unit & Loyal Consultants** | Urban, land, infrastructure, survey GIS, spatial databases and cartographic production |
-
-### 🎓 Education & credentials
-
-- **MSc Geographic Information Systems** — University of the Punjab, Lahore
-- **BSc Computer Science, Economics & Statistics** — The Islamia University of Bahawalpur
-- **Python with Full Stack AI** — NexSkills, 2026
-- **Artificial Intelligence Using Python** and **Data Analytics & Business Intelligence** — DigiSkills, 2026
-- **AWS Cloud Practitioner Essentials** · **Cisco Python Essentials 1**
-- **GACA Remote Pilot Certificate** · **Esri Spatial Data Science, Imagery and Cartography training**
+<p align="right"><a href="#top">↑ Back to top</a></p>
 
 <a id="tools"></a>
 <!-- TOOL-LOGOS-START -->
@@ -730,8 +770,7 @@ PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 
 <!-- TOOL-LOGOS-END -->
 
-
-
+<p align="right"><a href="#top">↑ Back to top</a></p>
 
 <a id="stats"></a>
 ## 📈 GitHub Stats & Community
@@ -776,6 +815,8 @@ Python · RAG & citations · tool-calling agents · Streamlit apps · ArcGIS / Q
 </td>
 </tr>
 </table>
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
 
 ---
 
