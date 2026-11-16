@@ -725,9 +725,10 @@ PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" title="n8n" />
   <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make.com" title="Make.com" />
+  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" title="Zapier" />
 </p>
 
-**n8n · Make.com** · Visual workflows · API integrations · Automation
+**n8n · Make.com · Zapier** · Visual workflows · API integrations · Automation
 
 **9 n8n workflows** built on n8n Cloud; 8 published and running · [view all](https://safdar404.github.io/n8n-automations/)
 
@@ -762,7 +763,7 @@ PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 **AI & Data Science:** Python, Pandas, NumPy, scikit-learn, TensorFlow/Keras, OpenCV, Hugging Face, LangChain, RAG  
 **Generative AI & Agents:** LLMs, OpenAI, LangChain, LangGraph, CrewAI, RAG, tool calling, multi-agent workflows  
 **Development & Deployment:** Streamlit, Gradio, Vercel, Docker, GitHub Actions CI/CD, GitHub Pages, Cloud AI (AWS, Azure, Google Cloud)  
-**Workflow Automation:** n8n, Make.com, visual workflows and API integrations  
+**Workflow Automation:** n8n, Make.com, Zapier, visual workflows and API integrations  
 **Data & APIs:** SQL, PostgreSQL/PostGIS, SQLite, ETL, FastAPI, Flask, REST, Streamlit, Docker  
 **GIS & Remote Sensing:** ArcGIS Pro/Enterprise, QGIS, Google Earth Engine, FME, Agisoft Metashape  
 **Geospatial Python:** ArcPy, GeoPandas, GDAL, Rasterio, Shapely, Fiona, PyProj, Folium, Leaflet  
