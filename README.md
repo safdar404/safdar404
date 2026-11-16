@@ -32,7 +32,7 @@ I build Python applications that connect **language models, useful tools, spatia
 <a id="about"></a>
 ## 👋 About Me
 
-I am a **GIS & GeoAI specialist with 14+ years of delivery** for government, infrastructure, disaster-management and agriculture programmes in **Pakistan and the GCC**. Today I combine that domain depth with **Python, generative AI and agentic workflows** — building applications where language models, tools and spatial data work together, with evidence and human review built in.
+I am a **GIS & GeoAI specialist with 14+ years of delivery** for government, infrastructure, disaster-management and agriculture programmes in **Pakistan and the GCC**. Today I combine that domain depth with **Python, generative AI and agentic workflows**, building applications where language models, tools and spatial data work together, with evidence and human review built in.
 
 <table>
 <tr>
@@ -52,33 +52,33 @@ I am a **GIS & GeoAI specialist with 14+ years of delivery** for government, inf
 | 📊 **Data science & BI** | Model evaluation, forecasting, Power BI dashboards and data-quality workflows |
 | 🏗️ **Engineering automation** | OCR for bills and MEP drawings, CAD/BIM–GIS flows and project monitoring |
 
-**Open to:** GeoAI, GIS and applied-AI roles, consulting and collaborations — remote or on-site worldwide.
+**Open to:** GeoAI, GIS and applied-AI roles, consulting and collaborations, remote or on-site worldwide.
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
 <a id="experience"></a>
 ## 💼 Experience & Credentials
 
-**14+ years** delivering GIS for government, infrastructure, disaster management and agriculture across Pakistan and the GCC — now combining that domain depth with Python, GeoAI and agentic AI.
+**14+ years** delivering GIS for government, infrastructure, disaster management and agriculture across Pakistan and the GCC, now combining that domain depth with Python, GeoAI and agentic AI.
 
 ### 🧭 Professional delivery
 
 | Period | Role & organization | Selected contribution |
 |---|---|---|
-| **2026—Present** | **GIS Specialist · PMU-PDP, Municipal Committee Vehari** | GIS support for municipal development projects, spatial data management and project monitoring |
-| **2025—2026** | **GIS & GeoAI Specialist · Professional Geo Tech Services FZC LLC** | NWC Riyadh wastewater mapping, infrastructure/GNSS delivery and environmental spatial analysis |
-| **2023—2025** | **GIS Expert · TerraSense Consulting** | GeoAI land-cover workflows, satellite crop intelligence, wheat estimation and predictive analysis |
-| **2021—2023** | **GIS Specialist · FGEHA, Islamabad** | Enterprise geodatabases, CAD-to-GIS, topology QA and training of 20+ personnel |
-| **2019—2021** | **GIS Manager · Kernel Seeds Corporation** | Agricultural GIS, crop analysis, spatial repositories and data governance |
-| **2017—2019** | **GIS Manager · PDMA Punjab** | Chenab/Sutlej flood intelligence, exposure analysis and emergency situation mapping |
-| **2012—2017** | **GIS Professional · The Urban Unit & Loyal Consultants** | Urban, land, infrastructure, survey GIS, spatial databases and cartographic production |
+| **2026–Present** | **GIS Specialist · PMU-PDP, Municipal Committee Vehari** | GIS support for municipal development projects, spatial data management and project monitoring |
+| **2025–2026** | **GIS & GeoAI Specialist · Professional Geo Tech Services FZC LLC** | NWC Riyadh wastewater mapping, infrastructure/GNSS delivery and environmental spatial analysis |
+| **2023–2025** | **GIS Expert · TerraSense Consulting** | GeoAI land-cover workflows, satellite crop intelligence, wheat estimation and predictive analysis |
+| **2021–2023** | **GIS Specialist · FGEHA, Islamabad** | Enterprise geodatabases, CAD-to-GIS, topology QA and training of 20+ personnel |
+| **2019–2021** | **GIS Manager · Kernel Seeds Corporation** | Agricultural GIS, crop analysis, spatial repositories and data governance |
+| **2017–2019** | **GIS Manager · PDMA Punjab** | Chenab/Sutlej flood intelligence, exposure analysis and emergency situation mapping |
+| **2012–2017** | **GIS Professional · The Urban Unit & Loyal Consultants** | Urban, land, infrastructure, survey GIS, spatial databases and cartographic production |
 
 ### 🎓 Education & credentials
 
-- **MSc Geographic Information Systems** — University of the Punjab, Lahore
-- **BSc Computer Science, Economics & Statistics** — The Islamia University of Bahawalpur
-- **Python with Full Stack AI** — NexSkills, 2026
-- **Artificial Intelligence Using Python** and **Data Analytics & Business Intelligence** — DigiSkills, 2026
+- **MSc Geographic Information Systems**, University of the Punjab, Lahore
+- **BSc Computer Science, Economics & Statistics**, The Islamia University of Bahawalpur
+- **Python with Full Stack AI**, NexSkills, 2026
+- **Artificial Intelligence Using Python** and **Data Analytics & Business Intelligence**, DigiSkills, 2026
 - **AWS Cloud Practitioner Essentials** · **Cisco Python Essentials 1**
 - **GACA Remote Pilot Certificate** · **Esri Spatial Data Science, Imagery and Cartography training**
 
@@ -87,7 +87,7 @@ I am a **GIS & GeoAI specialist with 14+ years of delivery** for government, inf
 <a id="live"></a>
 ## 📡 Live Portfolio Dashboard
 
-**37 deployed apps, checked automatically.** The visuals below are rebuilt every 6 hours by a [GitHub Action](./.github/workflows/profile-visuals.yml) that pings each deployment and reads this account's activity — nothing here is typed by hand.
+**37 deployed apps, checked automatically.** The visuals below are rebuilt every 6 hours by a [GitHub Action](./.github/workflows/profile-visuals.yml) that pings each deployment and reads this account's activity. Nothing here is typed by hand.
 
 <p>
 <img src="./assets/generated/portfolio-infographic.svg" alt="Live portfolio at a glance: 37 deployments by domain, hosting platforms and agent capability coverage" width="100%" />
@@ -158,7 +158,7 @@ I am a **GIS & GeoAI specialist with 14+ years of delivery** for government, inf
 <a id="generative-ai"></a>
 ## 🤖 01 · Generative AI & Agentic Applications
 
-**From conversation to reviewed action.** Twelve live AI applications — browse the gallery, then expand the full specifications for interaction modes, features and tech stack.
+**From conversation to reviewed action.** Twelve live AI applications. Browse the gallery, then expand the full specifications for interaction modes, features and tech stack.
 
 <p>
 <img src="./assets/generated/agent-capabilities.svg" alt="Agent capability matrix: voice, tool calling, RAG, human review, multilingual, charts, exports and offline mode across 12 AI apps" width="100%" />
@@ -501,7 +501,7 @@ Classification, regression, customer segmentation and time-series forecasting wi
 <a id="bi"></a>
 ## 📊 04 · Business Intelligence & Operational Analytics
 
-**Power BI · DAX · Power Query · Data QA** — dashboards grouped around retail, customer behavior and sales performance.
+**Power BI · DAX · Power Query · Data QA**: dashboards grouped around retail, customer behavior and sales performance.
 
 
 <table>
@@ -569,7 +569,7 @@ Browser-based OCR with Tesseract.js and PDF.js that extracts vendor, invoice, cu
 <a href="https://ai-cad-bim-flow.lovable.app/"><img src="https://safdar404.github.io/assets/selected-projects/planora.jpg" alt="Planora AI — CAD, BIM &amp; GIS Flow — Original interface / analysis" width="260" /></a><br /><sub>Original interface / analysis</sub>
 </td>
 <td width="66%" valign="top">
-<strong>Planora AI — CAD, BIM &amp; GIS Flow</strong><br />
+<strong>Planora AI: CAD, BIM &amp; GIS Flow</strong><br />
 <sub>Project brief · CAD/BIM · MEP · GIS · Costing</sub><br /><br />
 Concept-to-costing flow across CAD/BIM, MEP and GIS. Source is private; engineering outputs require professional review.<br /><br />
 <sub>CAD · BIM–GIS · 3D</sub><br />
@@ -666,7 +666,7 @@ Python · NumPy · Pandas · scikit-learn · TensorFlow · Keras · OpenCV
 <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" title="GitHub Pages" />
 <img src="https://img.shields.io/badge/Cloud%20AI-AWS%20%C2%B7%20Azure%20%C2%B7%20GCP-0EA5E9?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud AI on AWS, Azure and Google Cloud" title="Cloud AI on AWS, Azure and Google Cloud" /></p>
 
-**Streamlit · Gradio · Vercel** · Docker · GitHub Actions CI/CD · GitHub Pages · Cloud AI (AWS · Azure · Google Cloud) — from development to automated deployment and monitoring
+**Streamlit · Gradio · Vercel** · Docker · GitHub Actions CI/CD · GitHub Pages · Cloud AI (AWS · Azure · Google Cloud), from development to automated deployment and monitoring
 
 ### 🗄️ Data, APIs & Applications
 
@@ -725,7 +725,7 @@ PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 
 **n8n · Make.com** · Visual workflows · API integrations · Automation
 
-**9 n8n workflows** — built on n8n Cloud; 8 published and running · [view all](https://safdar404.github.io/n8n-automations/)
+**9 n8n workflows** built on n8n Cloud; 8 published and running · [view all](https://safdar404.github.io/n8n-automations/)
 
 | Workflow | Flow | Highlights |
 |---|---|---|
@@ -818,10 +818,10 @@ PostgreSQL / PostGIS · SQLite · FastAPI · Streamlit · Docker
 <td width="50%" valign="top">
 
 ### 🔭 Building now
-- **Agentic workflows with human review** — bounded tool loops, approvals and audit trails
-- **GeoAI for flood & crop intelligence** — Sentinel-2, drainage operations and field QA
-- **Voice-first assistants** — realtime WebRTC conversation and multilingual voice replies
-- **[Steady](https://safdar-mindful-growth.safdarwatto7714.chatgpt.site/)** — a calm planning, learning &amp; wellbeing companion in English and Urdu
+- **Agentic workflows with human review**: bounded tool loops, approvals and audit trails
+- **GeoAI for flood & crop intelligence**: Sentinel-2, drainage operations and field QA
+- **Voice-first assistants**: realtime WebRTC conversation and multilingual voice replies
+- **[Steady](https://safdar-mindful-growth.safdarwatto7714.chatgpt.site/)**: a calm planning, learning &amp; wellbeing companion in English and Urdu
 
 ### 💬 Ask me about
 Python · RAG & citations · tool-calling agents · Streamlit apps · ArcGIS / QGIS / GEE · Power BI · CAD-to-GIS
@@ -830,9 +830,9 @@ Python · RAG & citations · tool-calling agents · Streamlit apps · ArcGIS / Q
 <td width="50%" valign="top">
 
 ### 🤝 Join in
-- ⭐ **Star** a repo you find useful — it helps others discover it
+- ⭐ **Star** a repo you find useful, it helps others discover it
 - 🐛 **Open an issue** with feedback, bugs or feature ideas on any app
-- 🍴 **Fork** a Streamlit app — most run locally with a single `pip install`
+- 🍴 **Fork** a Streamlit app; most run locally with a single `pip install`
 - 👋 **Follow** to see new agents, GeoAI tools and studies as they ship
 
 <p>
