@@ -29,6 +29,10 @@ I build Python applications that connect **language models, useful tools, spatia
 <a href="#about">👋 About</a> · <a href="#experience">💼 Experience</a> · <a href="#live">📡 Live Dashboard</a> · <a href="#generative-ai">🤖 Generative AI</a> · <a href="#geoai">🛰️ GeoAI & GIS</a> · <a href="#ml">🧠 Machine Learning</a> · <a href="#bi">📊 Business Intelligence</a> · <a href="#engineering">🏗️ Engineering</a> · <a href="#tools">🛠️ Tools & Libraries</a> · <a href="#learning">🌱 Steady</a> · <a href="#stats">📈 Stats & Community</a>
 </p>
 
+<p align="center">
+<img src="./assets/profile-globe.svg" alt="Rotating globe marking project locations in Pakistan and Riyadh, surrounded by specializations, tools in orbit and counts of projects delivered" width="100%" />
+</p>
+
 <a id="about"></a>
 ## 👋 About Me
 
