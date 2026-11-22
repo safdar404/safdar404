@@ -281,6 +281,8 @@ Educational health intake, vitals and health-GIS prototype; the predecessor of H
 
 ### 🇵🇰 CensusInsight PK
 
+<a href="https://censupakpop.streamlit.app/"><img src="./assets/cards/censusinsight-pk.webp" alt="CensusInsight PK dashboard showing the interactive globe and Pakistan census indicators" width="720" /></a>
+
 District-level analytics for Pakistan’s 2023 Population and Housing Census. Explore population density, growth, and urban–rural patterns through interactive maps and dashboards, compare population projections, and query census indicators through an AI assistant.
 
 **Stack:** Python · Streamlit · GeoJSON · D3.js · scikit-learn · Docker
