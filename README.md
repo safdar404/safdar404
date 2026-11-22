@@ -279,19 +279,20 @@ Educational health intake, vitals and health-GIS prototype; the predecessor of H
 <a id="geoai"></a>
 ## 🛰️ 02 · GeoAI, GIS & Spatial Decision Support
 
-### 🇵🇰 CensusInsight PK
-
-<a href="https://censupakpop.streamlit.app/"><img src="./assets/cards/censusinsight-pk.webp" alt="CensusInsight PK dashboard showing the interactive globe and Pakistan census indicators" width="720" /></a>
-
-District-level analytics for Pakistan’s 2023 Population and Housing Census. Explore population density, growth, and urban–rural patterns through interactive maps and dashboards, compare population projections, and query census indicators through an AI assistant.
-
-**Stack:** Python · Streamlit · GeoJSON · D3.js · scikit-learn · Docker
-
-[Open live Streamlit app](https://censupakpop.streamlit.app/) · [View source and Docker setup](https://github.com/safdar404/censupakpop)
-
-
-
 <table>
+
+<tr>
+<td width="34%" valign="middle">
+<a href="https://censupakpop.streamlit.app/"><img src="./assets/cards/censusinsight-pk-live.jpg" alt="CensusInsight PK live dashboard with interactive globe and census indicators" width="260" /></a><br /><sub>Live app screenshot</sub>
+</td>
+<td width="66%" valign="top"><strong>CensusInsight PK</strong><br />
+<sub>Pakistan 2023 Census · District-level GeoAI</sub><br /><br />
+Explore district populations through an interactive globe and maps, compare population projections, and query census indicators with the AI assistant.<br /><br />
+<sub>Streamlit · GeoJSON · D3.js · scikit-learn · Docker</sub><br />
+<a href="https://censupakpop.streamlit.app/"><strong>Open live app</strong></a> · <a href="https://github.com/safdar404/censupakpop">Source &amp; Docker setup</a>
+</td>
+</tr>
+
 <tr>
 <td width="34%" valign="middle">
 <a href="https://geosentinel-drain-floodops.neat-grove-8624.chatgpt.site/"><img src="./assets/cards/drain-floodops.svg" alt="GeoSentinel Drain FloodOps" width="260" /></a><br /><sub>Branded artwork · not a screenshot</sub>
