@@ -285,7 +285,7 @@ District-level analytics for Pakistan’s 2023 Population and Housing Census. Ex
 
 **Stack:** Python · Streamlit · GeoJSON · D3.js · scikit-learn · Docker
 
-[View source and Docker setup](https://github.com/safdar404/censupakpop)
+[Open live Streamlit app](https://censupakpop.streamlit.app/) · [View source and Docker setup](https://github.com/safdar404/censupakpop)
 
 
 
