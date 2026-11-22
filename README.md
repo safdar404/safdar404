@@ -279,6 +279,15 @@ Educational health intake, vitals and health-GIS prototype; the predecessor of H
 <a id="geoai"></a>
 ## 🛰️ 02 · GeoAI, GIS & Spatial Decision Support
 
+### 🇵🇰 CensusInsight PK
+
+District-level analytics for Pakistan’s 2023 Population and Housing Census. Explore population density, growth, and urban–rural patterns through interactive maps and dashboards, compare population projections, and query census indicators through an AI assistant.
+
+**Stack:** Python · Streamlit · GeoJSON · D3.js · scikit-learn · Docker
+
+[View source and Docker setup](https://github.com/safdar404/censupakpop)
+
+
 
 <table>
 <tr>
